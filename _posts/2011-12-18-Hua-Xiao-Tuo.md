@@ -12,7 +12,8 @@ A healthcare robot can be accompanied by an elderly person who is disable to tak
 ## Background research
 ![Git Bash](/images/HXT-image/HXT-image-02.jpg)
 ![Git Bash](/images/HXT-image/HXT-image-03.jpg)
- > Findings from this phase
+ > "Findings from this phase"
+ 
  In China, the hospital service is not stratified and Everyone tend to choose large, guaran-
 teed public hospitals for medical treatment, resulting in the crowding of patients.
 Medical resources are limited in hospital and the medical level is not balanced. It causes the issue that patients’ medical difficulties can not be effectively solved.
