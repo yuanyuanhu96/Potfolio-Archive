@@ -1,23 +1,26 @@
 ---
 layout: post
-title: 回车、换行、和文件末尾空行
-description: 回车和换行在不同系统下面定义不同，时不时会有一些小问题出来，git 经常出现的 No new line at the end of file 也让很多人费解，需要梳理一下
+title: FIRST-AID - WEARABLE DEVICE
+description: Many acute diseases are worsen when an old man falls down, an example is cerebral hemorrhage. This is the most urgent time, but they cannot ask for help. In order to provide them with first add and to bridge the gap between people who need help and those who offer a hand, this set of wearable device is needed.
 category: blog
 ---
 
-## 回车和换行
+## Background Research
+Over the past two decades, China’s population has been aging rapidly. As a result of China’s “one-child” policy and low mortality, the proportion of elderly citizens will continue to grow very quickly, increasing the stress on an already troubled health care system. Most of them surfer from chronic diseases and have to take care of themselves.
 
-回车 (Carriage Return) 和换行 (Line Feed) 的区别，[这里](http://stackoverflow.com/questions/1761051/difference-between-n-and-r)有一个历史原因可参考：
+### Elder life quality questionnaire
 
-> 在计算机还没有出现之前，有一种叫做电传打字机（Teletype Model 33）的玩意，每秒钟可以打10个字符。但是它有一个问题，就是打完一行换行的时候，要用去0.2秒，正好可以打两个字符。要是在这0.2秒里面，又有新的字符传过来，那么这个字符将丢失。
+## Further Research & Problem Analysis
 
-> 于是，研制人员想了个办法解决这个问题，就是在每行后面加两个表示结束的字符。一个叫做"回车"，告诉打字机把打印头定位在左边界；另一个叫做"换行"，告诉打字机把纸向下移一行。
+According to NHS report, around one in three adults over 65 living at home have at least one fall a year, and about half of them have more frequent falls. Most falls don't result in serious injury. However, most of Chinese older people have circulation system disease,such as hypertension, cerebrovascular disease and diabetes mellitus. If they fall down, it can cause serious harm, even to death.
 
-发明计算机时，这个概念被沿用下来，但因为条件的限制和设计者的喜好，有了一些分歧：
+## Idea
+In this topic I would like to explore what changes or even new possibility in the state of exchange between people, behavior and relationships will be brought with the use of public systems and the interaction between people.
 
-- Unix 系统里，每行结尾只有"<换行>"，即"\n"
-- Windows 系统里面，每行结尾是"<回车><换行>"，即"\r\n"
-- 在老的 Mac 系统里，每行结尾是"<回车>"，即"\r"
+## Tumbling test
+## Final works
+### Whole system
+### Protection product & Warning product
 
 我们来验证一下，我在 Windows 下用记事本新建一个文本文件，它的二进制编码如下：
 
