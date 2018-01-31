@@ -4,15 +4,8 @@ title: Eating Flow, SMART PRODUCT
 description: The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, etc. in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly.
 category: blog
 ---
-
-## 回车和换行
-
-回车 (Carriage Return) 和换行 (Line Feed) 的区别，[这里](http://stackoverflow.com/questions/1761051/difference-between-n-and-r)有一个历史原因可参考：
-
-> 在计算机还没有出现之前，有一种叫做电传打字机（Teletype Model 33）的玩意，每秒钟可以打10个字符。但是它有一个问题，就是打完一行换行的时候，要用去0.2秒，正好可以打两个字符。要是在这0.2秒里面，又有新的字符传过来，那么这个字符将丢失。
-
-> 于是，研制人员想了个办法解决这个问题，就是在每行后面加两个表示结束的字符。一个叫做"回车"，告诉打字机把打印头定位在左边界；另一个叫做"换行"，告诉打字机把纸向下移一行。
-
+## Background
+The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, etc. in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly.
 发明计算机时，这个概念被沿用下来，但因为条件的限制和设计者的喜好，有了一些分歧：
 
 - Unix 系统里，每行结尾只有"<换行>"，即"\n"
