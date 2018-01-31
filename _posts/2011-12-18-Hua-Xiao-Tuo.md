@@ -28,8 +28,8 @@ Patients have both basic needs and emotional needs, and most of those needs shou
 ![Git Bash](/images/HXT-image/HXT-image-07.jpg)
 ## Introducing of robot
 <li> Robot is directly connected with online data, so it can bridge the infomation gap. </li>
-<li> Robot is always online, so it can care when human is absent. <li>
-<li> Robot have a natural interaction with human, so it can support emotional fuction. <li>
+<li> Robot is always online, so it can care when human is absent. <li/>
+<li> Robot have a natural interaction with human, so it can support emotional fuction. <li/>
  
 ![Git Bash](/images/HXT-image/HXT-image-09.jpg)
 ![Git Bash](/images/HXT-image/HXT-image-10.jpg)
@@ -48,14 +48,6 @@ She can do the health examination and patiently explained the symp- toms to the 
 ### Functions & feartures
 ![Git Bash](/images/HXT-image/HXT-image-15.jpg)
 
-
-
-> "I’m a programmer, photographer, dancer & bassist from Rochester, New York."
-
-
-<li>清晰、简洁的文件组织，完美的永久链接方案，既漂亮、又可定制</li>
-<li>博客静态化，速度快</li>
-- [Jekyll][]是完美的
-**生命在于折腾**。
+**Usage (Chinese Version)**。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vAYRGef-Oes?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
