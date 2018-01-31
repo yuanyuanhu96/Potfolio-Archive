@@ -27,9 +27,9 @@ Patients have both basic needs and emotional needs, and most of those needs shou
 ## Problem define
 ![Git Bash](/images/HXT-image/HXT-image-07.jpg)
 ## Introducing of robot
-<li> Robot is directly connected with online data, so it can bridge the infomation gap. </li>
-<li> Robot is always online, so it can care when human is absent. <li/>
-<li> Robot have a natural interaction with human, so it can support emotional fuction. <li/>
+- Robot is directly connected with online data, so it can bridge the infomation gap.
+- Robot is always online, so it can care when human is absent. 
+- Robot have a natural interaction with human, so it can support emotional fuction. 
  
 ![Git Bash](/images/HXT-image/HXT-image-09.jpg)
 ![Git Bash](/images/HXT-image/HXT-image-10.jpg)
