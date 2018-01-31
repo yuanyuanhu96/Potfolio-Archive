@@ -33,6 +33,6 @@ For kids aged 3-5, playing game is their main activity, as well as the way they 
 ![Git Bash](/Yootopia-img/Yootopia-img-09.jpg)
 ![Git Bash](/Yootopia-img/Yootopia-img-10.jpg)
 ### UI design
-![Git Bash](/Yootopia-img/Yootopia-img-12.jpg)
+![Git Bash](/Yootopia-img/Yootopia-img-11.jpg)
 ### Story board
 ![Git Bash](/Yootopia-img/Yootopia-img-12.jpg)
