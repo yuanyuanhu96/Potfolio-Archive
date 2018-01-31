@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 回车、换行、和文件末尾空行
-description: 回车和换行在不同系统下面定义不同，时不时会有一些小问题出来，git 经常出现的 No new line at the end of file 也让很多人费解，需要梳理一下
+title: Eating Flow, SMART PRODUCT
+description: The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, etc. in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly.
 category: blog
 ---
 
