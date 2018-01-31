@@ -4,11 +4,26 @@ title:      HUA XIAO TUO, HEALTH CARE ROBOT
 category: blog
 description: Elderly care has become a thorny issue, especially in the ward, professional care workers are in severe shortage. In this situation, the healthcare robot came into being.A healthcare robot can be accompanied by an elderly person who is disable to take care of themselves and make the life in the ward no longer depressing.
 ---
-
+![Git Bash](/images/HXT-image/HXT-image-01.jpg)
 ## Design brief
 
 Elderly care has become a thorny issue, especially in the ward, professional care workers are in severe shortage. In this situation, the healthcare robot came into being.
 A healthcare robot can be accompanied by an elderly person who is disable to take care of themselves and make the life in the ward no longer depressing.
+
+![Git Bash](/images/HXT-image/HXT-image-02.jpg)
+![Git Bash](/images/HXT-image/HXT-image-03.jpg)
+![Git Bash](/images/HXT-image/HXT-image-04.jpg)
+![Git Bash](/images/HXT-image/HXT-image-05.jpg)
+![Git Bash](/images/HXT-image/HXT-image-06.jpg)
+![Git Bash](/images/HXT-image/HXT-image-07.jpg)
+![Git Bash](/images/HXT-image/HXT-image-08.jpg)
+![Git Bash](/images/HXT-image/HXT-image-09.jpg)
+![Git Bash](/images/HXT-image/HXT-image-10.jpg)
+![Git Bash](/images/HXT-image/HXT-image-11.jpg)
+![Git Bash](/images/HXT-image/HXT-image-12.jpg)
+![Git Bash](/images/HXT-image/HXT-image-13.jpg)
+![Git Bash](/images/HXT-image/HXT-image-14.jpg)
+![Git Bash](/images/HXT-image/HXT-image-15.jpg)
 
 * [Steve Losh][]
 * [Derek Sivers][]
