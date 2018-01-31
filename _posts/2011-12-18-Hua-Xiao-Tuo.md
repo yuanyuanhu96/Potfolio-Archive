@@ -20,7 +20,7 @@ We came to Xinhua Hospital and observed the general situation in hospital and th
 We got aware of people’s daily life during hospital stay, the demands of people in different positions and the estrangement during communication.
 ![Git Bash](/images/HXT-image/HXT-image-04.jpg)
 ## Analysis
-Patients have both basic needs and emotional needs, and most of those needs should be met with others’ partici- pation. However, because of the limited resources and absence of proper tools, many barriers have appeared. These are the places where we can work.
+Patients have both basic needs and emotional needs, and most of those needs should be met with others’ partici- pation. However, because of the limited resources and absence of proper tools, many barriers have appeared. These are the places where we can work. 
 ![Git Bash](/images/HXT-image/HXT-image-05.jpg)
 ## Persona
 ![Git Bash](/images/HXT-image/HXT-image-06.jpg)
