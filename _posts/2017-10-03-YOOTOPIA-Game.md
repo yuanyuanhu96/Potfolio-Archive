@@ -24,7 +24,7 @@ Undeniably gender is the most apparent feature of kids, so they can hardly escap
 ![Git Bash](/Yootopia-img/Yootopia-img-06.jpg)
 ### Game as the Medium
 For kids aged 3-5, playing game is their main activity, as well as the way they gather knowledges and form personali- ties. Game is the joint of the elements above. Unfortunately but typically, parents choose the game for children when they buy certain toy in the market, and children also conduct gendered play with each other.
-## Case Study
+### Case Study
 ![Git Bash](/Yootopia-img/Yootopia-img-07.jpg)
 ## Ideation & concept
 ![Git Bash](/Yootopia-img/Yootopia-img-08.jpg)
