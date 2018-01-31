@@ -136,3 +136,4 @@ Disqus是一个社会化的评论解决方案，请允许我使用这个烂透�
 [7]: http://progit.org/book/zh/    "Pro Git"
 [8]: http://markdown.tw/    "Markdown语法"
 [9]: http://www.cnblogs.com/bangerlee/archive/2011/09/11/2173632.html   "Why I Blog翻译版"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAYRGef-Oes?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
