@@ -11,31 +11,29 @@ Elderly care has become a thorny issue, especially in the ward, professional car
 A healthcare robot can be accompanied by an elderly person who is disable to take care of themselves and make the life in the ward no longer depressing.
 ## Background
 ![Git Bash](/images/HXT-image/HXT-image-02.jpg)
-## Background
+## Findings from this phase
 ![Git Bash](/images/HXT-image/HXT-image-03.jpg)
-## Background
+## Field research
 ![Git Bash](/images/HXT-image/HXT-image-04.jpg)
-## Background
+## Analysis
 ![Git Bash](/images/HXT-image/HXT-image-05.jpg)
-## Background
+## Persona
 ![Git Bash](/images/HXT-image/HXT-image-06.jpg)
-## Background
+## Problem define
 ![Git Bash](/images/HXT-image/HXT-image-07.jpg)
-## Background
+## Introducing of robot
 ![Git Bash](/images/HXT-image/HXT-image-08.jpg)
-## Background
 ![Git Bash](/images/HXT-image/HXT-image-09.jpg)
-## Background
 ![Git Bash](/images/HXT-image/HXT-image-10.jpg)
-## Background
+## Form development
 ![Git Bash](/images/HXT-image/HXT-image-11.jpg)
-## Background
+## Final works
 ![Git Bash](/images/HXT-image/HXT-image-12.jpg)
-## Background
+## Journey map
 ![Git Bash](/images/HXT-image/HXT-image-13.jpg)
-## Background
+## Scenarios
 ![Git Bash](/images/HXT-image/HXT-image-14.jpg)
-## Background
+## Functions & feartures
 ![Git Bash](/images/HXT-image/HXT-image-15.jpg)
 
 * [Steve Losh][]
