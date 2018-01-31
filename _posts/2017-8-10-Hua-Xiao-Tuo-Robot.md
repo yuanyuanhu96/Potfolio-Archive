@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      HUA XIAO TUO, HEALTH CARE ROBOT
+title:      Hua Xiao Tuo, HEALTH CARE ROBOT
 category: blog
 description: Elderly care has become a thorny issue, especially in the ward, professional care workers are in severe shortage. In this situation, the healthcare robot came into being.A healthcare robot can be accompanied by an elderly person who is disable to take care of themselves and make the life in the ward no longer depressing.
 ---
