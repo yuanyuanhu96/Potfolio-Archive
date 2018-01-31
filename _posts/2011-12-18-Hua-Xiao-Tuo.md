@@ -10,7 +10,7 @@ A healthcare robot can be accompanied by an elderly person who is disable to tak
 ## Background research
 ![Git Bash](/images/HXT-image/HXT-image-02.jpg)
 ![Git Bash](/images/HXT-image/HXT-image-03.jpg)
- > "Findings from this phase"
+ > Findings from this phase
  
  In China, the hospital service is not stratified and Everyone tend to choose large, guaran-
 teed public hospitals for medical treatment, resulting in the crowding of patients.
@@ -27,7 +27,10 @@ Patients have both basic needs and emotional needs, and most of those needs shou
 ## Problem define
 ![Git Bash](/images/HXT-image/HXT-image-07.jpg)
 ## Introducing of robot
-![Git Bash](/images/HXT-image/HXT-image-08.jpg)
+<li> Robot is directly connected with online data, so it can bridge the infomation gap. </li>
+<li> Robot is always online, so it can care when human is absent. <li>
+<li> Robot have a natural interaction with human, so it can support emotional fuction. <li>
+ 
 ![Git Bash](/images/HXT-image/HXT-image-09.jpg)
 ![Git Bash](/images/HXT-image/HXT-image-10.jpg)
 ## Form development
