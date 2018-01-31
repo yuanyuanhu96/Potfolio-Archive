@@ -8,6 +8,7 @@ layout: default
       <div class="info-card">
         <h1>Yuanyuan Hu</h1>
       </div>
+      <h1><Interaction Design></h1>
       <div id="particles-js"></div>
     </div>
 
