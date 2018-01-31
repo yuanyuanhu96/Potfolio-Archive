@@ -14,8 +14,10 @@ Gender stereotype is initially generated between 3-5 years old and it is difficu
 
 And they should be encouraged to have good qualities no matter it is “girlish” or “manly”.
 ## Further Research
-### 3 typical representations of gender stereotypes
+### Desk research
+3 typical representations of gender stereotypes
 ![Git Bash](/Yootopia-img/Yootopia-img-04.jpg)
+### Field research
 In order to explore visual language for kids aged 3-5 and their parents’ opinion, I organized  a workshop In Yangguang Kindergarten, located in Changzhou, China.
 ![Git Bash](/Yootopia-img/Yootopia-img-05.jpg)
 ## Analysis
