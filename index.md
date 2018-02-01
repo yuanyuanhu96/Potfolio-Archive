@@ -22,7 +22,7 @@ layout: default
       <ul class="artical-list">
         {% for post in site.categories.blog %}
         <li>
-          <a href="{{ post.url }}" class="keyshot">{{ post.keyshot }}</a>       
+          <a href="{{ post.url }}" target="_blank"><img src="/images/Project-icon-png/1_favicon.ico" alt="" width="50"/></a>    
           <a href="{{ post.url }}" class="title">{{ post.title }}</a>
           <div class="title-desc">{{ post.description }}</div>
         </li>
