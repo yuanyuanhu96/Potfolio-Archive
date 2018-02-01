@@ -12,7 +12,7 @@ layout: default
   }
    .pdf-icon{
    width: 100px;
-   height: 100px;
+   height: 200px;
    border:0px solid #ccc;
    box-sizing: border-box;
   }
@@ -26,7 +26,7 @@ layout: default
         <h1>Portfolio of</h1>
         <h1>Yuanyuan Hu</h1>
         <div class="pdf-icon">
-          <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="100"/></a>
+          <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="200"/></a>
         </div>
        </div>
       <div id="particles-js"></div>
