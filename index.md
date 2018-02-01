@@ -26,7 +26,7 @@ layout: default
         <h1>Portfolio of</h1>
         <h1>Yuanyuan Hu</h1>
         <div class="pdf-icon">
-          <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="200"/></a>
+          <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="150"/></a>
         </div>
        </div>
       <div id="particles-js"></div>
