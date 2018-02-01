@@ -6,6 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
+        <h1>Portfolio of</h1>
         <h1>Yuanyuan Hu</h1>
         <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="100"/></a>
       
