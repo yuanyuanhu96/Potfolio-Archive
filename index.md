@@ -11,7 +11,7 @@ layout: default
    box-sizing: border-box;
   }
    .project-title{
-   width: 360px;
+   width: 500px;
    height: 60px;
    border:1px solid #ccc;
    float: left;
