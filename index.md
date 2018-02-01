@@ -10,13 +10,6 @@ layout: default
    float: right;
    box-sizing: border-box;
   }
-   .project-title{
-   width: 500px;
-   height: 60px;
-   border:1px solid #ccc;
-   float: left;
-   box-sizing: border-box;
-  }
   </style>
 <head>
 
