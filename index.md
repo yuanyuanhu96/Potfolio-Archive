@@ -10,6 +10,12 @@ layout: default
    float: right;
    box-sizing: border-box;
   }
+   .pdf-icon{
+   width: 100px;
+   height: 100px;
+   border:0px solid #ccc;
+   box-sizing: border-box;
+  }
   </style>
 <head>
 
@@ -19,9 +25,10 @@ layout: default
       <div class="info-card">
         <h1>Portfolio of</h1>
         <h1>Yuanyuan Hu</h1>
-        <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="100"/></a>
-      
-      </div>
+        <div class="pdf-icon">
+          <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="100"/></a>
+        </div>
+       </div>
       <div id="particles-js"></div>
     </div>
 
