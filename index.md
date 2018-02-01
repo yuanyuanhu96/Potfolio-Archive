@@ -5,7 +5,7 @@ layout: default
   <style>
    .project-icon,.project-title{
    width: 50%;
-   height: 300px;
+   height: 60px;
    border:1px solid #ccc;
    float: left;
    box-sizing: border-box;
