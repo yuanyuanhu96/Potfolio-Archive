@@ -6,7 +6,7 @@ layout: default
    .project-icon{
    width: 60px;
    height: 60px;
-   border:1px solid #ccc;
+   border:0px solid #ccc;
    float: right;
    box-sizing: border-box;
   }
