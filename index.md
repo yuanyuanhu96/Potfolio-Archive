@@ -3,8 +3,15 @@ layout: default
 ---
 <head>
   <style>
-   .project-icon,.project-title{
-   width: 50%;
+   .project-icon{
+   width: 60%;
+   height: 60px;
+   border:1px solid #ccc;
+   float: left;
+   box-sizing: border-box;
+  }
+   .project-title{
+   width: 300%;
    height: 60px;
    border:1px solid #ccc;
    float: left;
