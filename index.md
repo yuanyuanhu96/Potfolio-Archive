@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<head>
+  <style>
+   .project-icon,.project-title{
+   width: 50%;
+   height: 300px;
+   border:1px solid #ccc;
+   float: left;
+   box-sizing: border-box;
+  }
+  </style>
+<head>
 
 <body>
   <div class="index-wrapper">
@@ -22,7 +33,7 @@ layout: default
           <a href="{{ post.url }}" target="_blank">{{ post.icon }}</a>
         </div>
         <div class="project-title">
-                 <a href="{{ post.url }}" class="title">{{ post.title }}</a>
+        <a href="{{ post.url }}" class="title">{{ post.title }}</a>
         </div>  
           <div class="title-desc">{{ post.description }}</div>
         </li>
