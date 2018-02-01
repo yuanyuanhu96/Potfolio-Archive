@@ -7,7 +7,7 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>Yuanyuan Hu</h1>
-        <a href="http://hu-yuanyuan.com/Hua-Xiao-Tuo" target="_blank"><img src="/images/Download-PDF.png" alt="" width="100"/></a>
+        <a href="http://HuYuanyuan96.github.io/Supplementary/Portfolio of Yuanyuan Hu.pdf" target="_blank"><img src="/images/Download-PDF.png" alt="" width="100"/></a>
       
       </div>
       <div id="particles-js"></div>
