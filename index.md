@@ -4,14 +4,14 @@ layout: default
 <head>
   <style>
    .project-icon{
-   width: 60;
+   width: 60px;
    height: 60px;
    border:1px solid #ccc;
-   float: left;
+   float: right;
    box-sizing: border-box;
   }
    .project-title{
-   width: 300;
+   width: 300px;
    height: 60px;
    border:1px solid #ccc;
    float: left;
