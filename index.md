@@ -12,7 +12,7 @@ layout: default
         <a href="https://huyuanyuan96.github.io/carriage-return-line-feed-new-line-end-file" target="_blank"><img src="/images/Project-icon-png/Project-icon-03.png" alt="" width="100"/></a>
                 <a href="https://huyuanyuan96.github.io/eating-flow" target="_blank"><img src="/images/Project-icon-png/Project-icon-04.png" alt="" width="100"/></a>
                 <a href="https://huyuanyuan96.github.io/wasa-bean" target="_blank"><img src="/images/Project-icon-png/Project-icon-05.png" alt="" width="100"/></a>
-                <a href="https://huyuanyuan96.github.io/carriage-return-line-feed-new-line-end-file" target="_blank"><img src="/images/Project-icon-png/Project-icon-06.png" alt="" width="50"/></a>
+                <a href="https://huyuanyuan96.github.io/carriage-return-line-feed-new-line-end-file" target="_blank"><img src="/images/Project-icon-png/Project-icon-06.png" alt="" width="100"/></a>
                 <a href="https://huyuanyuan96.github.io/Ada-bird" target="_blank"><img src="/images/Project-icon-png/Project-icon-07.png" alt="" width="100"/></a>
       </div>
       <div id="particles-js"></div>
