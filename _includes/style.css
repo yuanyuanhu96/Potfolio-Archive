@@ -520,7 +520,7 @@ font-weight: lighter;
   background: #B1D3E2;
   width: 900px;
   margin: 0 auto;
-  padding: 30px 60px;
+  padding: 60px 60px;
 }
 @media screen and (max-width: 767px) {
   .about-wrapper {
