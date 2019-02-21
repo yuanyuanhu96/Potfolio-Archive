@@ -334,12 +334,23 @@ h1 span:nth-child(11) {
    float: left;
    box-sizing: border-box;
   }
+@media screen and (max-width: 767px) {
+  .project-icon {
+   float: none;
+  }
+}
+
+
    .project-text{
    margin-left: 135px;
    //margin-top: 50px;
-
   }  
 
+@media screen and (max-width: 767px) {
+     .project-text {
+    margin-left: 0px;
+  }
+}
 
 
 
@@ -370,6 +381,10 @@ h1 span:nth-child(11) {
   line-height: 1.6;
 font-weight: lighter;
 }
+
+
+
+
 
 
   .Foot {
@@ -563,7 +578,7 @@ font-weight: lighter;
 @media screen and (max-width: 767px) {
   .about-wrapper {
     width: 100%;
-    padding: 0 7.5% 30px;
+    padding: 30px 7.5% 30px;
   }
 }
 .about-wrapper .aboutme {
