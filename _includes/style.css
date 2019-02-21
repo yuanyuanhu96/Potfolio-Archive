@@ -338,6 +338,7 @@ h1 span:nth-child(11) {
   .project-icon {
    width: 100%;
    float: none;
+	  margin-bottom: 50px;
   }
 }
 
