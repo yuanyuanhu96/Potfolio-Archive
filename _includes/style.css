@@ -324,6 +324,25 @@ h1 span:nth-child(11) {
 .index-wrapper .artical-list li {
   margin-bottom: 50px;
 }
+
+
+    
+   .project-icon{
+   width: 100px;
+   height: 100px;
+   border:0px solid #ccc;
+   float: left;
+   box-sizing: border-box;
+  }
+   .project-text{
+   margin-left: 135px;
+   //margin-top: 50px;
+
+  }  
+
+
+
+
 .index-wrapper .title {
   display: block;
   font-size: 18px;
@@ -351,8 +370,27 @@ h1 span:nth-child(11) {
   line-height: 1.6;
 font-weight: lighter;
 }
+
+
+  .Foot {
+  height: 170px;
+  float: left;
+  //background: linear-gradient( #8CC5DF, #A7DAF1); /* 标准的语法 */
+  background-color: #B1D3E2;
+  min-width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 40px;
+  font-weight: lighter;
+  margin-top: 10px;
+
+}
+
+
+
+
 .body-post {
-  background: #f5f5f5;
+  background: #ffffff;
 }
 @media screen and (max-width: 767px) {
   .body-post {
