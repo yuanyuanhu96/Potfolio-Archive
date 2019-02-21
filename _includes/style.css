@@ -334,6 +334,8 @@ h1 span:nth-child(11) {
    float: left;
    box-sizing: border-box;
   }
+
+/*
 @media screen and (max-width: 767px) {
   .project-icon {
    width: 100%;
@@ -341,19 +343,20 @@ h1 span:nth-child(11) {
 margin-bottom: 30px;
   }
 }
-
+*/
 
    .project-text{
    margin-left: 135px;
    //margin-top: 50px;
   }  
 
+/*
 @media screen and (max-width: 767px) {
      .project-text {
     margin-left: 0px;
   }
 }
-
+*/
 
 
 .index-wrapper .title {
