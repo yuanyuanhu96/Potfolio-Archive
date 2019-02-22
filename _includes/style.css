@@ -447,8 +447,8 @@ font-weight: lighter;
 }
 
 a.NaviProject:link {text-decoration:none;color: #000000;}
-a.NaviProject:visited {color: #000000;}
-a.NaviProject:visited {background-color:#FFFF85;}
+a.NaviProject:active:visited {color: #000000;}
+a.NaviProject:active:visited {background-color:#FFFF85;}
 a.NaviProject:hover {background-color:#9BE4F3;}
 a.NaviProject:active {background-color:#FF704D;}
 
