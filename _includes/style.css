@@ -446,6 +446,8 @@ font-weight: lighter;
 .Classification {
   font-size: 18px;
   margin-top: 200px;
+	  margin-left: 20px;
+
 	//background-color: #FFD700;//测试区域
 }
 
@@ -455,7 +457,6 @@ font-weight: lighter;
 	//background-color: #FA8072;
   font: bolder;
 	margin-top: 10px;
-  margin-left: 10px;
 }
 
 
@@ -467,7 +468,6 @@ font-weight: lighter;
   font: bolder;
 	margin-top: 1px;
   font-size: 16px;
-  margin-left: 20px;
   font-weight: 300;
 }
 
