@@ -474,6 +474,18 @@ margin-left: 20px;
 	//background-color: #FFD700;//测试区域
 }
 
+
+@media screen and (max-width: 767px) {
+.icon-Hu {
+	  height: 200px;
+	float:left;
+
+  }
+}
+
+
+
+
 .Classification {
   font-size: 18px;
   margin-top: 50px;
@@ -481,6 +493,20 @@ margin-left: 20px;
 
 	//background-color: #FFD700;//测试区域
 }
+
+
+@media screen and (max-width: 767px) {
+.icon-Hu {
+	  height: 200px;
+	 margin-left: 150px;
+
+  }
+}
+
+
+
+
+
 
 .NaviType {
 
