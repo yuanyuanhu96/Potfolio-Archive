@@ -477,6 +477,7 @@ margin-left: 20px;
 
 @media screen and (max-width: 767px) {
 .icon-Hu {
+	  margin-top: 20px;
 	  height: 200px;
 	float:left;
 
@@ -497,6 +498,7 @@ margin-left: 20px;
 
 @media screen and (max-width: 767px) {
 .icon-Hu {
+		  margin-top: 20px;
 	  height: 200px;
 	 margin-left: 150px;
 
