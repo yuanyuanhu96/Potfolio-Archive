@@ -696,11 +696,16 @@ margin-left: 20px;
 .post-wrapper table {
   margin: 0 auto;
 }
+
+
+
+
 .about-wrapper {
   background: #B1D3E2;
-  width: 900px;
+ max-width: 1000px;
   margin: 0 auto;
-  padding: 60px 60px;
+  padding: 0px 0px 80px 100px;
+	    width: 85%;
 }
 @media screen and (max-width: 767px) {
   .about-wrapper {
