@@ -539,9 +539,9 @@ margin-left: 20px;
 
 .post-wrapper {
   width: 900px;
-  margin-left: 100px;
+  margin: 100px auto 50px;
   background: #fff;
-  padding: 80px 60px;
+  padding: 80px 160px;
 }
 @media screen and (max-width: 767px) {
   .post-wrapper {
