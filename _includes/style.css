@@ -447,12 +447,17 @@ font-weight: lighter;
 	padding: 20px;
 }
 
+
+
+
 @media screen and (max-width: 767px) {
 .NaviBar {
-	  	position:absolute;
+	  	position:relative;
 	  width: 100%;
 
 	float:none;
+	    max-width: none;
+
 	
 
   }
