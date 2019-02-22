@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eating Flow, SMART PRODUCT
+shortTitle: Eating Flow, SMART PRODUCT
+
 description: The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, etc. in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly.
 icon: <img src="/images/Project-icon-png/Project-icon-04.png" alt="" width="100"/>
 category: blog
