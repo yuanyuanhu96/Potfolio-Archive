@@ -443,9 +443,19 @@ font-weight: lighter;
 	padding: 20px;
 }
 
+
+.icon-Hu
+
+{
+  margin-top: 100px;
+margin-left: 20px;
+
+	//background-color: #FFD700;//测试区域
+}
+
 .Classification {
   font-size: 18px;
-  margin-top: 200px;
+  margin-top: 100px;
 	  margin-left: 20px;
 
 	//background-color: #FFD700;//测试区域
