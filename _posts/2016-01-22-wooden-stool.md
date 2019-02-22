@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3/6 stool, DETACHABLE FURNITURE
+shortTitle: 3/6 stool
 icon: <img src="/images/Project-icon-png/Project-icon-06.png" alt="" width="100"/>
 description: The design of this stool is a experiment of structure.The designer separated each foot of the stool into two parts and joint them with different Rungs, forming 3 equal wooden compo- nents. And the acrylic panel is curving in order to lock 3 components together. Foot pad made of nylon also plays the role of fastening of each foot.
 category: blog
