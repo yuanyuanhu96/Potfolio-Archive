@@ -158,6 +158,18 @@ a.external {
 a.external:hover {
   background-position: right -15px;
 }
+
+
+
+a.NaviProject {
+text-decoration:none;
+color: #000000;
+}
+
+a.NaviProject:hover {background-color:#9BE4F3;}
+
+
+
 .index-wrapper .aside {
   position: fixed;
   top: 0;
@@ -445,12 +457,6 @@ font-weight: lighter;
 	margin-top: 10px;
   margin-left: 10px;
 }
-
-a.NaviProject:link {text-decoration:none;color: #000000;}
-a.NaviProject:active:visited {color: #000000;}
-a.NaviProject:active:visited {background-color:#FFFF85;}
-a.NaviProject:hover {background-color:#9BE4F3;}
-a.NaviProject:active {background-color:#FF704D;}
 
 
 
