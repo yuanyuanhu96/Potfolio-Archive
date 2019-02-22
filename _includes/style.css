@@ -417,6 +417,48 @@ font-weight: lighter;
     background: #fff;
   }
 }
+
+
+
+
+.NaviBar {
+	float:left;
+  width: 200px;
+	height: 500px;
+	//background-color: #5DD3EB;
+  font: bolder;
+	position:fixed;
+	padding: 20px;
+}
+
+.Classification {
+  font-size: 18px;
+  margin-top: 200px;
+	//background-color: #FFD700;//测试区域
+}
+
+.NaviType {
+
+	height: 24px;
+	//background-color: #FA8072;
+  font: bolder;
+	margin-top: 10px;
+  margin-left: 10px;
+}
+
+.NaviProject {
+
+	height: px;
+	//background-color: #FFB6C1;//测试区域
+  font: bolder;
+	margin-top: 1px;
+  font-size: 16px;
+  margin-left: 20px;
+  font-weight: 300;
+}
+
+
+
 .post-wrapper {
   width: 900px;
   margin: 0 auto;
