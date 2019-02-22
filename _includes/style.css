@@ -502,7 +502,7 @@ margin-left: 20px;
 .Classification {
 		  margin-top: 20px;
 	  height: 200px;
-	 margin-left: 150px;
+	 margin-left: 20px;
 		float:right;
 
 
@@ -682,7 +682,7 @@ margin-left: 20px;
   font-style: italic;
 }
 .post-wrapper img {
-  max-width: 800px;
+  max-width: 90%;
   display: block;
   margin: 5px auto;
 }
