@@ -698,13 +698,20 @@ margin-left: 20px;
 }
 
 
+.post-wrapper {
+  width: 900px;
+  margin: 100px auto 50px;
+  background: #fff;
+  padding: 0px 0px 80px 100px;
+	    width: 85%;
 
+}
 
 .about-wrapper {
+	
   background: #B1D3E2;
- max-width: 1000px;
   margin: 0 auto;
-  padding: 0px 0px 80px 100px;
+  padding: 100px 0px 80px 100px;
 	    width: 85%;
 }
 @media screen and (max-width: 767px) {
