@@ -169,6 +169,18 @@ color: #000000;
 a.NaviProject:hover {background-color:#9BE4F3;}
 
 
+a.icon-Hu-link{
+
+}
+
+a.icon-Hu-link:hover {
+  padding-right: 5px;
+}
+
+
+
+
+
 
 .index-wrapper .aside {
   position: fixed;
