@@ -192,7 +192,7 @@ a.NaviProject:hover {background-color:#9BE4F3;}
 }
 .index-wrapper .info-card {
   position: relative;
-  margin: 0 auto;
+  margin: 100px auto;
 width: 80%;
   text-align: middle;
 	  background: #D5D8FF;
@@ -339,7 +339,7 @@ margin-top:50px;
   .index-wrapper .index-content {
     margin-left: 0;
     padding-right: 0;
-	  maxw-idth：900px;
+	  max-width：900px;
   }
 }
 .index-wrapper .artical-list {
