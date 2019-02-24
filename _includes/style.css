@@ -191,8 +191,7 @@ a.NaviProject:hover {background-color:#9BE4F3;}
 }
 .index-wrapper .info-card {
   position: absolute;
-  margin-top: 100px;
-margin-left: 100px;
+  margin-top: auto;
 	width: 80%;
   text-align: middle;
 	  background: #D5D8FF;
