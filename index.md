@@ -28,9 +28,7 @@ layout: default
    <div class="resume">
     <a class="resume-link" href="http://HuYuanyuan96.github.io/Resume_HU.pdf" target="_blank"> <img src="/images/Resume.svg" alt="" width="100"/></a>
    </div>
-        
-        
-       </div>
+  </div>
       <div id="particles-js"></div>
     </div>
 
