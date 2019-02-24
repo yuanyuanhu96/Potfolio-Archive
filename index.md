@@ -26,7 +26,7 @@ layout: default
     </div>
         
    <div class="resume">
-    <a class="resume-link" href="http://HuYuanyuan96.github.io/Resume_HU.pdf" src="/imagesResume.svg" alt="" width="100"/></a>
+    <a class="resume-link"> href="http://HuYuanyuan96.github.io/Resume_HU.pdf" src="/imagesResume.svg" alt="" width="100"/></a>
    </div>
         
         
