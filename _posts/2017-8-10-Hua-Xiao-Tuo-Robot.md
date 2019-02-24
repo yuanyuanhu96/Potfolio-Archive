@@ -23,21 +23,21 @@ Medical resources are limited in hospital and the medical level is not balanced.
 ## Further research
 We came to Xinhua Hospital and observed the general situation in hospital and the living condition of the patients. Meanwhile, we visited 15 people, having deep conversation with them.
 We got aware of people’s daily life during hospital stay, the demands of people in different positions and the estrangement during communication.
-![Git Bash](images/HXT/HXT-img-04.jpg)
+![Git Bash](images/HXT/HXT-img-04.svg)
 ## Analysis
 Patients have both basic needs and emotional needs, and most of those needs should be met with others’ partici- pation. However, because of the limited resources and absence of proper tools, many barriers have appeared. These are the places where we can work. 
-![Git Bash](images/HXT/HXT-img-05.jpg)
+![Git Bash](images/HXT/HXT-img-05.svg)
 ## Persona
-![Git Bash](images/HXT/HXT-img-06.jpg)
+![Git Bash](images/HXT/HXT-img-06.svg)
 ## Problem define
-![Git Bash](images/HXT/HXT-img-07.jpg)
+![Git Bash](images/HXT/HXT-img-07.svg)
 ## Introducing of robot
 - Robot is directly connected with online data, so it can bridge the infomation gap.
 - Robot is always online, so it can care when human is absent. 
 - Robot have a natural interaction with human, so it can support emotional fuction. 
  
 ![Git Bash](HXT-img/HXT-img-09.jpg)
-![Git Bash](images/HXT/HXT-img-10.jpg)
+![Git Bash](images/HXT/HXT-img-10.svg)
 ## Form development
 We design its form, according to its functions and the ideal image it will present, and adjust it to contain all structures and hardwares
 ![Git Bash](HXT-img/HXT-img-11.jpg)
@@ -47,7 +47,7 @@ She can serve as a nurse, health care workers and family role, responsible for i
 She can do the health examination and patiently explained the symp- toms to the patient. More important- ly, she can make the life in the ward no longer boring.
 ![Git Bash](HXT-img/HXT-img-12.jpg)
 ### Journey map
-![Git Bash](images/HXT/HXT-img-13.jpg)
+![Git Bash](images/HXT/HXT-img-13.svg)
 ### Scenarios
 ![Git Bash](HXT-img/HXT-img-14.jpg)
 ### Functions & feartures
