@@ -194,11 +194,11 @@ a.NaviProject:hover {background-color:#9BE4F3;}
   margin-top: 100px;
 margin-left: 100px;
   text-align: middle;
-  width: 100%;
+	  background: #D5D8FF;
+
 }
 @media screen and (max-width: 767px) {
   .index-wrapper .info-card {
-    margin-top: 100px;
 	  text-align: center;
   }
 }
@@ -320,7 +320,8 @@ h1 span:nth-child(11) {
 }
 
 .resume
-{  position: absolute;
+{  
+position: absolute;
 margin-right: 100px;
  width: 100px;
   height: 50px;
