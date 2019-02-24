@@ -25,6 +25,11 @@ layout: default
       </h1>
     </div>
         
+   <div class="resume">
+    <a class="resume-link" href="/" target="_blank"><img src="/images/Resume.svg" alt="" width="100"/></a>
+   </div>
+        
+        
        </div>
       <div id="particles-js"></div>
     </div>
