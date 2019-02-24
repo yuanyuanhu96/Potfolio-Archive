@@ -332,9 +332,8 @@ position: relative;
 
 
 .index-wrapper .index-content {
-  margin-left: 200px;
-  padding-top: 200px;
 }
+
 @media screen and (max-width: 767px) {
   .index-wrapper .index-content {
     margin-left: 0;
