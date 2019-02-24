@@ -323,10 +323,10 @@ h1 span:nth-child(11) {
 .resume
 {  
 position: relative;
-margin-right: 100px;
  width: 100px;
   height: 50px;
  float: right;
+	margin-top:50px;
 }
 
 
