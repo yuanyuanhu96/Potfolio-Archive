@@ -552,6 +552,8 @@ margin-left: 20px;
     padding: 0;
   }
 }
+
+
 .post-wrapper .post-title,
 .post-wrapper .post-title a {
   font-size: 30px;
@@ -560,6 +562,8 @@ margin-left: 20px;
   color: #000;
   text-align: center;
   word-wrap: break-word;
+	//Background:#ff0000
+
 }
 @media screen and (max-width: 767px) {
   .post-wrapper .post-title,
@@ -571,12 +575,31 @@ margin-left: 20px;
 .post-wrapper .post-title a:hover {
   text-decoration: none;
 }
+
 .post-wrapper .post-date {
-  text-align: center;
+  margin-bottom: 30px;  
+text-align: center;
   color: #999;
-  margin-bottom: 60px;
   font-size: 14px;
 }
+
+
+.post-wrapper .post-methods {
+  margin-bottom: 10px;  
+text-align: center;
+  color: #000;
+  font-size: 14px;
+}
+
+
+.post-wrapper .post-tools {
+  text-align: center;
+  font-size: 14px;
+	  margin-bottom: 60px;
+	  color: #000;
+}
+
+
 @media screen and (max-width: 767px) {
   .post-wrapper .post-date {
     margin-bottom: 40px;
