@@ -28,13 +28,8 @@ layout: default
   <div class="post-wrapper">
     <h1 class="post-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
     <p class="post-date">{{ page.date|date:"%Y-%m-%d" }}</p>
-    {% for post-methods %}
     <p class="post-methods"><b>Research Methods</b>&nbsp&nbsp {{ page.methods}}</p>
-    {% endfor %}
-    {% for post-tools %}
     <p class="post-tools"><b>Tools&nbsp </b>&nbsp {{page.tools}}</p>
-   {% endfor %}
-
     {{ content }}
   </div>
   {% include about.html %}
