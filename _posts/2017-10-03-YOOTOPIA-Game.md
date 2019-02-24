@@ -6,6 +6,8 @@ shortTitle: Yootopia
 icon: <img src="/images/Project-icon-png/Project-icon-03.png" alt="" width="100"/>
 description: There are Gender stereotypes every- where around us. Those stereotypes deeply affect people negatively, and usually are not recognized. In order to stop its boost, it is necessary to elimi- nate stereotypes intendedly in an early age. Only in this way kids can grow up naturally, with their talent fully respected and not limited by gender stereotypes.
 category: blog
+methods: literature review, Interview, Case study, Usability text
+tools: Illustrator, Axure
 ---
 
 ![Git Bash](/Yootopia-img/Yootopia-img-01.jpg)
