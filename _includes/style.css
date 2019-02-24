@@ -178,7 +178,8 @@ a.NaviProject:hover {background-color:#9BE4F3;}
   position: relative;
    width: 100%;
    height: 300px;
-  background: #D5FFFF;
+	padding top: 100px;
+  //background: #D5FFFF;
 }
 @media screen and (max-width: 767px) {
   .index-wrapper .aside {
@@ -338,6 +339,7 @@ margin-top:50px;
   .index-wrapper .index-content {
     margin-left: 0;
     padding-right: 0;
+	  maxw-idth：900px;
   }
 }
 .index-wrapper .artical-list {
