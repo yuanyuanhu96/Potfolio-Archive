@@ -175,7 +175,7 @@ a.NaviProject:hover {background-color:#9BE4F3;}
 
 
 .index-wrapper .aside {
-  position: absolute;
+  position: relative;
    width: 100%;
    height: 300px;
   background: #D5FFFF;
@@ -321,7 +321,7 @@ h1 span:nth-child(11) {
 
 .resume
 {  
-position: absolute;
+position: relative;
 margin-right: 100px;
  width: 100px;
   height: 50px;
