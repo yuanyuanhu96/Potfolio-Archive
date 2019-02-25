@@ -4,7 +4,7 @@ title: Yootopia, GAME/APP
 shortTitle: Yootopia
 
 icon: <img src="/images/Project-icon-png/Project-icon-03.png" alt="" width="100"/>
-description: There are Gender stereotypes every- where around us. Those stereotypes deeply affect people negatively, and usually are not recognized. In order to stop its boost, it is necessary to elimi- nate stereotypes intendedly in an early age. Only in this way kids can grow up naturally, with their talent fully respected and not limited by gender stereotypes.
+description: There are Gender stereotypes everywhere around us. In order to stop its boost, it is better to eliminate stereotypes intendedly at an early age. YOOTOPIA is such an app that helps kids grow up naturally, with their talent fully respected and not limited by stereotypes.
 category: blog
 methods: literature review, Interview, Case study, Usability text
 tools: Illustrator, Axure
@@ -23,7 +23,7 @@ step6: Final work
 <body>
 <div id="step1" class="dowebok">
 <p><img alt="Git Bash" src="/Yootopia-img/Yootopia-img-01.jpg"/>
-There are Gender stereotypes every- where around us. Those stereotypes deeply affect people negatively, and usually are not recognized. In order to stop its boost, it is necessary to elimi- nate stereotypes intendedly in an early age. Only in this way kids can grow up naturally, with their talent fully respected and not limited by gender stereotypes.</p>
+There are Gender stereotypes everywhere around us. In order to stop its boost, it is better to eliminate stereotypes intendedly at an early age. YOOTOPIA is such an app that helps kids grow up naturally, with their talent fully respected and not limited by stereotypes.</p>
 
 </div>
 
