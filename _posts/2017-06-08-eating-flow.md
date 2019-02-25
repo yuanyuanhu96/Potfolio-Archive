@@ -3,7 +3,7 @@ layout: post
 title: Eating Flow, SMART PRODUCT
 shortTitle: Eating Flow
 
-description: The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, etc. in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly.
+description: Diet is a culture which is not just food, but also includes the associated activities during the process of diet. Today's advanced IT and fast-paced culture has changed our lives greatly, including our diet culture.
 icon: <img src="/images/Project-icon-png/Project-icon-04.png" alt="" width="100"/>
 category: blog
 methods: Interview, Prototyping
@@ -11,9 +11,9 @@ tools: Rhino, Keyshot
 ---
 ![Git Bash](/EatingFlow-img/EatingFlow-img-01.jpg)
 ## Eating information
-The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, etc. in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly.
+The diet is a culture which is not just food, but also includes the associated activities during the process of diet. The eating utensils, food activities, catering and entertainment, and dietary exchanges, in traditional culture are very rich, among which people enjoy the process and the exchange of people. However, today's advanced IT and fast-paced culture has changed our lives greatly, including our diet culture.
 ![Git Bash](/EatingFlow-img/EatingFlow-img-02.jpg)
-Many people view too much negative impact of the develop- ment of technology on our lives, and they think technology and nature are opposite; on the other hand, Kenya Hara in Japan Aichi World Expo put forward technology may not necessarily be opposite to the nature. This theme is to explore the relation- ship between technology and people through diet. This is a product, but I hope to stimulate people's thinking through exploring the new eating behavior.
+Many people view too much negative impact of the development of technology on our lives, and they think technology and nature are opposite; on the other hand, Kenya Hara in Japan Aichi World Expo put forward technology may not necessarily be opposite to the nature. This theme is to explore the relation- ship between technology and people through diet. This is a product, but I hope to stimulate people's thinking through exploring the new eating behavior.
 ## Final works
 ![Git Bash](/EatingFlow-img/EatingFlow-img-03.jpg)
 ![Git Bash](/EatingFlow-img/EatingFlow-img-04.jpg)
