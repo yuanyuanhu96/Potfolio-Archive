@@ -40,7 +40,7 @@ Patients have both basic needs and emotional needs, and most of those needs shou
 ![Git Bash](images/HXT/HXT-img-10.svg)
 ## Form development
 We design its form, according to its functions and the ideal image it will present, and adjust it to contain all structures and hardwares
-![Git Bash](HXT-img/HXT-img-11.jpg)
+![Git Bash](images/HXT/HXT-img-11.jpg)
 ## Final works
 Hua Xiao Tuo is a small healthcare robot in the ward.
 She can serve as a nurse, health care workers and family role, responsible for information communication, life care and emotional nursing.
