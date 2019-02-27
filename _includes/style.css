@@ -246,7 +246,7 @@ a.NaviProject:hover {
 .Me {
   font-size: 5px;
     width: 100%;
-
+  padding: 0 50px;
 }
 }
 
@@ -360,7 +360,7 @@ h1 span:nth-child(11) {
 
 @media screen and (max-width: 767px) {
 .resume {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 }
 
