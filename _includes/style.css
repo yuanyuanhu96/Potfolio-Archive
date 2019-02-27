@@ -443,7 +443,7 @@ h1 span:nth-child(11) {
   display: block;
   font-size: 20px;
   Pending-top: 50px;
-  word-break: break-all;
+  word-break: keep-all;
   font-weight: bold;
   padding-top: 5px;
   padding-bottom: 5px;
