@@ -396,6 +396,8 @@ h1 span:nth-child(11) {
   max-width: 900px;
   margin: 0 auto;
   //background: #f00;
+  border-bottom: 1px dotted #003D90;
+
 }
 
 @media screen and (max-width: 767px) {
@@ -444,14 +446,14 @@ h1 span:nth-child(11) {
 }
 */
 .index-wrapper .title {
-  display: block;
+  //display: block;
   font-size: 20px;
   Pending-top: 50px;
   word-break: keep-all;
   font-weight: bold;
   padding-top: 5px;
   padding-bottom: 5px;
-  border-bottom: 1px solid #eee;
+  //border-bottom: 1px solid #eee;
   color: #444;
 }
 
