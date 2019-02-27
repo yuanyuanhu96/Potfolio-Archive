@@ -207,7 +207,7 @@ a.NaviProject:hover {
   margin: 100px auto;
   width: 80%;
   text-align: middle;
-  background: #D5D8FF;
+  //background: #D5D8FF;
 }
 
 @media screen and (max-width: 767px) {
@@ -236,7 +236,7 @@ a.NaviProject:hover {
   font-style: normal;
   font-weight: 800;
   margin-left: 10px;
-  background-color: #FFB6C1;//测试区域
+  //background-color: #FFB6C1;//测试区域
 }
 
 @media screen and (max-width: 767px) {
