@@ -59,7 +59,7 @@ layout: default
       <p> &nbsp;</p>
 
     <span>Email. yhu76@id.iit.edu  </span>
-    <span> </span>
+    <span>&nbsp;&nbsp;</span>
   <span>  Tel. (312)709-9034 </span>
 
   </div>
