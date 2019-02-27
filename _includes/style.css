@@ -213,9 +213,8 @@ a.NaviProject:hover {
 @media screen and (max-width: 767px) {
   .index-wrapper .info-card {
     text-align: center;
-      margin: 100px auto 25px;
+      margin: 100px auto 0px;
       width: 90%;
-
 
   }
 }
