@@ -231,13 +231,13 @@ a.NaviProject:hover {
 
 .Me {
   float: left;
-  font-size: 15px;
+  font-size: 20px;
   color: #696969;
   text-shadow: 0px 0px;
-  font: Georgia;
+  //font: Georgia;
   font-style: normal;
   font-weight: 600;
-  margin-top: 50 px;
+  margin-top: 50px;
   margin-left: 10px;
   //background-color: #FFB6C1;//测试区域
 }
@@ -270,6 +270,7 @@ h1 span {
   -webkit-animation: bounce 0.5s ease infinite alternate;
   font-family: 'Gill Sans', cursive;
   font-size: 40px;
+  font-weight: 800;
   color: #9BE4F3;
   text-shadow: 0 1px 0 #7EC7D6,
     0 2px 0 #7EC7D6,
@@ -356,7 +357,7 @@ h1 span:nth-child(11) {
 
 @media screen and (max-width: 767px) {
 .resume {
-  margin-top: 80px;
+  margin-top: 100px;
 }
 }
 
@@ -369,7 +370,7 @@ h1 span:nth-child(11) {
 
 @media screen and (max-width: 767px) {
 .resume img {
-  max-width: 80%;
+  max-width: 90%;
   display: block;
 }
 }
