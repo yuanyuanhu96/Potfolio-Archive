@@ -364,6 +364,7 @@ h1 span:nth-child(11) {
 
 .index-wrapper .index-content {
   max-width：700px;
+  background: #f00;
 }
 
 @media screen and (max-width: 767px) {
@@ -375,7 +376,9 @@ h1 span:nth-child(11) {
 
 .index-wrapper .artical-list {
   width: 80%;
+  max-width：700px;
   margin: 0 auto;
+  background: #111;
 }
 
 @media screen and (max-width: 767px) {
