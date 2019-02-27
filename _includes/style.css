@@ -406,7 +406,7 @@ h1 span:nth-child(11) {
 
 .index-wrapper .artical-list li {
   margin-bottom: 50px;
-   border-top: 1px dotted #003D90;
+   //border-top: 1px dotted #003D90;
 
 }
 
@@ -460,6 +460,8 @@ h1 span:nth-child(11) {
 @media screen and (max-width: 767px) {
   .index-wrapper .title {
     font-size: 18px;
+     padding-top: -5px;
+    padding-bottom: -2px; 
     //margin-bottom: 20px;
   }
 }
