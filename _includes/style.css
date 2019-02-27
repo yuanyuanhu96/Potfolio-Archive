@@ -239,12 +239,14 @@ a.NaviProject:hover {
   font-weight: 600;
   //margin-top: 50px;
   margin-left: 10px;
-  //background-color: #FFB6C1;//测试区域
+  background-color: #FFB6C1;//测试区域
 }
 
 @media screen and (max-width: 767px) {
 .Me {
   font-size: 5px;
+    width: 100%;
+
 }
 }
 
