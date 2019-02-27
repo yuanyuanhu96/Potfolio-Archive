@@ -354,12 +354,27 @@ h1 span:nth-child(11) {
   margin-top: 50px;
 }
 
+@media screen and (max-width: 767px) {
+.resume {
+  margin-top: 80px;
+}
+}
+
 
 
 .resume img {
   max-width: 100%;
   display: block;
 }
+
+@media screen and (max-width: 767px) {
+.resume img {
+  max-width: 80%;
+  display: block;
+}
+}
+
+
 
 
 .index-wrapper .index-content {
