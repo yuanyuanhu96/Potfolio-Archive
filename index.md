@@ -55,10 +55,10 @@ layout: default
    <div class="Foot">
     <div>Thanks for your visiting</div>
     <div>Please feel free to contact me :)</div>
-    <div>-</div>
+    <div> &nbsp</div>
     <span>Email. yhu76@id.iit.edu  </span>
-
-    <span>  Tel. (312)709-9034</span>
+    <span> </span>
+  <span>  Tel. (312)709-9034 </span>
 
   </div>
   
