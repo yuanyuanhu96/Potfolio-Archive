@@ -399,7 +399,7 @@ h1 span:nth-child(11) {
 
 
 @media screen and (max-width: 767px) {
-  .project-icon {
+  .project-icon img{
   max-width: 60%;
   }
 }
