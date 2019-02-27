@@ -397,15 +397,13 @@ h1 span:nth-child(11) {
   box-sizing: border-box;
 }
 
-/*
+
 @media screen and (max-width: 767px) {
   .project-icon {
-   width: 100%;
-   float: none;
-margin-bottom: 30px;
+  max-width: 60%;
   }
 }
-*/
+
 .project-text {
   margin-left: 135px;
   //margin-top: 50px;
