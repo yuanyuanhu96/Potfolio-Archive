@@ -205,7 +205,7 @@ a.NaviProject:hover {
 .index-wrapper .info-card {
   position: relative;
   margin: 100px auto;
-  width: 90%;
+  width: 80%;
   text-align: middle;
   //background: #D5D8FF;
 }
@@ -213,7 +213,9 @@ a.NaviProject:hover {
 @media screen and (max-width: 767px) {
   .index-wrapper .info-card {
     text-align: center;
-      margin: 50px auto;
+      margin: 100px auto 25px;
+      width: 90%;
+
 
   }
 }
