@@ -443,8 +443,9 @@ margin-bottom: 30px;
 
 .index-wrapper .title-desc {
   margin-top: 20px;
-  margin-bottom: 10px;
-
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   color: #999;
   font-size: 14px;
   line-height: 1.6;
