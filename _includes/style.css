@@ -400,13 +400,21 @@ h1 span:nth-child(11) {
 
 @media screen and (max-width: 767px) {
   .project-icon img{
-  max-width: 60%;
+  max-width: 80%;
   }
 }
 
 .project-text {
   margin-left: 135px;
   //margin-top: 50px;
+}
+
+
+
+@media screen and (max-width: 767px) {
+.project-text{
+ margin-left: 95px;
+  }
 }
 
 /*
