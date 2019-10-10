@@ -8,9 +8,10 @@ description: “GROW A SMILE” is a interactive urban garden near every subway 
 step1: Overview
 step2: Research
 step3: Insights
-step4: Concept
-step5: Test
-step6: Solution
+step4: Persona
+step5: Concept
+step6: Test
+step7: Solution
 ---
 
 <head>
@@ -18,45 +19,45 @@ step6: Solution
 <head>
 
 <body>
+  
+<img alt="Git Bash" src="images/GAS/GAS-img-01.svg"/>
 
 <div id="step1" class="dowebok">
-
-<img alt="Git Bash" src="images/GAS/GAS-img-01.svg"/>
+<h2>Overview</h2>
+<img alt="Git Bash" src="images/GAS/GAS-img-02.svg"/>
 
 
 </div>
 
 <div id="step2" class="dowebok">
 
-<h2>Background research</h2>
+<h2>Research</h2>
 
-<img alt="Git Bash" src="images/GAS/GAS-img-02.svg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-03.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-04.svg"/>
+
 
 </div>
 
 <div id="step3" class="dowebok">
 
-<h2>Further research</h2>
+<h2>Insights</h2>
 
+<img alt="Git Bash" src="images/GAS/GAS-img-05.svg"/>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-06.svg"/></p>
 
-<img alt="Git Bash" src="images/GAS/GAS-img-04.svg"/>
 
 </div>
 
 <div id="step4" class="dowebok">
 
-<h2>Analysis</h2>
-
-<img alt="Git Bash" src="images/GAS/GAS-img-05.svg"/>
-
+<h2>Persona</h2>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-07.svg"/></p>
 </div>
 
 <div id="step5" class="dowebok">
 
 <h2>Persona</h2>
-
-<p><img alt="Git Bash" src="images/GAS/GAS-img-06.svg"/></p>
 
 </div>
 
@@ -65,7 +66,6 @@ step6: Solution
 
 <h2>Problem define</h2>
 
-<p><img alt="Git Bash" src="images/GAS/GAS-img-07.svg"/></p>
 
 </div>
 
