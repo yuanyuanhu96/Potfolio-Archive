@@ -4,6 +4,8 @@ title: Grow A Smile, Public Service
 shortTitle: Grow A Smile
 icon: <img src="/images/Project-icon-png/1_favicon.ico" alt="" width="100"/>
 category: blog
+methods: Field works, Interview, persona, User journey, Prototyping
+tools: Rhino, Keyshot, 3D print, After Effect
 description: “GROW A SMILE” is a interactive urban garden near every subway station. People pass there everyday and stop for a while. Growing their plants help people to release their pressure and enjoy a simple life style. Generally, there forms a tiny community with a pure and relaxing atmosphere of socializing where people feel belonged and be cared.
 step1: Overview
 step2: Research
