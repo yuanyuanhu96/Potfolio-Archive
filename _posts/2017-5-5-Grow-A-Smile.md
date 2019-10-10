@@ -20,11 +20,13 @@ step7: Solution
 
 <body>
   
-<img alt="Git Bash" src="images/GAS/GAS-img-01.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-01.jpg"/>
 
+<p> “GROW A SMILE” is a interactive urban garden near every subway station. People pass there everyday and stop for a while. Growing their plants help people to release their pressure and enjoy a simple life style. Generally, there forms a tiny community with a pure and relaxing atmosphere of socializing where people feel belonged and be cared.</p>
+ 
 <div id="step1" class="dowebok">
 <h2>Overview</h2>
-<img alt="Git Bash" src="images/GAS/GAS-img-02.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-02.jpg"/>
 
 
 </div>
@@ -33,7 +35,7 @@ step7: Solution
 
 <h2>Research</h2>
 
-<img alt="Git Bash" src="images/GAS/GAS-img-03.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-03.jpg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-04.svg"/>
 
 
@@ -57,46 +59,30 @@ step7: Solution
 
 <div id="step5" class="dowebok">
 
-<h2>Persona</h2>
+<h2>Concept</h2>
+<img alt="Git Bash" src="images/GAS/GAS-img-08.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-09.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-10.svg"/>
 
 </div>
 
 <div id="step6" class="dowebok">
 
 
-<h2>Problem define</h2>
+<h2>Test</h2>
+<img alt="Git Bash" src="images/GAS/GAS-img-11.svg"/>
 
 
 </div>
 
 <div id="step7" class="dowebok">
 
-<h2>Introducing of robot</h2>
+<h2>Solution</h2>
 
-<ul><li>Robot is directly connected with online data, so it can bridge the infomation gap.</li><li>Robot is always online, so it can care when human is absent. </li><li>Robot have a natural interaction with human, so it can support emotional fuction. </li></ul>
-<p>
-<img alt="Git Bash" src="images/GAS/GAS-img-09.jpg"/>
-<img alt="Git Bash" src="images/GAS/GAS-img-10.svg"/>
-</p>
+<img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/>
 </div>
 
-<div id="step8" class="dowebok">
-
-<h2>Form development</h2>
-
-<p><img alt="Git Bash" src="images/GAS/GAS-img-11.svg"/></p>
-
-</div>
-
-<div id="step9" class="dowebok">
-
-<h2>Final works</h2>
 
 
-<p><img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/></p>
-
-<h3>Demo</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vAYRGef-Oes?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 </body>
