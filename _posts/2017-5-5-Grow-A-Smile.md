@@ -86,7 +86,7 @@ step7: Solution
 <h2>Solution</h2>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vBNAP6--ncI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p><img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/></p>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-12.jpg"/></p>
 <p><img alt="Git Bash" src="images/GAS/GAS-img-13.jpg"/></p>
 </div>
 
