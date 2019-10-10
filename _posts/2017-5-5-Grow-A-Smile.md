@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Grow A Smile, Public Service
+title: Grow A Smile, SERVICE DESIGN
 shortTitle: Grow A Smile
-icon: <img src="/images/Project-icon-png/1_favicon.ico" alt="" width="100"/>
+icon: <img src="/images/Project-icon-png/Project-icon-08.png" alt="" width="100"/>
 category: blog
 methods: Field works, Interview, persona, User journey, Prototyping
 tools: Rhino, Keyshot, 3D print, After Effect
