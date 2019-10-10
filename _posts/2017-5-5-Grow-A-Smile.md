@@ -63,17 +63,18 @@ step7: Solution
 <div id="step5" class="dowebok">
 
 <h2>Concept</h2>
+<p>
 <img alt="Git Bash" src="images/GAS/GAS-img-08.jpg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-09.svg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-10.jpg"/>
-
+</p>
 </div>
 
 <div id="step6" class="dowebok">
 
 
 <h2>Test</h2>
-<img alt="Git Bash" src="images/GAS/GAS-img-11.svg"/>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-11.svg"/></p>
 
 
 </div>
@@ -81,10 +82,10 @@ step7: Solution
 <div id="step7" class="dowebok">
 
 <h2>Solution</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBNAP6--ncI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/vBNAP6--ncI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/>
-<img alt="Git Bash" src="images/GAS/GAS-img-13.svg"/>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/></p>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-13.svg"/></p>
 </div>
 
 
