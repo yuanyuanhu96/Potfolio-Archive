@@ -39,7 +39,7 @@ step7: Solution
 
  <p><img alt="Git Bash" src="images/GAS/GAS-img-03.jpg"/></p> 
 <h3>Interview</h3>
- <p><img alt="Git Bash" src="images/GAS/GAS-img-04.svg"/></p> 
+ <p><img alt="Git Bash" src="images/GAS/GAS-img-04.jpg"/></p> 
 
 
 </div>
@@ -57,7 +57,7 @@ step7: Solution
 <div id="step4" class="dowebok">
 
 <h2>Persona</h2>
-<p><img alt="Git Bash" src="images/GAS/GAS-img-07.svg"/></p>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-07.jpg"/></p>
 </div>
 
 <div id="step5" class="dowebok">
@@ -65,7 +65,7 @@ step7: Solution
 <h2>Concept</h2>
 <p>
 <img alt="Git Bash" src="images/GAS/GAS-img-08.jpg"/>
-<img alt="Git Bash" src="images/GAS/GAS-img-09.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-09.jpg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-10.jpg"/>
 </p>
 </div>
@@ -74,7 +74,7 @@ step7: Solution
 
 
 <h2>Test</h2>
-<p><img alt="Git Bash" src="images/GAS/GAS-img-11.svg"/></p>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-11.jpg"/></p>
 
 
 </div>
