@@ -48,7 +48,7 @@ step7: Solution
 
 <h2>Insights</h2>
 
-<img alt="Git Bash" src="images/GAS/GAS-img-05.jpg"/>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-05.jpg"/></p>
 <p><img alt="Git Bash" src="images/GAS/GAS-img-06.jpg"/></p>
 
 
@@ -63,9 +63,9 @@ step7: Solution
 <div id="step5" class="dowebok">
 
 <h2>Concept</h2>
-<img alt="Git Bash" src="images/GAS/GAS-img-08.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-08.jpg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-09.svg"/>
-<img alt="Git Bash" src="images/GAS/GAS-img-10.svg"/>
+<img alt="Git Bash" src="images/GAS/GAS-img-10.jpg"/>
 
 </div>
 
