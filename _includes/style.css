@@ -488,10 +488,10 @@ h1 span:nth-child(11) {
   height: 200px;
   float: left;
   //background: linear-gradient( #8CC5DF, #A7DAF1); /* 标准的语法 */
-   background-color: #DCF1F0;
+   background-color: #9DEEF1;
   min-width: 100%;
   text-align: center;
-  color: #8B8B8B;
+  color: #FFFFFF;
   padding-top: 60px;
   font-weight: lighter;
   margin-top: 10px;
