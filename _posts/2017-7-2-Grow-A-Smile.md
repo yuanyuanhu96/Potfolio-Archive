@@ -11,9 +11,8 @@ step1: Overview
 step2: Research
 step3: Insights
 step4: Persona
-step5: Concept
-step6: Test
-step7: Solution
+step5: Concept Development
+step6: Solution
 ---
 
 <head>
@@ -64,24 +63,20 @@ step7: Solution
 
 <div id="step5" class="dowebok">
 
-<h2>Concept</h2>
+<h2>Concept Development</h2>
 <p>
 <img alt="Git Bash" src="images/GAS/GAS-img-08.jpg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-09.jpg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-10.jpg"/>
 </p>
+
+<h3>Test</h3>
+<p><img alt="Git Bash" src="images/GAS/GAS-img-11.jpg"/></p>
 </div>
+
+
 
 <div id="step6" class="dowebok">
-
-
-<h2>Test</h2>
-<p><img alt="Git Bash" src="images/GAS/GAS-img-11.jpg"/></p>
-
-
-</div>
-
-<div id="step7" class="dowebok">
 
 <h2>Solution</h2>
 <h3>Concept Video</h3>
