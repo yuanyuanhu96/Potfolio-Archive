@@ -20,14 +20,14 @@ step7: Solution
 
 <body>
   
-<img alt="Git Bash" src="images/GAS/GAS-img-01.jpg"/>
+ <p><img alt="Git Bash" src="images/GAS/GAS-img-01.jpg"/></p> 
 
  
 <div id="step1" class="dowebok">
 <h2>Overview</h2>
   
  <p> “GROW A SMILE” is a interactive urban garden near every subway station. People pass there everyday and stop for a while. Growing their plants help people to release their pressure and enjoy a simple life style. Generally, there forms a tiny community with a pure and relaxing atmosphere of socializing where people feel belonged and be cared.</p> 
-<img alt="Git Bash" src="images/GAS/GAS-img-02.jpg"/>
+ <p><img alt="Git Bash" src="images/GAS/GAS-img-02.jpg"/></p> 
 
 
 </div>
@@ -81,6 +81,7 @@ step7: Solution
 <div id="step7" class="dowebok">
 
 <h2>Solution</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBNAP6--ncI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img alt="Git Bash" src="images/GAS/GAS-img-12.svg"/>
 <img alt="Git Bash" src="images/GAS/GAS-img-13.svg"/>
