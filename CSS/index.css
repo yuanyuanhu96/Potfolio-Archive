@@ -8,6 +8,10 @@ body {
     color: black;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     display: block;
     max-width: 1080px;
@@ -22,8 +26,8 @@ body {
     float: right;
 }
 
-.clear-float:after,
-.clear-float::before {
+.clearf:after,
+.clearf:before {
     content: " ";
     display: block;
     clear: both;
@@ -92,4 +96,16 @@ body {
     padding-top: 60px;
     font-weight: lighter;
     margin-top: 10px;
+}
+
+
+
+.top-nav .item {
+    padding: 6px 10px;
+    display: inline-block;
+    color: #666;
+}
+
+.top-nav .item:hover {
+    color: #333;
 }
