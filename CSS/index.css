@@ -12,6 +12,13 @@
     float: right;
 }
 
+.clear-float:after,
+.clear-float::before {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
 .foot {
     height: 200px;
     float: left;
