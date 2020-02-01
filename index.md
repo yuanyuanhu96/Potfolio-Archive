@@ -10,21 +10,8 @@ layout: default
     <div class="aside">
       <div class="info-card">
          <div class="Me">
-      <h1>
-        <span>Y</span>
-        <span>U</span>
-        <span>A</span>
-        <span>N</span>
-        <span>Y</span>
-        <span>U</span>
-        <span>A</span>
-        <span>N</span>
-        <span><br> <br/></span>
-        <span>H</span>
-        <span>U</span>
-      </h1>
     </div>
-        
+
    <div class="resume">
     <a class="resume-link" href="http://HuYuanyuan96.github.io/Resume_HU.pdf" target="_blank"> <img src="/images/Resume.svg" alt="" width="100"/></a>
    </div>
@@ -42,16 +29,16 @@ layout: default
                 <div class="project-text">
         <div class="project-title">
         <a href="{{ post.url }}" class="title">{{ post.title }}</a>
-        </div>  
+        </div>
           <div class="title-desc">{{ post.description }}</div>
-          </div>  
+          </div>
         </li>
         {% endfor %}
       </ul>
     </div>
-    
+
   </div>
-  
+
    <div class="Foot">
     <div>Thanks for your visiting</div>
     <div>Please feel free to contact me :)</div>
@@ -63,5 +50,5 @@ layout: default
   <span>  Tel. (312)709-9034 </span>
 
   </div>
-  
+
 </body>
