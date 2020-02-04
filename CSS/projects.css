@@ -275,6 +275,7 @@ a.NaviProject:hover {
   }
 }
 
+/*
 .left {
   float: left;
   width: 140px;
@@ -294,7 +295,7 @@ a.NaviProject:hover {
 
   }
 }
-
+*/
 
 .main {
   width: 100%;
@@ -413,6 +414,7 @@ a.NaviProject:hover {
   width: 100%;
 }
 
+/*
 @media screen and (max-width: 767px) {
   .post-wrapper {
     width: 90%;
@@ -420,7 +422,7 @@ a.NaviProject:hover {
     padding: 0;
   }
 }
-
+*/
 .post-wrapper .post-title,
 .post-wrapper .post-title a {
 
@@ -626,6 +628,7 @@ a.NaviProject:hover {
   margin: 0 auto;
 }
 
+/*
 .about-wrapper {
   background: #fff;
   margin: 0 auto;
@@ -680,6 +683,8 @@ a.NaviProject:hover {
   color: #B1D3E2;
   font-size: 14px;
 }
+
+*/
 
 #disqus_container {
   font-size: 12px;
