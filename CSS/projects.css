@@ -145,10 +145,15 @@ audio:not([controls]),
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+
+
 body {
   font-family: Helvetica, Tahoma, Arial, 'Hiragino Sans GB', '\51AC\9752\9ED1\4F53', 'Microsoft YaHei', '\5FAE\8F6F\96C5\9ED1', STXihei, '\534E\6587\7EC6\9ED1', SimSun, '\5B8B\4F53', Heiti, '\9ED1\4F53', sans-serif;
   font-size: 16px;
 }
+
+
 
 @media screen and (max-width: 767px) {
   body {
@@ -418,13 +423,25 @@ a.NaviProject:hover {
 
 .post-wrapper .post-title,
 .post-wrapper .post-title a {
-  font-size: 30px;
-  font-weight: bold;
+
   margin-bottom: 60px;
   color: #000;
   text-align: center;
   word-wrap: break-word;
   //Background:#ff0000
+
+  margin-top: 0;
+  font-style: normal;
+  font-size: 34px;
+  font-family: "Chronicle Display",
+    Georgia,
+    serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.1;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+
 }
 
 @media screen and (max-width: 767px) {
@@ -467,12 +484,18 @@ a.NaviProject:hover {
   }
 }
 
+
+
 .post-wrapper h2 {
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 25px;
   border-bottom: 2px solid #eee;
   padding-bottom: 10px;
+  font-family: SlatePro-Bold,
+    Helvetica,
+    Arial,
+    sans-serif;
 }
 
 @media $mobiel {
@@ -571,6 +594,7 @@ a.NaviProject:hover {
   margin-bottom: 5px;
   list-style: decimal;
   line-height: 1.1em;
+
 }
 
 @media screen and (max-width: 767px) {
@@ -698,6 +722,7 @@ li.L9 {
   padding-left: 0.4em;
   background-color: #f7f3f7;
   list-style-type: decimal;
+
 }
 
 @media screen {
@@ -778,8 +803,60 @@ li.L9 {
   margin-bottom: 10px;
 }
 
+/*
 .highlight {
+  font-family: SlatePro,
+    Helvetica,
+    Arial,
+    sans-serif;
   font-size: 32px;
   text-underline-position: below;
-  font-weight: 800;
+  font-weight: bold;
+  margin: 20px 0;
+}
+*/
+
+.highlight {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-style: normal;
+  font-size: 30px;
+  font-family: "Chronicle Display",
+    Georgia,
+    serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.rectangle {
+  display: block;
+}
+
+.ticketfeature {
+  margin: 40px 0;
+}
+
+
+.post-wrapper li,
+p {
+
+  font-style: normal;
+  font-size: 18px;
+  font-family: SlatePro-Light,
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-weight: 350;
+  text-transform: none;
+  line-height: 1.625;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+.align-center {
+  text-align: center;
 }
