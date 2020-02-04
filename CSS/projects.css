@@ -777,3 +777,9 @@ li.L9 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.highlight {
+  font-size: 32px;
+  text-underline-position: below;
+  font-weight: 800;
+}
