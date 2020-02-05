@@ -154,15 +154,17 @@ img {
     margin-top: 10px;
 }
 
+
+.main-display {}
+
 .top-nav,
-.main-display,
 .cat-display {
     padding: 10px 30px;
     width: 100%;
 }
 
 .header {
-    padding: 120px 50px 60px 50px;
+    padding: 120px 50px 2px 50px;
     width: 100%;
 
 }
@@ -189,8 +191,10 @@ img {
 }
 
 .title-pic {
-    margin-top: 100px;
-    margin-left: 150px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 50px;
+
     float: right;
 }
 
