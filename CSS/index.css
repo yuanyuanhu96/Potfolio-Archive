@@ -189,19 +189,36 @@ img {
 }
 
 .title-pic {
+    margin-top: 100px;
+    margin-left: 150px;
     float: right;
-    padding-top: 40px;
 }
 
-.cat-display {
-    padding-bottom: 80px;
-}
+.cat-display {}
 
 .resume {
     display: block;
     margin: 0 auto;
 }
 
+
+
 .title {
-    padding: 10px 40px;
+    position: absolute;
+    z-index: -1;
+    padding: 0 10px;
+}
+
+.mask {
+    z-index: 5;
+    padding: 0 10px;
+    visibility: visible;
+    transition: 0ms;
+    opacity: 0;
+
+}
+
+.mask:hover {
+    opacity: 100%;
+
 }
