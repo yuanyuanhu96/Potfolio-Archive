@@ -143,13 +143,13 @@ img {
 
 .foot {
     height: 400px;
-    float: left;
-    //background: linear-gradient( #8CC5DF, #A7DAF1); /* 标准的语法 */
     background-color: #A6D9E3;
     min-width: 100%;
     text-align: center;
     color: #FFFFFF;
-    padding-top: 60px;
+
+    padding: 60px 0;
+
     font-weight: lighter;
     margin-top: 80px;
 }
