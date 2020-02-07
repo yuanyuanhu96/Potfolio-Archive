@@ -217,7 +217,7 @@ img {
     z-index: 5;
     padding: 0 10px;
     visibility: visible;
-    transition: 0ms;
+    transition: 500ms;
     opacity: 0;
 
 }
