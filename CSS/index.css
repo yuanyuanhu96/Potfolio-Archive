@@ -231,6 +231,7 @@ img {
     text-align: center;
     margin: 0 auto;
     padding-right: 60px;
+    margin-bottom: 20px;
 }
 
 .selected-work {
@@ -245,10 +246,29 @@ img {
 }
 
 .chunk-left {
-    margin-right: 22px;
+    margin-left: 10px;
+
+    margin-right: 0;
 }
 
 .more-explanation {
     font-size: 0.8em;
     padding-right: 100px;
+}
+
+
+
+
+
+.contact-me {
+    font-weight: 500;
+
+    color: rgb(86, 182, 182);
+
+}
+
+.contact-me:hover {
+    color: rgb(48, 134, 134);
+    transition: color 200ms;
+
 }
