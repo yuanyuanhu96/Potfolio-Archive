@@ -871,10 +871,21 @@ p {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .chunk {
   padding-right: 8px;
 }
 
 .bold-body {
   font-weight: bold;
+}
+
+
+.flr {
+
+  float: right;
 }
