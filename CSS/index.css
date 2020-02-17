@@ -236,3 +236,19 @@ img {
 .selected-work {
     margin-bottom: 100px;
 }
+
+
+.one-to-two {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 20px;
+}
+
+.chunk-left {
+    margin-right: 22px;
+}
+
+.more-explanation {
+    font-size: 0.8em;
+    padding-right: 100px;
+}

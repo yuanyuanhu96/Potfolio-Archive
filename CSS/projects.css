@@ -871,7 +871,7 @@ p {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-.two-col {
+.one-to-two {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
