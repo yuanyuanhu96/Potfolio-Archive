@@ -193,7 +193,7 @@ img {
 .title-pic {
     margin-top: 50px;
     margin-left: 10px;
-    margin-right: 50px;
+    margin-right: 70px;
 
     float: right;
 }
@@ -225,4 +225,14 @@ img {
 .mask:hover {
     opacity: 100%;
 
+}
+
+.works-title {
+    text-align: center;
+    margin: 0 auto;
+    padding-right: 60px;
+}
+
+.selected-work {
+    margin-bottom: 100px;
 }
