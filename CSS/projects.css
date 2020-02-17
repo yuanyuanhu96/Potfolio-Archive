@@ -876,8 +876,8 @@ p {
   grid-template-columns: 1fr 1fr;
 }
 
-.chunk {
-  padding-right: 8px;
+.chunk-left {
+  margin-right: 22px;
 }
 
 .bold-body {
