@@ -865,3 +865,16 @@ p {
 .align-center {
   text-align: center;
 }
+
+.three-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.chunk {
+  padding-right: 8px;
+}
+
+.bold-body {
+  font-weight: bold;
+}
