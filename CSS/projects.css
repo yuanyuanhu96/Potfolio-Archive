@@ -408,9 +408,9 @@ a.NaviProject:hover {
 }
 
 .post-wrapper {
-  margin: 100px auto 100px;
+  margin: 100px auto 10px;
   background: #fff;
-  padding: 0px 20px 80px 20px;
+  padding: 0px 20px 0px 20px;
   width: 100%;
 }
 
@@ -887,4 +887,9 @@ p {
 
 .flr {
   float: right;
+}
+
+
+.last-next{
+  margin-top: 40px;
 }
