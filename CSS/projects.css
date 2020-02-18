@@ -866,6 +866,12 @@ p {
   text-align: center;
 }
 
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
 .three-col {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -890,6 +896,6 @@ p {
 }
 
 
-.last-next{
+.last-next {
   margin-top: 40px;
 }
