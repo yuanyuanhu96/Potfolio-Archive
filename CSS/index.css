@@ -198,7 +198,9 @@ img {
     float: right;
 }
 
-.cat-display {}
+.cat-display {
+    margin-bottom: 50px;
+}
 
 .resume {
     display: block;
@@ -231,7 +233,7 @@ img {
     text-align: center;
     margin: 0 auto;
     padding-right: 60px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .selected-work {
@@ -241,14 +243,15 @@ img {
 
 .one-to-two {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
     margin-bottom: 20px;
 }
 
 .chunk-left {
-    margin-left: 10px;
-
+    margin-top: 10px;
     margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 .more-explanation {
