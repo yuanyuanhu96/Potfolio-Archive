@@ -426,7 +426,7 @@ a.NaviProject:hover {
 .post-wrapper .post-title,
 .post-wrapper .post-title a {
 
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   color: #000;
   text-align: center;
   word-wrap: break-word;
@@ -459,6 +459,32 @@ a.NaviProject:hover {
   text-decoration: none;
 }
 
+
+.post-wrapper .post-sub-title,
+.post-wrapper .post-sub-title a {
+
+  margin-bottom: 60px;
+  color: #000;
+  text-align: center;
+  word-wrap: break-word;
+  //Background:#ff0000
+
+  margin-top: 0;
+  font-style: normal;
+  font-size: 20px;
+  font-family: "Chronicle Display",
+    Georgia,
+    serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.1;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+
+
 .post-wrapper .post-date {
   margin-bottom: 30px;
   text-align: center;
@@ -476,7 +502,7 @@ a.NaviProject:hover {
 .post-wrapper .post-tools {
   text-align: center;
   font-size: 14px;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   color: #000;
 }
 
