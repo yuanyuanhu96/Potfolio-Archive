@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="767px" viewBox="0 0 1440 767" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>IA+Task</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IA+Task">
+            <g id="Group-2" transform="translate(332.000000, 389.798831)" fill="#FFF7D8">
+                <rect id="Rectangle" x="0" y="-1.56319402e-13" width="151" height="246.592814" rx="12"></rect>
+                <rect id="Rectangle" x="52" y="246.201169" width="19" height="111"></rect>
+                <rect id="Rectangle" x="656" y="252.201169" width="21" height="102"></rect>
+                <path d="M52,354.201169 L676,354.201169 L676,359.201169 C676,365.828586 670.627417,371.201169 664,371.201169 L64,371.201169 C57.372583,371.201169 52,365.828586 52,359.201169 L52,354.201169 L52,354.201169 Z" id="Rectangle"></path>
+                <rect id="Rectangle" x="598" y="203.201169" width="147" height="69" rx="12"></rect>
+            </g>
+            <g id="Group" transform="translate(21.000000, 93.000000)" fill="#FFEDDC">
+                <rect id="Rectangle" x="0" y="296.798831" width="151" height="292" rx="12"></rect>
+                <rect id="Rectangle" x="158" y="179" width="147" height="63" rx="12"></rect>
+                <rect id="Rectangle" x="556" y="85" width="147" height="63" rx="12"></rect>
+                <path d="M220,151 L627,151 C633.627417,151 639,156.372583 639,163 L639,170 L639,170 L232,170 C225.372583,170 220,164.627417 220,158 L220,151 L220,151 Z" id="Rectangle" transform="translate(429.500000, 160.500000) scale(-1, 1) rotate(-180.000000) translate(-429.500000, -160.500000) "></path>
+                <rect id="Rectangle" x="556" y="0" width="147" height="63" rx="12"></rect>
+                <rect id="Rectangle" x="618" y="63" width="22" height="26"></rect>
+                <rect id="Rectangle" x="617" y="139" width="22" height="17"></rect>
+                <rect id="Rectangle" x="64" y="271" width="22" height="26"></rect>
+                <rect id="Rectangle" x="220" y="237" width="22" height="26"></rect>
+                <path d="M64,261 L230,261 C236.627417,261 242,266.372583 242,273 L242,280 L242,280 L76,280 C69.372583,280 64,274.627417 64,268 L64,261 L64,261 Z" id="Rectangle" transform="translate(153.000000, 270.500000) scale(-1, 1) rotate(-180.000000) translate(-153.000000, -270.500000) "></path>
+                <rect id="Rectangle" x="220" y="161" width="22" height="26"></rect>
+            </g>
+            <polyline id="Path-2" stroke="#47CCFF" stroke-width="2" transform="translate(174.500000, 382.000000) scale(-1, -1) translate(-174.500000, -382.000000) " points="96 401 253 401 253 363"></polyline>
+            <path d="M642,351 L720,351 C726.627417,351 732,356.372583 732,363 L732,370 L732,370 L654,370 C647.372583,370 642,364.627417 642,358 L642,351 L642,351 Z" id="Rectangle" fill="#FFEDA6"></path>
+            <g id="Group-3" transform="translate(577.000000, 274.000000)" fill="#EBFFCE">
+                <path d="M65,77 L143,77 C149.627417,77 155,82.372583 155,89 L155,96 L155,96 L77,96 C70.372583,96 65,90.627417 65,84 L65,77 L65,77 Z" id="Rectangle"></path>
+                <rect id="Rectangle" x="0" y="0" width="147" height="61" rx="12"></rect>
+                <rect id="Rectangle" x="65" y="57" width="19" height="31"></rect>
+                <rect id="Rectangle" x="134" y="96" width="21" height="19"></rect>
+                <rect id="Rectangle" x="134" y="190" width="21" height="37"></rect>
+                <rect id="Rectangle" x="69" y="113" width="147" height="77" rx="12"></rect>
+                <rect id="Rectangle" x="69" y="222" width="147" height="65" rx="12"></rect>
+            </g>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="584" y="16" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="584" y="186" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" fill="#D5F2FF" x="31" y="466" width="130" height="209" rx="8"></rect>
+            <rect id="Rectangle" fill="#D5F2FF" x="1146" y="466" width="130" height="159" rx="8"></rect>
+            <rect id="Rectangle" fill="#D5F2FF" x="1146" y="466" width="130" height="159" rx="8"></rect>
+            <rect id="Rectangle" fill="#D5F2FF" x="1146" y="466" width="130" height="159" rx="8"></rect>
+            <rect id="Rectangle" fill="#D5F2FF" x="344" y="466" width="130" height="159" rx="8"></rect>
+            <rect id="Rectangle" fill="#D5F2FF" x="1298" y="466" width="130" height="159" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="186" y="399" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="31" y="399" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="31" y="399" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="31" y="399" width="130" height="44" rx="8"></rect>
+            <text id="Onborading" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="602.468" y="45">Onborading</tspan>
+            </text>
+            <text id="Welcome" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="612.176" y="203">Welcome</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="189" y="281" width="130" height="44" rx="8"></rect>
+            <text id="Learning" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="219.316" y="310">Learning</tspan>
+            </text>
+            <text id="Learn-&amp;-Fun" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="47.3840001" y="427">Learn &amp; Fun</tspan>
+            </text>
+            <text id="Recommended" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="37.4000001" y="494">Recommended</tspan>
+            </text>
+            <text id="Feed" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="356.424" y="605">Feed</tspan>
+            </text>
+            <text id="Study-Plan" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="357.052" y="496">Study Plan</tspan>
+            </text>
+            <text id="Couse" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="356.188" y="550">Couse</tspan>
+            </text>
+            <rect id="Rectangle" fill="#C9FFEA" x="497" y="387" width="147" height="77" rx="12"></rect>
+            <rect id="Rectangle" fill="#C9FFEA" x="1290" y="388" width="147" height="65" rx="12"></rect>
+            <text id="Preview" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="37.48" y="550">Preview</tspan>
+            </text>
+            <text id="Speakers" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="38.212" y="605">Speakers</tspan>
+            </text>
+            <text id="Topics" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="38.04" y="660">Topics</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="186" y="399" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="339" y="399" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="339" y="399" width="130" height="44" rx="8"></rect>
+            <text id="Professional" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="358.22" y="427">Professional</tspan>
+            </text>
+            <text id="Search" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="225.064" y="428">Search</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="511" y="409" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="505" y="400" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="584" y="101" width="130" height="44" rx="8"></rect>
+            <text id="Survey" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="622.388" y="130">Survey</tspan>
+            </text>
+            <text id="Log-in/sign-in" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="592.176" y="222">Log in/sign in</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="585" y="281" width="130" height="44" rx="8"></rect>
+            <text id="View-Video" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="604.476" y="310">View Video</tspan>
+            </text>
+            <text id="Comment" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="534.384" y="429">Comment</tspan>
+            </text>
+            <polyline id="Path-2" stroke="#47CCFF" stroke-width="2" points="253 253 649 253 649 229"></polyline>
+            <path id="Path-2" d="M1059,250.210271 L1059.87158,251.759739 L1066.62158,263.759739 L1064.87842,264.740261 L1060,256.067 L1060,282 L649,282 L649,280 L1058,280 L1058,256.067 L1053.12158,264.740261 L1051.37842,263.759739 L1058.12842,251.759739 L1059,250.210271 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <polyline id="Path-2" stroke="#47CCFF" stroke-width="2" transform="translate(686.500000, 344.000000) scale(-1, 1) translate(-686.500000, -344.000000) " points="651 361 722 361 722 327"></polyline>
+            <line x1="1056" y1="362.837662" x2="1361" y2="362.5" id="Path-2" stroke="#47CCFF" stroke-width="2" transform="translate(1208.500000, 363.000000) scale(-1, 1) translate(-1208.500000, -363.000000) "></line>
+            <polyline id="Path-2" stroke="#47CCFF" stroke-width="2" transform="translate(983.500000, 380.500000) scale(-1, -1) translate(-983.500000, -380.500000) " points="911 398 1056 398 1056 363"></polyline>
+            <line x1="1055.25" y1="325" x2="1055" y2="398.467532" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(1055.000000, 362.000000) scale(-1, 1) translate(-1055.000000, -362.000000) "></line>
+            <line x1="1205.5" y1="361" x2="1206" y2="397" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(1206.000000, 379.000000) scale(-1, 1) translate(-1206.000000, -379.000000) "></line>
+            <line x1="1359.5" y1="361" x2="1360" y2="397" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(1360.000000, 379.000000) scale(-1, 1) translate(-1360.000000, -379.000000) "></line>
+            <polyline id="Path-2" stroke="#47CCFF" stroke-width="2" points="575 361 651 361 651 327"></polyline>
+            <line x1="574.5" y1="361" x2="575" y2="397" id="Path" stroke="#47CCFF" stroke-width="2"></line>
+            <path d="M1000,471 C940.666667,471 911,471 911,471 C911,471 911.167136,483 911.501408,507" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(955.500000, 489.000000) scale(-1, 1) translate(-955.500000, -489.000000) "></path>
+            <polyline id="Path-2" stroke="#47CCFF" stroke-width="2" points="860 471 911 471 911 437"></polyline>
+            <line x1="860.5" y1="471" x2="861" y2="507" id="Path" stroke="#47CCFF" stroke-width="2"></line>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="658" y="408" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="652" y="400" width="130" height="44" rx="8"></rect>
+            <text id="Mark" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="694.292" y="429">Mark</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="656" y="507" width="130" height="44" rx="8"></rect>
+            <text id="Add-to-Collage" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="661.156" y="536">Add to Collage</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="796" y="507" width="130" height="44" rx="8"></rect>
+            <text id="My-Collage" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="816.22" y="536">My Collage</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="938" y="507" width="130" height="44" rx="8"></rect>
+            <text id="Progress" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="967.192" y="536">Progress</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="938" y="605" width="130" height="44" rx="8"></rect>
+            <text id="Study-plan" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="960.484" y="634">Study plan</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="1147" y="399" width="130" height="44" rx="8"></rect>
+            <text id="Preference" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1168.396" y="428">Preference</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="846" y="399" width="130" height="44" rx="8"></rect>
+            <text id="Learner-center" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="852.1" y="428">Learner center</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="1298" y="399" width="130" height="44" rx="8"></rect>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="982" y="281" width="130" height="44" rx="8"></rect>
+            <text id="Me" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1035.244" y="310">Me</tspan>
+            </text>
+            <text id="Goal" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1155.02" y="492">Goal</tspan>
+            </text>
+            <text id="My-Question" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1312.016" y="492">My Question</tspan>
+            </text>
+            <text id="Replyed-me" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1316.228" y="550">Replyed me</tspan>
+            </text>
+            <text id="Invitation" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1326.044" y="608">Invitation</tspan>
+            </text>
+            <text id="Interest" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1155.216" y="550">Interest</tspan>
+            </text>
+            <text id="Time" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1154.256" y="608">Time</tspan>
+            </text>
+            <line x1="253.25" y1="325" x2="253" y2="398.467532" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(253.000000, 362.000000) scale(-1, 1) translate(-253.000000, -362.000000) "></line>
+            <line x1="403.5" y1="361" x2="404" y2="397" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(404.000000, 379.000000) scale(-1, 1) translate(-404.000000, -379.000000) "></line>
+            <text id="Interaction" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1319.48" y="428">Interaction</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#47CCFF" stroke-width="2" fill="#FFFFFF" x="991" y="399" width="130" height="44" rx="8"></rect>
+            <text id="Creater-center" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="997.208" y="428">Creater center</tspan>
+            </text>
+            <line x1="719.125" y1="553" x2="719.25" y2="667" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <line x1="393.9375" y1="625" x2="394.25" y2="753" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <line x1="981.9375" y1="551" x2="981.84375" y2="588" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <polyline id="Path-4" stroke="#CCEFFF" stroke-width="2" points="31 421 16 421 16 654 31 654"></polyline>
+            <polyline id="Path-4" stroke="#CCEFFF" stroke-width="2" points="342 421 327 421 327 599 342 599"></polyline>
+            <polyline id="Path-4" stroke="#CCEFFF" stroke-width="2" points="1147 421 1134 421 1134 602 1147 602"></polyline>
+            <line x1="1133" y1="486.5" x2="1148" y2="486.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <line x1="1133" y1="547.5" x2="1148" y2="547.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <polyline id="Path-4" stroke="#CCEFFF" stroke-width="2" points="1297 421 1284 421 1284 602 1297 602"></polyline>
+            <line x1="1283" y1="486.5" x2="1298" y2="486.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <line x1="1283" y1="547.5" x2="1298" y2="547.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <path id="Path" d="M573.211577,295.419081 L585.236963,302.12375 L586.789709,302.989473 L585.243541,303.866889 L573.269098,310.662124 L572.282005,308.922685 L582.71,303.004 L572.23764,297.16592 L573.211577,295.419081 Z M322.996198,302.984913 L323.003745,304.984899 L319.003774,304.999993 L318.996226,303.000007 L322.996198,302.984913 Z M330.996141,302.954724 L331.003688,304.95471 L327.003717,304.969804 L326.996169,302.969819 L330.996141,302.954724 Z M338.996084,302.924536 L339.003631,304.924522 L335.00366,304.939616 L334.996113,302.93963 L338.996084,302.924536 Z M346.996027,302.894347 L347.003574,304.894333 L343.003603,304.909427 L342.996056,302.909442 L346.996027,302.894347 Z M354.99597,302.864159 L355.003517,304.864145 L351.003546,304.879239 L350.995999,302.879253 L354.99597,302.864159 Z M362.995913,302.833971 L363.00346,304.833956 L359.003489,304.849051 L358.995942,302.849065 L362.995913,302.833971 Z M370.995856,302.803782 L371.003403,304.803768 L367.003432,304.818862 L366.995885,302.818876 L370.995856,302.803782 Z M378.995799,302.773594 L379.003346,304.773579 L375.003375,304.788674 L374.995828,302.788688 L378.995799,302.773594 Z M386.995742,302.743405 L387.003289,304.743391 L383.003318,304.758485 L382.995771,302.758499 L386.995742,302.743405 Z M394.995685,302.713217 L395.003232,304.713202 L391.003261,304.728297 L390.995714,302.728311 L394.995685,302.713217 Z M402.995628,302.683028 L403.003175,304.683014 L399.003204,304.698108 L398.995657,302.698122 L402.995628,302.683028 Z M410.995571,302.65284 L411.003119,304.652826 L407.003147,304.66792 L406.9956,302.667934 L410.995571,302.65284 Z M418.995514,302.622651 L419.003062,304.622637 L415.00309,304.637731 L414.995543,302.637746 L418.995514,302.622651 Z M426.995457,302.592463 L427.003005,304.592449 L423.003033,304.607543 L422.995486,302.607557 L426.995457,302.592463 Z M434.995401,302.562274 L435.002948,304.56226 L431.002976,304.577354 L430.995429,302.577369 L434.995401,302.562274 Z M442.995344,302.532086 L443.002891,304.532072 L439.002919,304.547166 L438.995372,302.54718 L442.995344,302.532086 Z M450.995287,302.501897 L451.002834,304.501883 L447.002862,304.516977 L446.995315,302.516992 L450.995287,302.501897 Z M458.99523,302.471709 L459.002777,304.471695 L455.002805,304.486789 L454.995258,302.486803 L458.99523,302.471709 Z M466.995173,302.441521 L467.00272,304.441506 L463.002748,304.456601 L462.995201,302.456615 L466.995173,302.441521 Z M474.995116,302.411332 L475.002663,304.411318 L471.002691,304.426412 L470.995144,302.426426 L474.995116,302.411332 Z M482.995059,302.381144 L483.002606,304.381129 L479.002634,304.396224 L478.995087,302.396238 L482.995059,302.381144 Z M490.995002,302.350955 L491.002549,304.350941 L487.002577,304.366035 L486.99503,302.366049 L490.995002,302.350955 Z M498.994945,302.320767 L499.002492,304.320752 L495.00252,304.335847 L494.994973,302.335861 L498.994945,302.320767 Z M506.994888,302.290578 L507.002435,304.290564 L503.002463,304.305658 L502.994916,302.305672 L506.994888,302.290578 Z M514.994831,302.26039 L515.002378,304.260376 L511.002407,304.27547 L510.994859,302.275484 L514.994831,302.26039 Z M522.994774,302.230201 L523.002321,304.230187 L519.00235,304.245281 L518.994802,302.245296 L522.994774,302.230201 Z M530.994717,302.200013 L531.002264,304.199999 L527.002293,304.215093 L526.994746,302.215107 L530.994717,302.200013 Z M538.99466,302.169824 L539.002207,304.16981 L535.002236,304.184904 L534.994689,302.184919 L538.99466,302.169824 Z M546.994603,302.139636 L547.00215,304.139622 L543.002179,304.154716 L542.994632,302.15473 L546.994603,302.139636 Z M554.994546,302.109447 L555.002093,304.109433 L551.002122,304.124527 L550.994575,302.124542 L554.994546,302.109447 Z M562.994489,302.079259 L563.002036,304.079245 L559.002065,304.094339 L558.994518,302.094353 L562.994489,302.079259 Z M570.994432,302.04907 L571.001979,304.049056 L567.002008,304.06415 L566.994461,302.064165 L570.994432,302.04907 Z M578.994375,302.018882 L579.001922,304.018868 L575.001951,304.033962 L574.994404,302.033976 L578.994375,302.018882 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <line x1="254" y1="362.5" x2="403" y2="362.5" id="Path-2" stroke="#47CCFF" stroke-width="2" transform="translate(328.500000, 362.500000) scale(-1, 1) translate(-328.500000, -362.500000) "></line>
+            <line x1="16" y1="599.5" x2="31" y2="599.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <line x1="16" y1="488.5" x2="31" y2="488.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <line x1="16" y1="544.5" x2="31" y2="544.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <path id="Path" d="M254.5,253 L254.5,277.932 L259.378424,269.259739 L261.121576,270.240261 L254.371576,282.240261 L253.5,283.789729 L252.628424,282.240261 L245.878424,270.240261 L247.621576,269.259739 L252.5,277.932 L252.5,253 L254.5,253 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <path id="Path" d="M861.997619,655.999405 L862,659.999405 L860,660.000595 L859.997619,656.000596 L861.997619,655.999405 Z M861.992857,647.999407 L861.995238,651.999406 L859.995238,652.000597 L859.992857,648.000597 L861.992857,647.999407 Z M861.988095,639.999408 L861.990476,643.999408 L859.990476,644.000598 L859.988095,640.000599 L861.988095,639.999408 Z M861.983333,631.99941 L861.985714,635.999409 L859.985714,636.000599 L859.983334,632.0006 L861.983333,631.99941 Z M861.978571,623.999411 L861.980952,627.99941 L859.980953,628.000601 L859.978572,624.000602 L861.978571,623.999411 Z M861.973809,615.999413 L861.97619,619.999412 L859.976191,620.000602 L859.97381,616.000603 L861.973809,615.999413 Z M861.969047,607.999414 L861.971428,611.999413 L859.971429,612.000604 L859.969048,608.000604 L861.969047,607.999414 Z M861.964286,599.999415 L861.966666,603.999415 L859.966667,604.000605 L859.964286,600.000606 L861.964286,599.999415 Z M861.959524,591.999417 L861.961905,595.999416 L859.961905,596.000607 L859.959524,592.000607 L861.959524,591.999417 Z M861.954762,583.999418 L861.957143,587.999418 L859.957143,588.000608 L859.954762,584.000609 L861.954762,583.999418 Z M861.95,575.99942 L861.952381,579.999419 L859.952381,580.000609 L859.95,576.00061 L861.95,575.99942 Z M861.945238,567.999421 L861.947619,571.99942 L859.947619,572.000611 L859.945238,568.000612 L861.945238,567.999421 Z M860.935839,552.210272 L861.808337,553.75922 L868.565479,565.7552 L866.822912,566.73676 L860.937,556.289 L855.066065,566.743758 L853.32233,565.764274 L860.065186,553.760258 L860.935839,552.210272 Z M861.940476,559.999422 L861.942857,563.999422 L859.942857,564.000612 L859.940476,560.000613 L861.940476,559.999422 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <path id="Path" d="M722.5,452 L722.5,503.932 L727.378424,495.259739 L729.121576,496.240261 L722.371576,508.240261 L721.5,509.789729 L720.628424,508.240261 L713.878424,496.240261 L715.621576,495.259739 L720.5,503.932 L720.5,452 L722.5,452 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <line x1="860.5" y1="667" x2="718.9375" y2="667" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <path id="Path" d="M420.031597,710.999913 L422.031597,711.000087 L422.03125,715.000087 L420.03125,714.999913 L420.031597,710.999913 Z M420.032292,702.999913 L422.032292,703.000087 L422.031944,707.000087 L420.031944,706.999913 L420.032292,702.999913 Z M420.032986,694.999913 L422.032986,695.000087 L422.032639,699.000087 L420.032639,698.999913 L420.032986,694.999913 Z M420.033681,686.999913 L422.033681,687.000087 L422.033333,691.000087 L420.033333,690.999913 L420.033681,686.999913 Z M420.034375,678.999913 L422.034375,679.000087 L422.034028,683.000087 L420.034028,682.999913 L420.034375,678.999913 Z M420.035069,670.999913 L422.035069,671.000087 L422.034722,675.000087 L420.034722,674.999913 L420.035069,670.999913 Z M420.035764,662.999913 L422.035764,663.000087 L422.035417,667.000087 L420.035417,666.999913 L420.035764,662.999913 Z M420.036458,654.999913 L422.036458,655.000087 L422.036111,659.000087 L420.036111,658.999913 L420.036458,654.999913 Z M420.037153,646.999913 L422.037153,647.000087 L422.036806,651.000087 L420.036806,650.999913 L420.037153,646.999913 Z M420.037847,638.999913 L422.037847,639.000087 L422.0375,643.000087 L420.0375,642.999913 L420.037847,638.999913 Z M421.039305,622.210271 L421.910746,623.759814 L428.659704,635.7604 L426.916468,636.740771 L421.438,627 L420.638,626.999 L415.159619,636.739751 L413.416553,635.759077 L420.167595,623.759663 L421.039305,622.210271 Z M420.038542,630.999914 L422.038542,631.000087 L422.038194,635.000087 L420.038194,634.999913 L420.038542,630.999914 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <line x1="999.5" y1="550" x2="999.5" y2="605" id="Path" stroke="#47CCFF" stroke-width="2"></line>
+            <line x1="996.53125" y1="753" x2="393.9375" y2="753" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <line x1="984.53125" y1="589" x2="919.5" y2="589" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <line x1="918.9375" y1="590" x2="919.34375" y2="715" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <line x1="920.53125" y1="715" x2="421.039063" y2="715" id="Path" stroke="#47CCFF" stroke-width="2" stroke-dasharray="4,4"></line>
+            <path id="Path" d="M650.5,60 L650.5,94.932 L655.378424,86.2597388 L657.121576,87.2402612 L650.371576,99.2402612 L649.5,100.789729 L648.628424,99.2402612 L641.878424,87.2402612 L643.621576,86.2597388 L648.5,94.932 L648.5,60 L650.5,60 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <path id="Path" d="M650.5,145 L650.5,179.932 L655.378424,171.259739 L657.121576,172.240261 L650.371576,184.240261 L649.5,185.789729 L648.628424,184.240261 L641.878424,172.240261 L643.621576,171.259739 L648.5,179.932 L648.5,145 L650.5,145 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#FFCC00" cx="158" cy="404" r="10"></circle>
+            <circle id="Oval" fill="#FFCC00" cx="714" cy="108" r="10"></circle>
+            <circle id="Oval" fill="#FFCC00" cx="781" cy="402" r="10"></circle>
+            <text id="4" font-family="PingFang-SC-Bold, PingFang SC" font-size="12" font-weight="bold" letter-spacing="0.419999993" fill="#FFFFFF">
+                <tspan x="1062" y="613">4</tspan>
+            </text>
+            <circle id="Oval" fill="#FFCC00" cx="1066" cy="609" r="10"></circle>
+            <circle id="Oval" fill="#FFCC00" cx="316" cy="402" r="10"></circle>
+            <circle id="Oval" fill="#FFCC00" cx="469" cy="402" r="10"></circle>
+            <circle id="Oval" fill="#FFCC00" cx="1425" cy="402" r="10"></circle>
+            <text id="4" font-family="PingFang-SC-Bold, PingFang SC" font-size="14" font-weight="bold" letter-spacing="0.489999992" fill="#FFFFFF">
+                <tspan x="1062" y="613">4</tspan>
+            </text>
+            <text id="1" font-family="PingFang-SC-Bold, PingFang SC" font-size="14" font-weight="bold" letter-spacing="0.489999992" fill="#FFFFFF">
+                <tspan x="155" y="407">1</tspan>
+            </text>
+            <text id="2" font-family="PingFang-SC-Bold, PingFang SC" font-size="14" font-weight="bold" letter-spacing="0.489999992" fill="#FFFFFF">
+                <tspan x="312" y="405">2</tspan>
+            </text>
+            <text id="3" font-family="PingFang-SC-Bold, PingFang SC" font-size="14" font-weight="bold" letter-spacing="0.489999992" fill="#FFFFFF">
+                <tspan x="465" y="405">3</tspan>
+            </text>
+            <text id="7" font-family="PingFang-SC-Bold, PingFang SC" font-size="12" font-weight="bold" letter-spacing="0.419999993" fill="#FFFFFF">
+                <tspan x="777" y="405">7</tspan>
+            </text>
+            <circle id="Oval" fill="#FFCC00" cx="781" cy="511" r="10"></circle>
+            <text id="8" font-family="PingFang-SC-Bold, PingFang SC" font-size="12" font-weight="bold" letter-spacing="0.419999993" fill="#FFFFFF">
+                <tspan x="777" y="514">8</tspan>
+            </text>
+            <circle id="Oval" fill="#FFCC00" cx="629" cy="402" r="10"></circle>
+            <text id="6" font-family="PingFang-SC-Bold, PingFang SC" font-size="12" font-weight="bold" letter-spacing="0.419999993" fill="#FFFFFF">
+                <tspan x="625" y="405">6</tspan>
+            </text>
+            <text id="5" font-family="PingFang-SC-Bold, PingFang SC" font-size="14" font-weight="bold" letter-spacing="0.489999992" fill="#FFFFFF">
+                <tspan x="1421" y="406">5</tspan>
+            </text>
+            <line x1="327" y1="488.5" x2="342" y2="488.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <line x1="327" y1="544.5" x2="342" y2="544.5" id="Path-5" stroke="#CCEFFF" stroke-width="2"></line>
+            <rect id="Rectangle" fill="#FFCC00" x="1269" y="18" width="159" height="23" rx="11"></rect>
+            <text id="Key-moments" font-family="PingFang-SC-Bold, PingFang SC" font-size="18" font-weight="bold" letter-spacing="0.629999989" fill="#FFFFFF">
+                <tspan x="1284.08" y="35">Key moments</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFDCBB" x="1269" y="100" width="159" height="23" rx="11"></rect>
+            <line x1="721" y1="360" x2="721" y2="399" id="Path" stroke="#47CCFF" stroke-width="2" transform="translate(721.000000, 379.500000) scale(-1, 1) translate(-721.000000, -379.500000) "></line>
+            <path id="Path-18" d="M1001,747 L1001,751 L999,751 L999,747 L1001,747 Z M1001,739 L1001,743 L999,743 L999,739 L1001,739 Z M1001,731 L1001,735 L999,735 L999,731 L1001,731 Z M1001,723 L1001,727 L999,727 L999,723 L1001,723 Z M1001,715 L1001,719 L999,719 L999,715 L1001,715 Z M1001,707 L1001,711 L999,711 L999,707 L1001,707 Z M1001,699 L1001,703 L999,703 L999,699 L1001,699 Z M1001,691 L1001,695 L999,695 L999,691 L1001,691 Z M1001,683 L1001,687 L999,687 L999,683 L1001,683 Z M1001,675 L1001,679 L999,679 L999,675 L1001,675 Z M1001,667 L1001,671 L999,671 L999,667 L1001,667 Z M1001,659 L1001,663 L999,663 L999,659 L1001,659 Z M1000,648.210271 L1000.87158,649.759739 L1007.62158,661.759739 L1005.87842,662.740261 L1001,654.067 L1001,655 L999,655 L999,654.067 L994.121576,662.740261 L992.378424,661.759739 L999.128424,649.759739 L1000,648.210271 Z" fill="#47CCFF" fill-rule="nonzero"></path>
+            <text id="Key-Task-Flow" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1272.37563" y="88">Key Task Flow</tspan>
+            </text>
+            <text id="First-Time" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1285.08" y="118">First Time</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFEDA6" x="1269" y="132" width="159" height="23" rx="11"></rect>
+            <text id="Setting-Plan" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1281.084" y="150">Setting Plan</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D6FF9B" x="1269" y="163" width="159" height="23" rx="11"></rect>
+            <rect id="Rectangle" fill="#9BFFD9" x="1269" y="194" width="159" height="23" rx="11"></rect>
+            <text id="Added-to-Collage" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1281.3" y="181">Added to Collage</tspan>
+            </text>
+            <text id="Ask-Question" font-family="PingFang-SC-Bold, PingFang SC" font-size="16" font-weight="bold" letter-spacing="0.55999999" fill="#5C5C5C">
+                <tspan x="1281.144" y="211">Ask Question</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
