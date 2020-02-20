@@ -462,7 +462,7 @@ a.NaviProject:hover {
 
 .post-wrapper .post-sub-title,
 .post-wrapper .post-sub-title a {
-
+text-align: center;
   margin-bottom: 60px;
   color: #000;
   text-align: center;
