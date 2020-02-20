@@ -382,7 +382,7 @@ a.NaviProject:hover {
 #nav {
   position: fixed;
   float: right;
-  margin: 100px 10px;
+  margin: 120px 10px;
   list-style-type: none;
   //background: #f00;
   font: 14px Tahoma, Helvetica, Arial, Helvetica;
