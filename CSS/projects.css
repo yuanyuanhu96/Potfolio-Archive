@@ -460,9 +460,8 @@ a.NaviProject:hover {
 }
 
 
-.post-wrapper .post-sub-title,
-.post-wrapper .post-sub-title a {
-text-align: center;
+.post-sub-title,
+.post-sub-title a {
   margin-bottom: 60px;
   color: #000;
   text-align: center;
