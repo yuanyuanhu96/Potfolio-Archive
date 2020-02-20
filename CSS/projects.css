@@ -924,3 +924,23 @@ p {
 .last-next {
   margin-top: 40px;
 }
+
+
+
+
+
+.ticket-h3 {
+  display: block;
+  /* border-left-style: solid;
+  border-left-color: rgb(148, 205, 213);
+  border-left-width: 3px;
+  padding-left: 10px; */
+
+
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 40px;
+
+  margin-bottom: 25px;
+  color: rgb(150, 150, 150);
+}
