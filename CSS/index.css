@@ -233,7 +233,7 @@ img {
     text-align: center;
     margin: 0 auto;
     padding-right: 60px;
-    margin-bottom: 40px;
+    margin-bottom: 0;
 }
 
 .selected-work {
@@ -281,5 +281,4 @@ img {
 
 
 
-.back-button {
-}
+.back-button {}
