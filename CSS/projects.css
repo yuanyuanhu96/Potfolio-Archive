@@ -552,10 +552,13 @@ a.NaviProject:hover {
 }
 
 .post-wrapper h2 .number{
-  color: #A6D9E3;
+  color: #eee;
   display: inline;
-  font-size: 80px;
-  margin-right: 20px;
+  font-size: 100px;
+  /* margin-right: 20px; */
+  position: relative;
+    left: -10px;
+
 }
 
 
