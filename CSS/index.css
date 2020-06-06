@@ -130,8 +130,8 @@ img {
   width: 100%;
 }
 
-.foot {
-  height: 400px;
+footer {
+  height: 360px;
   background-color: #a6d9e3;
   min-width: 100%;
   text-align: center;
@@ -139,7 +139,9 @@ img {
 
   padding: 50px 0;
 
-  font-weight: lighter;
+  font-weight: 380;
+  font-size: 15px;
+
   margin-top: 80px;
 }
 
