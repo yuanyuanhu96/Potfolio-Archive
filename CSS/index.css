@@ -258,3 +258,57 @@ footer {
 
 .back-button {
 }
+
+.align-center {
+  text-align: center;
+}
+
+.padding-right-30 {
+  padding-right: 30px;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.three-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.one-to-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.chunk-left {
+  margin-right: 22px;
+}
+
+.my-photo {
+  padding-right: 15px;
+}
+
+mark {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #a6d9e3 50%);
+  height: 5px;
+  background-position: bottom 50px;
+}
+
+
+.highlight {
+  margin-top: 20px;
+  margin-bottom: 60px;
+  font-style: normal;
+  font-size: 30px;
+  font-family: "Chronicle Display",
+    Georgia,
+    serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
