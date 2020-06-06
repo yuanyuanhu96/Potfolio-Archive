@@ -1,87 +1,77 @@
 * {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-size: 16px;
-    color: black;
-    font-family: SlatePro,
-        Helvetica,
-        Arial,
-        sans-serif;
-    font-style: normal;
-    font-size: 1.125em;
-    font-weight: 400;
-    text-transform: none;
-    line-height: 1.625;
-    letter-spacing: 0;
-    -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  color: black;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 1.125em;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.625;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
-    text-decoration: none;
-    display: inline-block;
+  text-decoration: none;
+  display: inline-block;
 }
 
 h1 {
-    font-style: normal;
-    font-size: 2.75em;
-    font-family: "Chronicle Display", Georgia, serif;
-    font-weight: 400;
-    text-transform: none;
-    line-height: 1.14;
-    letter-spacing: 0;
-    -webkit-font-smoothing: antialiased;
-    color: rgb(59, 59, 59);
+  font-style: normal;
+  font-size: 2.75em;
+  font-family: 'Chronicle Display', Georgia, serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.14;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  color: #000;
 }
 
 h2 {
+  color: rgb(86, 182, 182);
 
-    color: rgb(86, 182, 182);
-
-
-    margin-top: 20px;
-    margin-bottom: 30px;
-    font-style: normal;
-    font-size: 30px;
-    font-family: "Chronicle Display",
-        Georgia,
-        serif;
-    font-weight: 400;
-    text-transform: none;
-    line-height: 1.5;
-    letter-spacing: 0;
-    -webkit-font-smoothing: antialiased;
-
-
-
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-style: normal;
+  font-size: 30px;
+  font-family: 'Chronicle Display', Georgia, serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 img {
-    display: block;
-    max-width: 100%;
+  display: block;
+  max-width: 100%;
 }
 
 .container {
-    display: block;
-    max-width: 1080px;
-    margin: 0 auto;
+  display: block;
+  max-width: 1080px;
+  margin: 0 auto;
 }
 
 .fl {
-    float: left;
+  float: left;
 }
 
 .fr {
-    float: right;
+  float: right;
 }
 
 .clearf:after,
 .clearf:before {
-    content: " ";
-    display: block;
-    clear: both;
+  content: ' ';
+  display: block;
+  clear: both;
 }
 
 .col-1,
@@ -94,191 +84,175 @@ img {
 .col-8,
 .col-9,
 .col-10 {
-    display: block;
-    position: relative;
-    min-height: 1px;
-    float: left;
+  display: block;
+  position: relative;
+  min-height: 1px;
+  float: left;
 }
 
 .col-1 {
-    width: 10%;
+  width: 10%;
 }
 
 .col-2 {
-    width: 20%;
+  width: 20%;
 }
 
 .col-3 {
-    width: 30%;
+  width: 30%;
 }
 
 .col-4 {
-    width: 40%;
+  width: 40%;
 }
 
 .col-5 {
-    width: 50%;
+  width: 50%;
 }
 
 .col-6 {
-    width: 60%;
+  width: 60%;
 }
 
 .col-7 {
-    width: 70%;
+  width: 70%;
 }
 
 .col-8 {
-    width: 80%;
+  width: 80%;
 }
 
 .col-9 {
-    width: 90%;
+  width: 90%;
 }
 
 .col-9 {
-    width: 100%;
+  width: 100%;
 }
-
 
 .foot {
-    height: 400px;
-    background-color: #A6D9E3;
-    min-width: 100%;
-    text-align: center;
-    color: #FFFFFF;
+  height: 400px;
+  background-color: #a6d9e3;
+  min-width: 100%;
+  text-align: center;
+  color: #ffffff;
 
-    padding: 50px 0;
+  padding: 50px 0;
 
-    font-weight: lighter;
-    margin-top: 80px;
+  font-weight: lighter;
+  margin-top: 80px;
 }
 
-
-.main-display {}
+.main-display {
+}
 
 .top-nav,
 .cat-display {
-    padding: 10px 30px;
-    width: 100%;
+  padding: 10px 30px;
+  width: 100%;
 }
 
 .header {
-    padding: 120px 50px 2px 50px;
-    width: 100%;
-
+  padding: 120px 50px 2px 50px;
+  width: 100%;
 }
 
 .top-nav {
-    background: rgba(255, 255, 255, 0.9);
-    position: fixed;
-    z-index: 5555
+  background: rgba(255, 255, 255, 0.9);
+  position: fixed;
+  z-index: 5555;
 }
 
 .top-nav .item {
-    padding: 6px 10px;
-    display: inline-block;
-    color: rgb(86, 182, 182);
-    font-size: 16px;
-    font-weight: 500;
-
+  padding: 6px 10px;
+  display: inline-block;
+  color: rgb(86, 182, 182);
+  font-size: 16px;
+  font-weight: 500;
 }
 
 .top-nav .item:hover {
-    color: rgb(48, 134, 134);
-    transition: color 200ms;
-
+  color: rgb(48, 134, 134);
+  transition: color 200ms;
 }
 
 .title-pic {
-    margin-top: 50px;
-    margin-left: 10px;
-    margin-right: 70px;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 70px;
 
-    float: right;
+  float: right;
 }
 
 .cat-display {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .resume {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
 
-
-
 .title {
-    position: absolute;
-    z-index: -1;
-    padding: 0 10px;
+  position: absolute;
+  z-index: -1;
+  padding: 0 10px;
 }
 
 .mask {
-    z-index: 5;
-    padding: 0 10px;
-    visibility: visible;
-    transition: 500ms;
-    opacity: 0;
-
+  z-index: 5;
+  padding: 0 10px;
+  visibility: visible;
+  transition: 500ms;
+  opacity: 0;
 }
 
 .mask:hover {
-    opacity: 100%;
-
+  opacity: 100%;
 }
 
 .works-title {
-    text-align: center;
-    margin: 0 auto;
-    padding-right: 60px;
-    margin-bottom: 0;
+  text-align: center;
+  margin: 0 auto;
+  padding-right: 60px;
+  margin-bottom: 0;
 }
 
 .selected-work {
-    margin-bottom: 100px;
+  margin-bottom: 100px;
 }
 
-
 .one-to-two {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin-bottom: 20px;
 }
 
 .chunk-left {
-    margin-top: 10px;
-    margin-right: 0;
-    margin-bottom: 10px;
-    margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 0;
+  margin-bottom: 10px;
+  margin-left: 10px;
 }
 
 .more-explanation {
-    font-size: 0.8em;
-    font-weight: 300;
-    padding-left: 20px;
+  font-size: 0.8em;
+  font-weight: 300;
+  padding-left: 20px;
 
-    padding-right: 100px;
+  padding-right: 100px;
 }
 
-
-
-
-
 .contact-me {
-    font-weight: 500;
+  font-weight: 500;
 
-    color: rgb(86, 182, 182);
-
+  color: rgb(86, 182, 182);
 }
 
 .contact-me:hover {
-    color: rgb(48, 134, 134);
-    transition: color 200ms;
-
+  color: rgb(48, 134, 134);
+  transition: color 200ms;
 }
 
-
-
-.back-button {}
+.back-button {
+}
