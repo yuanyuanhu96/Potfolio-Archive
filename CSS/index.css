@@ -27,7 +27,7 @@ h1 {
   font-family: 'Chronicle Display', Georgia, serif;
   font-weight: 400;
   text-transform: none;
-  line-height: 1.14;
+  line-height: 1.5;
   letter-spacing: 0;
   -webkit-font-smoothing: antialiased;
   color: #000;
@@ -169,7 +169,7 @@ footer {
   padding: 6px 10px;
   display: inline-block;
   color: rgb(86, 182, 182);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -261,10 +261,14 @@ footer {
 
 .align-center {
   text-align: center;
+  margin: 0 auto;
 }
 
 .padding-right-30 {
   padding-right: 30px;
+}
+.padding-top-60 {
+  padding-top: 60px;
 }
 
 .two-col {
@@ -279,7 +283,7 @@ footer {
 
 .one-to-two {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
 }
 
 .chunk-left {
@@ -287,7 +291,7 @@ footer {
 }
 
 .my-photo {
-  padding-right: 15px;
+  padding-right: 60px;
 }
 
 mark {
@@ -296,15 +300,12 @@ mark {
   background-position: bottom 50px;
 }
 
-
 .highlight {
   margin-top: 20px;
   margin-bottom: 60px;
   font-style: normal;
   font-size: 30px;
-  font-family: "Chronicle Display",
-    Georgia,
-    serif;
+  font-family: 'Chronicle Display', Georgia, serif;
   font-weight: 400;
   text-transform: none;
   line-height: 1.5;
@@ -312,3 +313,29 @@ mark {
   -webkit-font-smoothing: antialiased;
 }
 
+.larger {
+  font-size: 20px;
+}
+
+.intext-link {
+  font-style: italic;
+
+  display: inline-block;
+  color: #000;
+}
+
+.intext-link:hover {
+  font-style: normal;
+
+  color: rgb(86, 182, 182);
+  //transition: color 200ms;
+}
+
+.block-breaker {
+  background-color: #a6d9e3;
+  color: #fff;
+}
+
+.white-text {
+  color: #fff;
+}
