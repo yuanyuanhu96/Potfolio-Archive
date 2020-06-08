@@ -286,6 +286,12 @@ footer {
   grid-template-columns: 1fr 2fr;
 }
 
+
+.one-to-one {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .chunk-left {
   margin-right: 22px;
 }

@@ -973,6 +973,13 @@ p,
   grid-template-columns: 1fr 1fr;
 }
 
+
+
+.one-to-one {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .chunk-left {
   margin-right: 22px;
 }
