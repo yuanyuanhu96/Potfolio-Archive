@@ -974,6 +974,13 @@ p,
 }
 
 
+.two-to-one
+{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+
 
 .one-to-one {
   display: grid;
