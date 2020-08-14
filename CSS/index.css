@@ -18,7 +18,7 @@ body {
 
 a {
   text-decoration: none;
-  display: block;
+  display: inline-block;
 }
 
 h1 {
@@ -200,12 +200,15 @@ footer {
 .title {
   position: absolute;
   z-index: -1;
+  display: block;
 }
 
 .mask {
   z-index: 5;
   transition: 500ms;
   opacity: 0;
+    display: block;
+
 }
 
 .mask:hover {
