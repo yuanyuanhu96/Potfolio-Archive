@@ -207,8 +207,7 @@ footer {
   z-index: 5;
   transition: 500ms;
   opacity: 0;
-    display: block;
-
+  display: block;
 }
 
 .mask:hover {
@@ -311,7 +310,7 @@ mark {
   margin-top: 20px;
   margin-bottom: 60px;
   font-style: normal;
-  font-size: 30px;
+  font-size: 26px;
   font-family: 'Chronicle Display', Georgia, serif;
   font-weight: 400;
   text-transform: none;
