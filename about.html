@@ -70,8 +70,17 @@
         </div>
       </div>
     </div>
-
-    <svg version="1.1" x="0px" y="0px" viewBox="0 0 800 900" class="ddd"></svg>
+    <div>
+      <div class="align-center">
+        <svg
+          version="1.1"
+          x="0px"
+          y="0px"
+          viewBox="0 0 800 900"
+          class="ddd"
+        ></svg>
+      </div>
+    </div>
 
     <!-- <br /><br />
     <br />
@@ -217,6 +226,19 @@
         .attr('fill', '#000')
         .style('font-size', '12px')
         .style('font-weight', '600');
+
+      ddd
+        .append('polyline')
+        .attr('points', [
+          [390, 10],
+          [400, 18],
+          [410, 10],
+        ])
+        .attr('cy', 50)
+        .attr('r', 30)
+        .style('fill', 'none')
+        .style('stroke', '#ddd')
+        .style('stroke-width', 1);
 
       // Add Experience
 
