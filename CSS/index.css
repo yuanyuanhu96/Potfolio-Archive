@@ -4,7 +4,6 @@
 }
 
 body {
-  font-size: 16px;
   color: black;
   font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
   font-style: normal;
@@ -225,6 +224,8 @@ footer {
   margin-bottom: 100px;
 }
 
+
+
 .one-to-two {
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -338,7 +339,7 @@ mark {
   font-style: normal;
 
   color: rgb(86, 182, 182);
-  //transition: color 200ms;
+  transition: color 200ms;
 }
 
 .block-breaker {

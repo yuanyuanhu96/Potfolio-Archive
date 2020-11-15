@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+    <title>Yuanyuan Hu | Design Portfolio</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.bootcss.com/normalize/8.0.1/normalize.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="./CSS/index.css" />
+    <link rel="stylesheet" type="text/css" href="./assets/css/filter.css" />
+  </head>
+
+  <body>
+    <div class="top-nav">
+      <div class="container clearf">
+        <div class="fl">
+          <a href="./index.html"
+            ><img src="./images/Logo-HU.svg" alt="" width="50"
+          /></a>
+        </div>
+
+        <div class="fr">
+          <a class="item" href="./index.html">Projects</a>
+          <a class="item" href="./methods.html">Methods</a>
+
+          <a class="item" href="./about.html">About me</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="header clearf">
+        <h1>Welcome to Yuanyuan's design toolbox!</h1>
+        <div class="one-to-two">
+          <img src="./assets/img/methods/toolbox.png" alt="" width="80%" />
+          <h2>
+            This place is to reflect on and share what I learned about design,
+            it's just a begining and more will come :)
+          </h2>
+        </div>
+        <br />
+        <br />
+      </div>
+
+      <!-- Control buttons -->
+      <div id="myBtnContainer">
+        <button class="btn active" onclick="filterSelection('all')">
+          Show all
+        </button>
+        <button class="btn" onclick="filterSelection('process')">
+          Design Process
+        </button>
+        <button class="btn" onclick="filterSelection('problem')">
+          Problem Framing
+        </button>
+        <button class="btn" onclick="filterSelection('system')">
+          System Thinking
+        </button>
+        <button class="btn" onclick="filterSelection('ideating')">
+          Ideating
+        </button>
+        <button class="btn" onclick="filterSelection('prototyping')">
+          Prototyping
+        </button>
+      </div>
+      <br />
+      <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
+      <div class="container">
+        <div class="tool-card process">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-01.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Double Diamond</div>
+              <div class="tool-description">
+                Designers all know how to design by themselves, but there many
+                times we should explain the process to others. This model may
+                look dated but its widely accepeted and do its work.
+              </div>
+
+              <div class="tool-source">
+                Image source:
+                https://www.testingtime.com/en/blog/double-diamond-process/
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card ideating">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-02.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Round Robin Brainstorming</div>
+              <div class="tool-description">
+                I really like this method for brainstorming because it force
+                people to think through each others ideas and develop ideas
+                together. <br />
+                How can we let team member build on ideas rather than just
+                criticizing is a huge topic. We also use the "Yes, and... No,
+                but... " method.
+              </div>
+
+              <div class="tool-source">
+                Image source: https://www.mural.co/templates/round-robin
+              </div>
+            </section>
+          </div>
+        </div>
+        <div class="tool-card prototyping">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-03.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Heuristic Evaluation</div>
+              <div class="tool-description">
+                Heuristic evaluation is very quick and cheap, but it can
+                identify most usibility problems. The most common system we are
+                using is from Nielsen Norman, I also like the "UI Tenets &
+                Traps".
+              </div>
+
+              <div class="tool-source">
+                Image source:
+                https://uxplanet.org/how-to-conduct-heuristic-evaluation-85548a355dca
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card problem">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-04.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Affinity Diagram</div>
+              <div class="tool-description">
+                I was surprised that just putting similar things together can be
+                a design and research method. After using it for many times, I
+                found it is always a good start point to make sense of tones of
+                qualitative data and finding patterns.
+              </div>
+
+              <div class="tool-source">
+                https://uxdict.io/design-thinking-methods-affinity-diagrams-357bd8671ad4
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card prototyping">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-05.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Paper Prototype</div>
+              <div class="tool-description">
+                We have so many prototyping tool, from sketchy to Hi-Fi, do we
+                still need paper and pen? Absolutely!<br />
+
+                There is no copy and paste on the paper. Whenever I draw a
+                similar interface it give me another chance to think about it
+                again.
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card system">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-06.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Back Casting</div>
+              <div class="tool-description">
+                Limitation and current context are friends of designers, but its
+                easy for teams to be lost in fixing endless bugs and finish the
+                next and next release. Backcasting from future can help us
+                clarify what is the most important things rather than most
+                urgent -- they are not always the same.
+              </div>
+
+              <div class="tool-source">
+                https://www.youtube.com/watch?v=UshLmJ5uW6U
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card system">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-07.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Value Proposition Canvas</div>
+              <div class="tool-description">
+                Once we have a good understanding of the user, this value
+                proposition canvas can help us quickly come up with new ideas.
+                While developing ideas, its still beneficial to keep it in minds
+                and to keep our offerings align with user's needs.
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card system">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-08.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">Multi-Level Perspective</div>
+              <div class="tool-description">
+                Multi-Level Perspective model help us undersatand an system from
+                landscape, regime, and niche level. It also shows that we have
+                different ways to interact with the system and drive change.
+              </div>
+
+              <div class="tool-source">
+                https://www.cairn-int.info/article-E_JIE_025_0211--the-inventor-s-perspective-on.htm
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="tool-card problem">
+          <div class="one-to-one">
+            <section>
+              <div class="tool-img">
+                <img src="./assets/img/methods/tool-09.png" alt="" />
+              </div>
+            </section>
+            <section class="tool-text">
+              <div class="tool-title">5 Whys</div>
+              <div class="tool-description">
+                Many designer had the experience of given an wrong problem to
+                solve. These Five Why help us undersatand what is the root cause
+                of a problem also help our client understand what they are
+                trying to solve.
+              </div>
+
+              <div class="tool-source">
+                https://online.visual-paradigm.com/knowledge/root-cause-analysis/root-cause-analysis-5-whys-technique/
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div>
+        <a href="Resume_HU.pdf" target="_blank">
+          <img src="./images/Resume.svg" alt="" width="100"
+        /></a>
+      </div>
+      <div><br /></div>
+
+      <p>Thanks for your visiting! &nbsp;Please feel free to contact me :)</p>
+      <!-- <div><br></div> -->
+
+      <span>Email. yhu76@id.iit.edu </span>
+      <span>&nbsp;&nbsp;</span>
+      <span> Tel. (312)709-9034 </span>
+      <span>&nbsp;&nbsp;</span>
+      <div><br /></div>
+
+      <div class="sns">
+        <a href="http://www.instagram.com/yuanyuanhuu" target="_blank">
+          <img src="./img/index/sns-01.png" alt="" width="36"
+        /></a>
+        <span>&nbsp;</span>
+
+        <a
+          href="https://www.linkedin.com/in/yuanyuan-hu-566651179/"
+          target="_blank"
+        >
+          <img src="./img/index/sns-02.png" alt="" width="36"
+        /></a>
+
+        <span>&nbsp;</span>
+
+        <a href="https://www.github.com/yuanyuanhu96/" target="_blank">
+          <img src="./img/index/sns-03.png" alt="" width="36"
+        /></a>
+      </div>
+      <div><br /><br /></div>
+
+      <div>© 2020 Yuanyuan Hu | Designed and developed by Yuanyuan Hu</div>
+    </footer>
+
+    <script src="./assets/js/filter.js"></script>
+  </body>
+</html>
