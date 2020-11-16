@@ -224,7 +224,10 @@ footer {
   margin-bottom: 100px;
 }
 
-
+.two-to-one {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
 
 .one-to-two {
   display: grid;
