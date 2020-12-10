@@ -204,7 +204,7 @@ footer {
 
 .mask {
   z-index: 5;
-  transition: 500ms;
+  /* transition: 200ms; */
   opacity: 0;
   display: block;
 }
@@ -265,16 +265,16 @@ footer {
   padding: 20px;
 }
 
-.contact-me {
+/* .contact-me {
   font-weight: 500;
 
   color: rgb(86, 182, 182);
-}
+} */
 
-.contact-me:hover {
+/* .contact-me:hover {
   color: rgb(48, 134, 134);
-  transition: color 200ms;
-}
+  /* transition: color 1000ms; */
+} */
 
 .back-button {
 }
