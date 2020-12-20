@@ -1086,3 +1086,23 @@ p,
   /* background-color:#F3FAEE; */
     padding: 20px 20px;
 }
+
+
+.bubble-green-1{
+  background-color: #f1faf2;
+}
+
+.bubble-green-2{
+  background-color: #76cd9b;
+}
+
+.bubble-gray{
+  background-color: #999999;
+}
+
+
+.bubble-footer{
+  margin: 0 0;
+  background-color: #76cd9b;
+
+}

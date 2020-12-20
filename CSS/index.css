@@ -177,6 +177,37 @@ footer {
   transition: color 200ms;
 }
 
+
+
+.top-nav-trans
+{
+  padding: 10px 30px;
+  width: 100%;
+}
+
+
+
+.top-nav-trans {
+  position: fixed;
+  z-index: 5555;
+}
+
+.top-nav-trans .item {
+  padding: 6px 10px;
+  display: inline-block;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.top-nav-trans .item:hover {
+  color: rgb(48, 134, 134);
+  transition: color 200ms;
+}
+
+
+
+
 .title-pic {
   margin-top: 50px;
   margin-left: 10px;
