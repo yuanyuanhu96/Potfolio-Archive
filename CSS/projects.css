@@ -1106,3 +1106,19 @@ p,
   background-color: #76cd9b;
 
 }
+
+
+.case-bubble{
+  width: 70%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+      text-align: center;
+    margin: 0 auto 0;
+    padding-bottom: 100px;
+}
+
+.gif-bubble{
+
+      text-align: center;
+    margin: 0 auto 0;
+}
