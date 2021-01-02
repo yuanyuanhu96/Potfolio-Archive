@@ -1100,12 +1100,23 @@ p,
   background-color: #999999;
 }
 
+.lexio-blue{
+  background-color: #0097A7;
+}
+
 
 .bubble-footer{
   margin: 0 0;
   background-color: #76cd9b;
 
 }
+
+.lexio-footer{
+  margin: 0 0;
+  background-color: #0097A7;
+
+}
+
 
 
 .case-bubble{
