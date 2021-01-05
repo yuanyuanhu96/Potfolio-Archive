@@ -427,3 +427,13 @@ mark {
   -webkit-font-smoothing: antialiased;
   color: #000;
 }
+
+
+.padding-bottom-30{
+  padding-bottom: 30px;
+}
+
+.padding-bottom-60{
+  padding-bottom: 60px;
+}
+
