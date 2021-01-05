@@ -73,6 +73,21 @@ img {
   clear: both;
 }
 
+.per-48,
+.per-04{
+    display: block;
+  position: relative;
+  min-height: 1px;
+  float: left;
+}
+
+.per-48{  width: 47.5%;
+}
+
+.per-04{  width: 5%;
+}
+
+
 .col-1,
 .col-2,
 .col-3,
