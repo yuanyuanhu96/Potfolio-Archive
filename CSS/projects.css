@@ -958,8 +958,8 @@ p,
 }
 
 
-.align-mid {
-  padding: auto auto;
+.align-mid-center {
+  margin: auto auto;
 }
 
 .two-col {
