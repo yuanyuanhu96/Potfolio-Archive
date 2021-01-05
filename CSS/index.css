@@ -247,6 +247,8 @@ footer {
   position: absolute;
   z-index: -1;
   display: block;
+    margin-bottom: 50px;
+
 }
 
 .mask {
@@ -254,6 +256,7 @@ footer {
   /* transition: 200ms; */
   opacity: 0;
   display: block;
+  margin-bottom: 50px;
 }
 
 .mask:hover {
@@ -437,3 +440,7 @@ mark {
   padding-bottom: 60px;
 }
 
+.index-add-margin{
+    margin-bottom: 50px;
+
+}
