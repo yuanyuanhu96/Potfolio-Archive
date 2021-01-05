@@ -957,6 +957,11 @@ p,
   text-align: center;
 }
 
+
+.align-mid {
+  padding: 0 auto;
+}
+
 .two-col {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1131,4 +1136,20 @@ p,
 
       text-align: center;
     margin: 0 auto 0;
+}
+
+.mock-box{
+position: relative;
+
+}
+
+.no-place{
+position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+
+}
+
+.lexio-gif {
+  /* width: 1400px; */
 }
