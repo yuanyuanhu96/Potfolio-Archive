@@ -214,6 +214,7 @@ footer {
   color: #fff;
   font-size: 18px;
   font-weight: 500;
+  text-decoration: none;
 }
 
 .top-nav-trans .item:hover {
