@@ -1117,7 +1117,9 @@ p,
 }
 
 .bubble-gray{
+  position: relative;
   background-color: #999999;
+  padding: 50px 0 100px;
 }
 
 .lexio-blue{
@@ -1168,4 +1170,141 @@ position: absolute;
 
 .lexio-gif {
   /* width: 1400px; */
+}
+
+
+.bubble-center{
+  width: 65%;
+  margin: auto auto;
+
+}
+
+/* Bubble white text!!!! */
+
+
+.bubble-w-h1,
+.bubble-w-h2,
+.bubble-w-h3{
+          font-family: 'poppinsblack', serif;
+    color: #fff;
+
+}
+
+.bubble-w-h1{
+  font-size: 40px;
+}
+
+
+.bubble-w-h2{
+  font-size: 32px;
+      padding-top: 30px;
+        padding-bottom: 10px;
+
+}
+
+.bubble-w-h3{
+  font-size: 20px;
+
+}
+
+
+
+
+.bubble-w-p{
+          font-family: 'poppinsregular', serif;
+            color: #fff;
+              font-size: 18px;
+
+
+}
+
+
+
+/* Bubble Gray text!!!! */
+
+
+.bubble-g-h1,
+.bubble-g-h2,
+.bubble-g-h3{
+          font-family: 'poppinsblack', serif;
+    color: #434343;
+
+}
+
+.bubble-g-h1{
+  font-size: 40px;
+}
+
+
+.bubble-g-h2{
+  font-size: 32px;
+      padding-top: 30px;
+        padding-bottom: 10px;
+
+}
+
+.bubble-g-h3{
+  font-size: 20px;
+
+}
+
+
+
+
+.bubble-g-p{
+          font-family: 'poppinsregular', serif;
+            color: #434343;
+              font-size: 18px;
+
+
+}
+
+.bubble-role {
+  display: grid;
+  grid-template-columns: 2fr 4fr 4fr;
+}
+
+.bubble-role > * {
+  margin: 5px 5px;
+
+}
+
+.bubble-role > * > *{
+  margin: 10px 0;
+
+}
+
+.role-bar {
+  height: 14px;
+  background-color: rgb(175, 238, 189);
+  /* margin: 5px 5px; */
+  border-radius: 7px;
+}
+
+
+.bubble-four-block {
+    width: 65%;
+  margin: auto auto;
+  display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.bubble-four-block > * {
+  margin: 20px 20px;
+
+}
+
+.cloud-box{
+      width: 70%;
+      margin: auto auto;
+
+}
+
+.cloud {
+position: absolute;
+        top: 0;
+        transform: translateY(-70%);
+
+
 }

@@ -199,12 +199,12 @@ footer {
 {
   padding: 10px 30px;
   width: 100%;
+  background-color: #76cd9b;
 }
 
 
 
 .top-nav-trans {
-  position: fixed;
   z-index: 5555;
 }
 
