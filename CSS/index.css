@@ -287,10 +287,7 @@ footer {
 .two-to-three {
   display: grid;
   grid-template-columns: 2fr 3fr;
-  margin-bottom: 20px;
-  border-bottom: #eeeeee;
-  border-width: 1.5px;
-  border-bottom-style: solid;
+  margin-bottom: 10px;
 }
 
 .three-to-two {
