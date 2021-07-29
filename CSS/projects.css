@@ -314,7 +314,7 @@ footer {
 
 .main {
   width: 100%;
-  padding-left: 200px;
+  /* padding-left: 200px; */
 
   overflow: hidden;
 }
@@ -910,6 +910,22 @@ li.L9 {
 }
 
 
+.crcr-highlight {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-style: normal;
+  font-size: 26px;
+  font-family: "Chronicle Display",
+    Georgia,
+    serif;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+
 
 mark{
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #A6D9E3 50%);
@@ -1139,6 +1155,18 @@ p,
 
 }
 
+.crcr-footer{
+  margin: 0 0;
+  background-color: #576bce;
+
+}
+
+.hxt-footer{
+  margin: 0 0;
+  background-color: #a6d9e3
+;
+
+}
 
 
 .case-bubble{
@@ -1311,4 +1339,34 @@ position: absolute;
 
 .just-a-test{
 color: aqua;
+}
+
+.crcr-g{
+    background-color: #576bce;
+color:#fff;
+}
+.crcr-g-l{
+    background-color: #d1d2d6;
+color:#fff;
+}
+
+.crcr-g h1{
+color:#fff;
+
+}
+
+.crcr-center{
+  width: 75%;
+  margin: auto auto;
+
+}
+.crcr-center-w{
+  width: 90%;
+  margin: auto auto;
+
+}
+
+.white-bg{
+      background-color: #fff;
+
 }
