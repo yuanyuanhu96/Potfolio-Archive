@@ -936,6 +936,13 @@ p,
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+.four-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.four-col > * {
+  margin: 20px 20px;
+}
 
 .one-to-two {
   display: grid;
@@ -1181,29 +1188,14 @@ p,
 }
 
 .bubble-role > * {
-  margin: 5px 5px;
-}
-
-.bubble-role > * > * {
-  margin: 10px 0;
-}
-
-.role-bar {
-  height: 14px;
-  background-color: rgb(175, 238, 189);
-  /* margin: 5px 5px; */
-  border-radius: 7px;
-}
-
-.bubble-four-block {
-  width: 65%;
-  margin: auto auto;
-  display: grid;
-  grid-template-columns: 50% 50%;
-}
-
-.bubble-four-block > * {
-  margin: 20px 20px;
+  margin: 0 2px;
+  background-color: #3e614d;
+  border-radius: 20px;
+  padding-left: 10px;
+  color: #e1ffef;
+  font-size: 14px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 .cloud-box {
@@ -1245,4 +1237,12 @@ p,
 
 .white-bg {
   background-color: #fff;
+}
+
+.right-screen {
+  position: absolute;
+  right: 5px;
+}
+.relative-container {
+  position: relative;
 }
