@@ -1129,7 +1129,7 @@ p,
 .bubble-w-h1,
 .bubble-w-h2,
 .bubble-w-h3 {
-  font-family: 'poppinsblack', serif;
+  font-family: 'poppinsblack', Helvetica, Arial, sans-serif;
   color: #fff;
 }
 
@@ -1148,7 +1148,7 @@ p,
 }
 
 .bubble-w-p {
-  font-family: 'poppinsregular', serif;
+  font-family: 'poppinsregular', Helvetica, Arial, sans-serif;
   color: #fff;
   font-size: 18px;
 }
@@ -1158,7 +1158,7 @@ p,
 .bubble-g-h1,
 .bubble-g-h2,
 .bubble-g-h3 {
-  font-family: 'poppinsblack', serif;
+  font-family: 'poppinsblack', Helvetica, Arial, sans-serif;
   color: #434343;
 }
 
@@ -1177,7 +1177,7 @@ p,
 }
 
 .bubble-g-p {
-  font-family: 'poppinsregular', serif;
+  font-family: 'poppinsregular', Helvetica, Arial, sans-serif;
   color: #434343;
   font-size: 18px;
 }
@@ -1196,6 +1196,18 @@ p,
   font-size: 14px;
   padding-top: 2px;
   padding-bottom: 2px;
+}
+
+.bubble-scenario {
+  align-self: center;
+  background-color: #fff;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  width: 200px;
+  font-family: 'poppinsregular', Helvetica, Arial, sans-serif;
 }
 
 .cloud-box {
