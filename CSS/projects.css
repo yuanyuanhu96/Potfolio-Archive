@@ -894,6 +894,12 @@ mark {
   background-position: bottom 50px;
 }
 
+.ticket-mark {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #ffb895 50%);
+  height: 5px;
+  background-position: bottom 50px;
+}
+
 .rectangle {
   display: block;
 }
@@ -1071,24 +1077,8 @@ p,
   background-color: #0097a7;
 }
 
-.bubble-footer {
+.color-footer {
   margin: 0 0;
-  background-color: #76cd9b;
-}
-
-.lexio-footer {
-  margin: 0 0;
-  background-color: #0097a7;
-}
-
-.crcr-footer {
-  margin: 0 0;
-  background-color: #576bce;
-}
-
-.hxt-footer {
-  margin: 0 0;
-  background-color: #a6d9e3;
 }
 
 .case-bubble {
@@ -1189,11 +1179,11 @@ p,
 
 .bubble-role > * {
   margin: 0 2px;
-  background-color: #3e614d;
+  background-color: #f1faf2;
   border-radius: 20px;
   padding-left: 10px;
-  color: #e1ffef;
-  font-size: 14px;
+  color: #434343;
+  font-size: 16px;
   padding-top: 2px;
   padding-bottom: 2px;
 }
@@ -1257,4 +1247,9 @@ p,
 }
 .relative-container {
   position: relative;
+}
+
+.ticket-g {
+  background-color: #dd682d;
+  color: #fff;
 }
