@@ -41,11 +41,13 @@
 
 /* Style the buttons */
 .btn {
-  border: none;
+  border: solid;
+  border-width: 1px;
   outline: none;
   padding: 12px 30px;
-  color: rgb(86, 182, 182);
-  background-color: #f1f1f1;
+  color: #58b0c1;
+  border-color: #58b0c1;
+  background-color: #ffffff;
   cursor: pointer;
   border-radius: 30px;
   margin: 3px 3px;
@@ -53,11 +55,11 @@
 
 /* Add a light grey background on mouse-over */
 .btn:hover {
-  background-color: #ddd;
+  background-color: #ddf0f2;
 }
 
 /* Add a dark background to the active button */
 .btn.active {
-  background-color: rgb(86, 182, 182);
+  background-color: #58b0c1;
   color: white;
 }
