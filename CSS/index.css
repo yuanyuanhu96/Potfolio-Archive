@@ -18,13 +18,13 @@ body {
 a {
   text-decoration: none;
   display: inline-block;
-  color: #58b0c1;
+  color: #050042;
 }
 
 h1 {
   font-style: normal;
   font-size: 40px;
-  font-family: 'Chronicle Display', Georgia, serif;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: none;
   line-height: 1.5;
@@ -40,8 +40,8 @@ h2 {
   margin-bottom: 30px;
   font-style: normal;
   font-size: 34px;
-  font-family: 'Chronicle Display', Georgia, serif;
-  font-weight: 400;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  font-weight: 600;
   text-transform: none;
   line-height: 1.5;
   letter-spacing: 0;
@@ -161,11 +161,15 @@ img {
 }
 
 .top-nav {
-  background: linear-gradient(
+  /* background: linear-gradient(
     0deg,
     rgba(255, 255, 255, 0) 0%,
     rgba(255, 255, 255, 0.3) 100%
-  );
+  ); */
+  background: rgba(255, 255, 255, 0.7);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(10px);
+
   position: fixed;
   z-index: 5555;
 }
@@ -174,20 +178,20 @@ img {
   margin: 0 8px;
   padding: 2px 0;
   display: inline-block;
-  color: #58b0c1;
+  color: black;
   font-size: 18px;
-  font-weight: 500;
+  /* font-weight: 600; */
   text-decoration: none;
 }
 
 .top-nav .current {
-  border-bottom-color: #58b0c1;
+  border-bottom-color: #13184e;
   border-bottom-style: solid;
   border-bottom-width: 3px;
 }
 
 .top-nav .item:hover {
-  color: rgb(48, 134, 134);
+  color: #413f53;
   transition: color 200ms;
 }
 
@@ -201,7 +205,8 @@ img {
 }
 
 .top-nav-trans .item {
-  padding: 6px 10px;
+  margin: 0 8px;
+  padding: 2px 0;
   display: inline-block;
   color: #fff;
   font-size: 18px;
@@ -210,7 +215,7 @@ img {
 }
 
 .top-nav-trans .item:hover {
-  color: rgb(48, 134, 134);
+  color: #413f53;
   transition: color 200ms;
 }
 
@@ -218,13 +223,13 @@ footer {
   /* background-color: #a6d9e3; */
   /* min-width: 100%; */
   margin-top: 20px;
-  color: #4c4c4c;
+  color: #000000;
   font-weight: 380;
   font-size: 15px;
 }
 
 .sns > a {
-  opacity: 0.65;
+  opacity: 0.9;
 }
 
 .sns > a:hover {
@@ -372,7 +377,7 @@ mark {
   margin-bottom: 60px;
   font-style: normal;
   font-size: 26px;
-  font-family: 'Chronicle Display', Georgia, serif;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: none;
   line-height: 1.5;
@@ -410,8 +415,8 @@ mark {
 .headline {
   font-style: normal;
   font-size: 48px;
-  font-family: 'Chronicle Display', Georgia, serif;
-  font-weight: 500;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  font-weight: 700;
   text-transform: none;
   line-height: 1.5;
   letter-spacing: 0;
@@ -441,11 +446,11 @@ button.swipe-overlay {
   border-width: 2px;
   border-style: solid;
   font-size: 20px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
   cursor: pointer;
   /* transition: 0.25s ease; */
-  color: #58b0c1;
-  border-color: #58b0c1;
+  color: #050042;
+  border-color: #050042;
   background: transparent;
 }
 
@@ -454,7 +459,7 @@ button.swipe-overlay::after {
   position: absolute;
   top: 0;
   left: 0;
-  background: #58b0c1;
+  background: #050042;
   width: 150%;
   padding-top: 150%;
   transition: 0.25s ease;
@@ -475,4 +480,112 @@ button.swipe-overlay:hover {
 }
 button.swipe-overlay:hover:after {
   left: -30%;
+}
+
+.index-header {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+}
+
+@media only screen and (max-width: 800px) {
+  .index-header {
+    grid-template-columns: 1fr;
+  }
+  .index-header > .flavor {
+    padding: 0 100px;
+  }
+}
+
+.card {
+  margin: 20px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-radius: 10px;
+  /* cursor: pointer; */
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+.card:hover {
+  background-size: 55%;
+  transition: 200ms;
+}
+
+.card > .card-text > .card-btn > .btn-arrow {
+  transition: 800ms;
+  position: relative;
+  left: 0;
+}
+.card:hover > .card-text > .card-btn > .btn-arrow {
+  transition: 800ms;
+  left: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+  .card {
+    grid-template-columns: 1fr;
+    background-size: 100%;
+    background-position: bottom;
+  }
+
+  .card:hover {
+    background-size: 110%;
+    transition: 200ms;
+  }
+}
+
+.card-text > * {
+  color: white;
+}
+
+.card-text {
+  padding: 20px 40px;
+}
+
+.card-img {
+  height: 400px;
+}
+
+.card-btn {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+  justify-self: end;
+  font-weight: 600;
+  position: relative;
+  left: -5px;
+}
+
+.bg-lexio {
+  background-color: #0097a7;
+  background-image: url('../assets/img/index/lexio.png');
+}
+
+.bg-crcr {
+  background-color: #576bce;
+  background-image: url('../assets/img/index/crcr.png');
+}
+.bg-bubble {
+  background-color: #58b581;
+  background-image: url('../assets/img/index/bubble.png');
+}
+
+.bg-ticket {
+  background-color: #dd682d;
+  background-image: url('../assets/img/index/ticket.png');
+}
+
+.bg-trip {
+  background-color: #555;
+  background-image: url('../assets/img/index/trip.png');
+}
+
+.bg-sherwin {
+  background-color: #13599e;
+  background-image: url('../assets/img/index/sherwin.png');
+}
+
+.bg-roof {
+  background-color: #d7a100;
+  background-image: url('../assets/img/index/roof.png');
 }

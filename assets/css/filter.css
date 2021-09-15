@@ -8,7 +8,7 @@
   padding: 10px 10px;
   margin: 40px 10px;
   display: none; /* Hidden by default */
-  box-shadow: 2px 2px 10px #dbdbdb;
+  box-shadow: 0 2px 6px #dbdbdb;
   border-radius: 5px;
 }
 
@@ -44,9 +44,9 @@
   border: solid;
   border-width: 1px;
   outline: none;
-  padding: 12px 30px;
-  color: #58b0c1;
-  border-color: #58b0c1;
+  padding: 10px 14px;
+  color: #050042;
+  border-color: #050042;
   background-color: #ffffff;
   cursor: pointer;
   border-radius: 30px;
@@ -55,11 +55,11 @@
 
 /* Add a light grey background on mouse-over */
 .btn:hover {
-  background-color: #ddf0f2;
+  background-color: #efefef;
 }
 
 /* Add a dark background to the active button */
 .btn.active {
-  background-color: #58b0c1;
+  background-color: #050042;
   color: white;
 }

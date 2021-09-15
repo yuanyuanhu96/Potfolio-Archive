@@ -281,7 +281,8 @@ a.NaviProject:hover {
 }
 
 .next-post {
-  color: rgba(84, 84, 84, 0.5);
+  color: #000000;
+  opacity: 0.2;
   font-size: 30px;
   font-weight: 600;
   position: fixed;
@@ -292,7 +293,7 @@ a.NaviProject:hover {
 
 .next-post:hover {
   text-decoration: none;
-  color: #ff8c00;
+  opacity: 1;
 }
 
 .icon-Hu {
