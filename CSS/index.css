@@ -512,12 +512,16 @@ button.swipe-overlay:hover:after {
   transition: 200ms;
 }
 
-.card > .card-text > .card-btn > .btn-arrow {
+.btn-arrow {
   transition: 800ms;
   position: relative;
   left: 0;
 }
 .card:hover > .card-text > .card-btn > .btn-arrow {
+  left: 10px;
+}
+
+.half-card:hover > .card-text > .card-btn > .btn-arrow {
   transition: 800ms;
   left: 10px;
 }
@@ -527,6 +531,10 @@ button.swipe-overlay:hover:after {
     grid-template-columns: 1fr;
     background-size: 100%;
     background-position: bottom;
+  }
+
+  .half-cards {
+    grid-template-columns: 1fr;
   }
 
   .card:hover {
@@ -588,4 +596,26 @@ button.swipe-overlay:hover:after {
 .bg-roof {
   background-color: #d7a100;
   background-image: url('../assets/img/index/roof.png');
+}
+
+.half-card-img {
+  height: 200px;
+}
+
+.half-cards {
+  display: grid;
+  grid-template-columns: 1fr 20px 1fr;
+}
+
+.half-card {
+  border-radius: 10px;
+  /* cursor: pointer; */
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
+
+.half-card:hover {
+  background-size: 85%;
+  transition: 200ms;
 }
