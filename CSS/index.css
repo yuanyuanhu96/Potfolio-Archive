@@ -630,7 +630,7 @@ button.swipe-overlay-light {
   background-image: url('../assets/img/index/crcr.png');
 }
 .bg-bubble {
-  background-color: #eeeeef;
+  background-color: #eeeef4;
   background-image: url('../assets/img/index/bubble.png');
 }
 .bg-bubble > .card-text > * {
@@ -638,7 +638,7 @@ button.swipe-overlay-light {
 }
 
 .bg-ticket {
-  background-color: #eeeeef;
+  background-color: #eeeef4;
   background-image: url('../assets/img/index/ticket.png');
 }
 .bg-ticket > .card-text > * {
@@ -646,7 +646,7 @@ button.swipe-overlay-light {
 }
 
 .bg-trip {
-  background-color: #eeeeef;
+  background-color: #eeeef4;
   background-image: url('../assets/img/index/trip.png');
 }
 
@@ -655,7 +655,7 @@ button.swipe-overlay-light {
 }
 
 .bg-roof {
-  background-color: #eeeeef;
+  background-color: #eeeef4;
   background-image: url('../assets/img/index/roof.png');
 }
 .bg-roof > .card-text > * {
