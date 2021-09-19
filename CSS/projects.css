@@ -907,7 +907,7 @@ p,
 }
 
 .chunk-top {
-  margin: 0 0px;
+  margin: 0 0;
 
   border-bottom-style: solid;
   border-bottom-color: solid;
@@ -952,7 +952,7 @@ p,
 }
 
 .lexio-blue {
-  background-color: #0097a7;
+  background-color: #168591;
 }
 
 .color-footer {
@@ -1128,6 +1128,10 @@ p,
 }
 
 .ticket-g {
-  background-color: #dd682d;
+  background-color: #af4109;
   color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
 }

@@ -482,6 +482,61 @@ button.swipe-overlay:hover:after {
   left: -30%;
 }
 
+button.swipe-overlay {
+  padding: 10px 20px;
+  border-radius: 1px;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 20px;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  cursor: pointer;
+  /* transition: 0.25s ease; */
+  color: #fff;
+  border-color: #fff;
+  background: transparent;
+}
+
+button.swipe-overlay-light::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+  width: 180%;
+  padding-top: 180%;
+  transition: 0.25s ease;
+}
+
+button.swipe-overlay-light::after {
+  transform: rotate(60deg);
+  top: -100%;
+  left: -190%;
+}
+
+button.swipe-overlay-light {
+  position: relative;
+  overflow: hidden;
+}
+button.swipe-overlay-light:hover {
+  color: #050042;
+}
+button.swipe-overlay-light:hover:after {
+  left: -30%;
+}
+
+button.swipe-overlay-light {
+  padding: 10px 20px;
+  border-radius: 1px;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 20px;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  cursor: pointer;
+  /* transition: 0.25s ease; */
+  color: #fff;
+  border-color: #fff;
+  background: transparent;
+}
 .index-header {
   display: grid;
   grid-template-columns: 7fr 3fr;
@@ -565,37 +620,45 @@ button.swipe-overlay:hover:after {
 }
 
 .bg-lexio {
-  background-color: #0097a7;
+  background-color: #168591;
   background-image: url('../assets/img/index/lexio.png');
 }
 
 .bg-crcr {
-  background-color: #576bce;
+  background-color: #3b4b9c;
   background-image: url('../assets/img/index/crcr.png');
 }
 .bg-bubble {
-  background-color: #58b581;
+  background-color: #e3ecf7;
   background-image: url('../assets/img/index/bubble.png');
+}
+.bg-bubble > .card-text > * {
+  color: #000;
 }
 
 .bg-ticket {
-  background-color: #dd682d;
+  background-color: #e3ecf7;
   background-image: url('../assets/img/index/ticket.png');
+}
+.bg-ticket > .card-text > * {
+  color: #000;
 }
 
 .bg-trip {
-  background-color: #555;
+  background-color: #e3ecf7;
   background-image: url('../assets/img/index/trip.png');
 }
 
-.bg-sherwin {
-  background-color: #13599e;
-  background-image: url('../assets/img/index/sherwin.png');
+.bg-trip > .card-text > * {
+  color: #000;
 }
 
 .bg-roof {
-  background-color: #d7a100;
+  background-color: #e3ecf7;
   background-image: url('../assets/img/index/roof.png');
+}
+.bg-roof > .card-text > * {
+  color: #000;
 }
 
 .half-card-img {
@@ -607,6 +670,10 @@ button.swipe-overlay:hover:after {
   grid-template-columns: 1fr 20px 1fr;
 }
 
+.bg-sherwin {
+  background-color: #0e3d6c;
+  background-image: url('../assets/img/index/sherwin.png');
+}
 .half-card {
   border-radius: 10px;
   /* cursor: pointer; */
