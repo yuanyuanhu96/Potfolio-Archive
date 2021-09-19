@@ -229,11 +229,11 @@ footer {
 }
 
 .sns > a {
-  opacity: 0.9;
+  opacity: 1;
 }
 
 .sns > a:hover {
-  opacity: 1;
+  opacity: 0.9;
 }
 .title-pic {
   margin-top: 50px;
