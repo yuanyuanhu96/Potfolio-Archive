@@ -560,10 +560,11 @@ button.swipe-overlay-light {
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: 50%;
+  transition: 200ms;
 }
 
 .card:hover {
-  background-size: 55%;
+  background-size: 53%;
   transition: 200ms;
 }
 
