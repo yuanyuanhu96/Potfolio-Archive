@@ -491,8 +491,8 @@ button.swipe-overlay {
   font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
   cursor: pointer;
   /* transition: 0.25s ease; */
-  color: #fff;
-  border-color: #fff;
+  color: #050042;
+  border-color: #050042;
   background: transparent;
 }
 
