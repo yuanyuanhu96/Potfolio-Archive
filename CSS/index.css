@@ -629,7 +629,7 @@ button.swipe-overlay-light {
   justify-self: end;
   font-weight: 600;
   position: relative;
-  left: -5px;
+  left: -10px;
 }
 
 .bg-lexio {
