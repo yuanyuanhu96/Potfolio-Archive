@@ -585,8 +585,8 @@ button.swipe-overlay-light {
 @media only screen and (max-width: 800px) {
   .card {
     grid-template-columns: 1fr;
-    background-size: 100%;
-    background-position: bottom;
+    background-size: 80%;
+    background-position: bottom right;
   }
 
   .half-cards {
@@ -594,7 +594,7 @@ button.swipe-overlay-light {
   }
 
   .card:hover {
-    background-size: 110%;
+    background-size: 90%;
     transition: 200ms;
   }
 }
@@ -669,6 +669,13 @@ button.swipe-overlay-light {
 .half-cards {
   display: grid;
   grid-template-columns: 1fr 20px 1fr;
+}
+
+@media only screen and (max-width: 800px) {
+  .half-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }
 
 .bg-sherwin {
