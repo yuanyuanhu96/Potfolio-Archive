@@ -116,3 +116,10 @@
   position: relative;
   top: 80px;
 }
+
+.ticket-header {
+  background-image: url('../assets/img/ticket/ticket.jpg');
+}
+.crcr-header {
+  background-image: url('../assets/img/crcr/crcr.jpeg');
+}
