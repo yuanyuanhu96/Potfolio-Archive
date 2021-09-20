@@ -24,11 +24,12 @@
       href="https://cdn.bootcss.com/normalize/8.0.1/normalize.min.css"
     />
     <link rel="stylesheet" type="text/css" href="./CSS/index.css" />
+    <link rel="stylesheet" type="text/css" href="./CSS/components.css" />
     <link rel="stylesheet" type="text/css" href="./assets/css/filter.css" />
   </head>
 
   <body>
-    <div class="top-nav">
+    <div class="top-nav" id="navbar">
       <div class="container clearf">
         <div class="fl">
           <a href="./index.html"
@@ -40,7 +41,7 @@
           <a class="item" href="./index.html">Projects</a>
           <a class="item" href="./about.html">About</a>
 
-          <a class="item current" href="./methods.html">Tools</a>
+          <a class="item" href="./methods.html">Tools</a>
           <a class="item" href="resume-hu.pdf" target="_blank">Resume</a>
         </div>
       </div>
@@ -61,14 +62,7 @@
           <br />
           it's just a beginning and more will come :)
         </p>
-        <!-- <img src="./assets/img/methods/toolbox.png" alt="" width="80%" /> -->
 
-        <!-- <h2>
-            This place is to reflect on and share what I learned about design,
-            it's just a begining and more will come :)
-          </h2> -->
-        <br />
-        <br />
         <br />
       </div>
 
@@ -97,14 +91,14 @@
       <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
       <div class="container">
         <div class="tool-card process">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-01.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Double Diamond</div>
+              <h3>Double Diamond</h3>
               <div class="tool-description">
                 Designers all know how to design by themselves, but there many
                 times we should explain the process to others. This model may
@@ -120,14 +114,14 @@
         </div>
 
         <div class="tool-card ideating">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-02.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Round Robin Brainstorming</div>
+              <h3>Round Robin Brainstorming</h3>
               <div class="tool-description">
                 I really like this method for brainstorming because it force
                 people to think through each others ideas and develop ideas
@@ -144,14 +138,14 @@
           </div>
         </div>
         <div class="tool-card prototyping">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-03.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Heuristic Evaluation</div>
+              <h3>Heuristic Evaluation</h3>
               <div class="tool-description">
                 Heuristic evaluation is very quick and cheap, but it can
                 identify most usibility problems. The most common system we are
@@ -168,14 +162,14 @@
         </div>
 
         <div class="tool-card problem">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-04.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Affinity Diagram</div>
+              <h3>Affinity Diagram</h3>
               <div class="tool-description">
                 I was surprised that just putting similar things together can be
                 a design and research method. After using it for many times, I
@@ -191,14 +185,14 @@
         </div>
 
         <div class="tool-card prototyping">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-05.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Paper Prototype</div>
+              <h3>Paper Prototype</h3>
               <div class="tool-description">
                 We have so many prototyping tool, from sketchy to Hi-Fi, do we
                 still need paper and pen? Absolutely!<br />
@@ -212,14 +206,14 @@
         </div>
 
         <div class="tool-card system">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-06.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Back Casting</div>
+              <h3>Back Casting</h3>
               <div class="tool-description">
                 Limitation and current context are friends of designers, but its
                 easy for teams to be lost in fixing endless bugs and finish the
@@ -236,14 +230,14 @@
         </div>
 
         <div class="tool-card system">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-07.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Value Proposition Canvas</div>
+              <h3>Value Proposition Canvas</h3>
               <div class="tool-description">
                 Once we have a good understanding of the user, this value
                 proposition canvas can help us quickly come up with new ideas.
@@ -255,14 +249,14 @@
         </div>
 
         <div class="tool-card system">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-08.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">Multi-Level Perspective</div>
+              <h3>Multi-Level Perspective</h3>
               <div class="tool-description">
                 Multi-Level Perspective model help us undersatand an system from
                 landscape, regime, and niche level. It also shows that we have
@@ -277,14 +271,14 @@
         </div>
 
         <div class="tool-card problem">
-          <div class="one-to-one">
+          <div class="grid-of-two">
             <section>
               <div class="tool-img">
                 <img src="./assets/img/methods/tool-09.png" alt="" />
               </div>
             </section>
             <section class="tool-text">
-              <div class="tool-title">5 Whys</div>
+              <h3>5 Whys</h3>
               <div class="tool-description">
                 Many designer had the experience of given an wrong problem to
                 solve. These Five Why help us undersatand what is the root cause
@@ -301,7 +295,7 @@
       </div>
       <footer>
         <div class="fl">
-          © 2021 Yuanyuan Hu | Designed and developed by Yuanyuan Hu <br />
+          © 2021 | Designed and developed by Yuanyuan Hu <br />
           <!-- Email. yuanyuan.hu@outlook.com Tel. (312)709-9034 -->
         </div>
 
@@ -326,6 +320,8 @@
         </div>
         <div><br /><br /></div>
       </footer>
+
+      <script src="./assets/js/nav.js"></script>
     </div>
 
     <script src="./assets/js/filter.js"></script>

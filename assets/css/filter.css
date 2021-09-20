@@ -5,31 +5,20 @@
 .tool-card {
   background-color: #ffffff;
   color: #000;
-  padding: 10px 10px;
+  padding: 20px 10px;
   margin: 40px 10px;
   display: none; /* Hidden by default */
-  box-shadow: 0 2px 6px #dbdbdb;
-  border-radius: 5px;
-}
-
-.tool-text {
-  padding: 0 30px;
-  height: 100%;
-  position: relative;
-}
-
-.tool-title {
-  margin: 30px 0;
-  font-size: 30px;
+  box-shadow: 0 2px 10px #eeeef4;
+  border-radius: 2px;
 }
 
 .tool-descripion {
 }
 
 .tool-source {
+  margin-top: 10px;
   font-size: 14px;
-  vertical-align: text-bottom;
-  position: absolute;
+
   bottom: 10px;
   left: 30px;
 }
@@ -49,13 +38,13 @@
   border-color: #050042;
   background-color: #ffffff;
   cursor: pointer;
-  border-radius: 30px;
+  border-radius: 2px;
   margin: 3px 3px;
 }
 
 /* Add a light grey background on mouse-over */
 .btn:hover {
-  background-color: #efefef;
+  background-color: #eeeef4;
 }
 
 /* Add a dark background to the active button */

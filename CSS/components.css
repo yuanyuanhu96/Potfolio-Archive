@@ -1,0 +1,118 @@
+.p-header {
+  height: 600px;
+  background-color: #848484;
+  background-size: cover;
+  background-position: center;
+}
+
+.info-chunk {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.p-quick-view {
+  display: grid;
+  grid-template-columns: 1fr 20px 1fr;
+}
+
+/* Only full-width don't need container */
+.p-full-width {
+  background-color: #f2f3f6;
+}
+
+/* container inside dark bg */
+
+.p-dark-bg > * > * {
+  color: #fff;
+}
+
+/* three typs of padding */
+
+.padding-xl {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.padding-l {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.padding-m {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.padding-m > * {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.padding-s {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* responsive grid */
+
+.grid-of-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.grid-of-two > * {
+  margin: 0 10px;
+}
+
+@media only screen and (max-width: 800px) {
+  .grid-of-two {
+    grid-template-columns: 1fr;
+  }
+}
+
+.grid-of-uneven {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.grid-of-uneven > * {
+  margin: 0 10px;
+}
+
+@media only screen and (max-width: 800px) {
+  .grid-of-uneven {
+    grid-template-columns: 1fr;
+  }
+}
+
+.no-grid {
+  grid-template-columns: 1fr;
+}
+.no-grid > * {
+  margin: 10px 10px;
+}
+
+/* project specific lexio */
+
+.mock-box {
+  position: relative;
+  width: 100%;
+}
+
+.no-place {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+.align-mid-center {
+  margin: auto auto;
+  width: 64%;
+}
+
+.lexio-header {
+  background-image: url('../assets/img/lexio/lexio-mockup.jpeg');
+}
+
+.lexio-person {
+  position: relative;
+  top: 80px;
+}

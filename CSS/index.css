@@ -35,9 +35,6 @@ h1 {
 
 h2 {
   color: rgb(0, 0, 0);
-
-  margin-top: 20px;
-  margin-bottom: 30px;
   font-style: normal;
   font-size: 34px;
   font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
@@ -50,6 +47,7 @@ h2 {
 
 img {
   display: block;
+  margin: 0 0;
   max-width: 100%;
 }
 
@@ -66,7 +64,7 @@ img {
   h1 {
     font-size: 32px;
   }
-  .h2 {
+  h2 {
     font-size: 28px;
   }
 }
@@ -164,6 +162,8 @@ img {
 .top-nav,
 .cat-display {
   width: 100%;
+  transition: 400ms;
+  transition-timing-function: ease;
 }
 
 .header {
@@ -172,12 +172,13 @@ img {
 }
 
 .top-nav {
-  background: rgba(255, 255, 255, 0.7);
-  -webkit-backdrop-filter: blur(5px);
+  background: rgba(255, 255, 255, 0);
+  -webkit-backdrop-filter: blur(2000px);
   backdrop-filter: blur(10px);
 
   position: fixed;
   z-index: 5555;
+  border-bottom: rgba(0, 0, 0, 0.1) solid 1px;
 }
 
 .top-nav .item {
@@ -201,15 +202,11 @@ img {
   transition: color 200ms;
 }
 
-.top-nav-trans {
-  /* width: 100%; */
-}
-
-.top-nav-trans {
+.top-nav {
   z-index: 5555;
 }
 
-.top-nav-trans .item {
+/* .top-nav .item {
   margin: 0 8px;
   padding: 2px 0;
   display: inline-block;
@@ -219,10 +216,10 @@ img {
   text-decoration: none;
 }
 
-.top-nav-trans .item:hover {
+.top-nav .item:hover {
   color: #413f53;
   transition: color 200ms;
-}
+} */
 
 footer {
   /* background-color: #a6d9e3; */
@@ -401,18 +398,6 @@ mark {
   color: #000;
 }
 
-.intext-link:hover {
-  font-style: normal;
-
-  color: rgb(86, 182, 182);
-  transition: color 200ms;
-}
-
-.block-breaker {
-  background-color: #a6d9e3;
-  color: #fff;
-}
-
 .white-text {
   color: #fff;
 }
@@ -447,7 +432,7 @@ button > span {
 }
 button.swipe-overlay {
   padding: 10px 20px;
-  border-radius: 1px;
+  border-radius: 2px;
   border-width: 2px;
   border-style: solid;
   font-size: 20px;
@@ -489,7 +474,7 @@ button.swipe-overlay:hover:after {
 
 button.swipe-overlay {
   padding: 10px 20px;
-  border-radius: 1px;
+  border-radius: 2px;
   border-width: 2px;
   border-style: solid;
   font-size: 20px;
@@ -531,7 +516,7 @@ button.swipe-overlay-light:hover:after {
 
 button.swipe-overlay-light {
   padding: 10px 20px;
-  border-radius: 1px;
+  border-radius: 2px;
   border-width: 2px;
   border-style: solid;
   font-size: 20px;
@@ -560,9 +545,8 @@ button.swipe-overlay-light {
   margin: 20px 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  border-radius: 10px;
-  /* cursor: pointer; */
-  background-position: right bottom;
+  border-radius: 2px; /* cursor: pointer; */
+  background-position: 105% 105%;
   background-repeat: no-repeat;
   background-size: 50%;
   transition: 200ms;
@@ -571,6 +555,7 @@ button.swipe-overlay-light {
 .card:hover {
   background-size: 53%;
   transition: 200ms;
+  transition-timing-function: ease;
 }
 
 .btn-arrow {
@@ -591,7 +576,7 @@ button.swipe-overlay-light {
   .card {
     grid-template-columns: 1fr;
     background-size: 80%;
-    background-position: bottom right;
+    background-position: 105% 105%;
     margin: 10px 0;
   }
 
@@ -635,6 +620,9 @@ button.swipe-overlay-light {
 .bg-lexio {
   background-color: #168591;
   background-image: url('../assets/img/index/lexio.png');
+}
+.lexio-blue {
+  background-color: #168591;
 }
 
 .bg-crcr {
@@ -695,9 +683,8 @@ button.swipe-overlay-light {
   background-image: url('../assets/img/index/sherwin.png');
 }
 .half-card {
-  border-radius: 10px;
-  /* cursor: pointer; */
-  background-position: bottom;
+  border-radius: 2px; /* cursor: pointer; */
+  background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: 80%;
 }
@@ -716,4 +703,20 @@ button.swipe-overlay-light {
   .social-icons {
     visibility: collapse;
   }
+}
+
+.next-post {
+  color: #000000;
+  opacity: 0.2;
+  font-size: 30px;
+  font-weight: 600;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1;
+}
+
+.next-post:hover {
+  text-decoration: none;
+  opacity: 1;
 }

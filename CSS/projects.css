@@ -280,50 +280,7 @@ a.NaviProject:hover {
   }
 }
 
-.next-post {
-  color: #000000;
-  opacity: 0.2;
-  font-size: 30px;
-  font-weight: 600;
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 1;
-}
 
-.next-post:hover {
-  text-decoration: none;
-  opacity: 1;
-}
-
-.icon-Hu {
-  margin-top: 100px;
-  margin-left: 20px;
-  /* //background-color: #FFD700;//测试区域 */
-}
-
-.NaviType {
-  height: 24px;
-  /* //background-color: #FA8072; */
-  font: bolder;
-  margin-top: 10px;
-}
-
-.NaviProject {
-  height: px;
-  /* //background-color: #FFB6C1;//测试区域 */
-  font: bolder;
-  margin-top: 1px;
-  font-size: 16px;
-  font-weight: 300;
-}
-
-.post-wrapper {
-  margin: 100px auto 10px;
-  background: #fff;
-  padding: 0px 20px 0px 20px;
-  width: 100%;
-}
 
 /*
 @media screen and (max-width: 767px) {
@@ -997,7 +954,7 @@ p,
 .bubble-w-h1,
 .bubble-w-h2,
 .bubble-w-h3 {
-  font-family: 'poppinsblack', Helvetica, Arial, sans-serif;
+  /* font-family: 'poppinsblack', Helvetica, Arial, sans-serif; */
   color: #fff;
 }
 
@@ -1016,7 +973,7 @@ p,
 }
 
 .bubble-w-p {
-  font-family: 'poppinsregular', Helvetica, Arial, sans-serif;
+  /* font-family: 'poppinsblack', Helvetica, Arial, sans-serif; */
   color: #fff;
   font-size: 18px;
 }
@@ -1026,8 +983,9 @@ p,
 .bubble-g-h1,
 .bubble-g-h2,
 .bubble-g-h3 {
-  font-family: 'poppinsblack', Helvetica, Arial, sans-serif;
-  color: #251a17;
+  /* font-family: 'poppinsblack', Helvetica, Arial, sans-serif; */
+
+  color: #000;
 }
 
 .bubble-g-h1 {
@@ -1045,8 +1003,8 @@ p,
 }
 
 .bubble-g-p {
-  font-family: 'poppinsregular', Helvetica, Arial, sans-serif;
-  color: #251a17;
+  /* font-family: 'poppinsblack', Helvetica, Arial, sans-serif; */
+  color: #000;
   font-size: 18px;
 }
 
@@ -1058,9 +1016,9 @@ p,
 .bubble-role > * {
   margin: 0 2px;
   background-color: #f1faf2;
-  border-radius: 20px;
+  border-radius: 2px;
   padding-left: 10px;
-  color: #251a17;
+  color: #000;
   font-size: 16px;
   padding-top: 2px;
   padding-bottom: 2px;
@@ -1069,13 +1027,13 @@ p,
 .bubble-scenario {
   align-self: center;
   background-color: #fff;
-  border-radius: 30px;
+  border-radius: 2px;
   font-size: 20px;
   font-weight: bold;
   padding-top: 10px;
   padding-bottom: 5px;
   width: 200px;
-  font-family: 'poppinsregular', Helvetica, Arial, sans-serif;
+  /* font-family: 'poppinsblack', Helvetica, Arial, sans-serif; */
 }
 
 .cloud-box {
@@ -1087,23 +1045,6 @@ p,
   position: absolute;
   top: 0;
   transform: translateY(-70%);
-}
-
-.just-a-test {
-  color: aqua;
-}
-
-.crcr-g {
-  background-color: #576bce;
-  color: #fff;
-}
-.crcr-g-l {
-  background-color: #d1d2d6;
-  color: #fff;
-}
-
-.crcr-g h1 {
-  color: #fff;
 }
 
 .crcr-center {
@@ -1128,8 +1069,8 @@ p,
 }
 
 .ticket-g {
-  background-color: #af4109;
-  color: #fff;
+  /* background-color: #af4109; */
+  /* color: #fff; */
 }
 
 html {

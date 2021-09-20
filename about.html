@@ -25,10 +25,11 @@
       href="https://cdn.bootcss.com/normalize/8.0.1/normalize.min.css"
     />
     <link rel="stylesheet" type="text/css" href="./CSS/index.css" />
+    <link rel="stylesheet" type="text/css" href="./CSS/components.css" />
   </head>
 
   <body>
-    <div class="top-nav">
+    <div class="top-nav" id="navbar">
       <div class="container clearf">
         <div class="fl">
           <a href="./index.html"
@@ -38,7 +39,7 @@
 
         <div class="fr">
           <a class="item" href="./index.html">Projects</a>
-          <a class="item current" href="./about.html">About</a>
+          <a class="item" href="./about.html">About</a>
 
           <a class="item" href="./methods.html">Tools</a>
           <a class="item" href="resume-hu.pdf" target="_blank">Resume</a>
@@ -56,12 +57,13 @@
 
       <br />
 
-      <div class="two-to-three">
-        <section class="chunk-left my-photo">
+      <div>
+        <section>
           <img
-            src="./assets/img/about/yuanyuan-photo.jpg"
+            src="./assets/img/about/yuanyuan-photo.png"
             alt=""
-            width="100%"
+            class="align-center"
+            width="200px"
           />
         </section>
 
@@ -85,9 +87,14 @@
             <b>co-create.</b> I love writing <b>codes</b> and bring ideas to
             real life. I also love trees, mountains, and islands a lot.
           </p>
-          <a href="./resume-hu.pdf" target="_blank">
-            <button class="swipe-overlay"><span>Resume</span></button>
-          </a>
+
+          <div class="align-center">
+            <a href="./resume-hu.pdf" target="_blank">
+              <button class="swipe-overlay">
+                <span>Resume </span>
+              </button>
+            </a>
+          </div>
         </section>
       </div>
     </div>
@@ -107,7 +114,7 @@
       <div class="container">
         <footer>
           <div class="fl">
-            © 2021 Yuanyuan Hu | Designed and developed by Yuanyuan Hu <br />
+            © 2021 | Designed and developed by Yuanyuan Hu <br />
             <!-- Email. yuanyuan.hu@outlook.com Tel. (312)709-9034 -->
           </div>
 
@@ -132,6 +139,8 @@
           </div>
           <div><br /><br /></div>
         </footer>
+
+        <script src="./assets/js/nav.js"></script>
       </div>
     </div>
 
