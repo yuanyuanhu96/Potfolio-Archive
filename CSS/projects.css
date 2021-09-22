@@ -280,8 +280,6 @@ a.NaviProject:hover {
   }
 }
 
-
-
 /*
 @media screen and (max-width: 767px) {
   .post-wrapper {
@@ -899,12 +897,16 @@ p,
 }
 
 .bubble-green-2 {
-  background-color: #76cd9b;
+  background-color: #f1faf2;
 }
 
-.bubble-gray {
+.bubble-green-2 > h2 {
+  color: white;
+}
+
+.bubble-story {
   position: relative;
-  background-color: #999999;
+  background-color: #f1faf2;
   padding: 50px 0 100px;
 }
 
