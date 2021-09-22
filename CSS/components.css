@@ -29,6 +29,7 @@
 /* Only full-width don't need container */
 .p-full-width {
   background-color: #f2f3f6;
+  text-align: center;
 }
 
 /* container inside dark bg */
