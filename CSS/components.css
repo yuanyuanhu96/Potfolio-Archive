@@ -88,6 +88,14 @@
   margin: 0 10px;
 }
 
+.grid-one-two {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.grid-one-two > * {
+  margin: 0 10px;
+}
+
 .grid-of-four {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -161,7 +169,7 @@
 }
 
 .ticket-header {
-  background-image: url('../assets/img/ticket/ticket.jpg');
+  background-image: url('../assets/img/ticket/header.jpeg');
 }
 .crcr-header {
   background-image: url('../assets/img/crcr/crcr.jpeg');
