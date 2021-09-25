@@ -178,6 +178,10 @@
   background-image: url('../assets/img/vcc/header.png');
 }
 
+.pro-header {
+  background-image: url('../assets/img/pro/header.jpg');
+}
+
 .bubble-header {
   background-image: url('../assets/img/bubble/header.jpeg');
 }
