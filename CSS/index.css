@@ -728,3 +728,8 @@ button.swipe-overlay-light {
   text-decoration: none;
   opacity: 1;
 }
+
+.caption {
+  text-align: center;
+  color: #888;
+}
