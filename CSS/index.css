@@ -620,17 +620,17 @@ button.swipe-overlay-light {
 }
 
 .bg-lexio {
-  background-color: #f4e6dd;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/lexio.png');
 }
 
 .bg-crcr {
-  background-color: #e3eddd;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/crcr.png');
 }
 
 .bg-nokia {
-  background-color: #e1ebff;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/nokia.png');
 }
 
@@ -653,12 +653,12 @@ button.swipe-overlay-light {
 }
 
 .bg-bubble {
-  background-color: #e3eddd;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/bubble.png');
 }
 
 .bg-ticket {
-  background-color: #f4e6dd;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/ticket.png');
 }
 
