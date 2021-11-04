@@ -1,6 +1,6 @@
 .p-header {
   height: 600px;
-  background-color: #848484;
+  background-color: #efefef;
   background-size: cover;
   background-position: center;
 }
@@ -46,8 +46,8 @@
 }
 
 .padding-l {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .padding-l > * {

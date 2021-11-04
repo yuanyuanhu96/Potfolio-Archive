@@ -620,8 +620,12 @@ button.swipe-overlay-light {
 }
 
 .bg-lexio {
-  background-color: #f9f9fb;
+  background-color: #4cb79c;
   background-image: url('../assets/img/index/lexio.png');
+}
+
+.bg-lexio > .card-text > * {
+  color: white;
 }
 
 .bg-crcr {
@@ -630,8 +634,11 @@ button.swipe-overlay-light {
 }
 
 .bg-nokia {
-  background-color: #f9f9fb;
+  background-color: #16448f;
   background-image: url('../assets/img/index/nokia.png');
+}
+.bg-nokia > .card-text > * {
+  color: white;
 }
 
 .bg-sherwin {
@@ -658,8 +665,12 @@ button.swipe-overlay-light {
 }
 
 .bg-ticket {
-  background-color: #f9f9fb;
+  background-color: #d95d29;
   background-image: url('../assets/img/index/ticket.png');
+}
+
+.bg-ticket > .card-text > * {
+  color: white;
 }
 
 .bg-trip {
