@@ -57,6 +57,7 @@ img {
   margin: 0 auto;
   padding: 10px 30px;
 }
+
 @media only screen and (max-width: 800px) {
   .container {
     padding: 10px 15px;
@@ -162,7 +163,7 @@ img {
 .top-nav,
 .cat-display {
   width: 100%;
-  transition: 400ms;
+  transition: 600ms;
   transition-timing-function: ease;
 }
 
@@ -172,8 +173,8 @@ img {
 }
 
 .top-nav {
-  background: rgba(255, 255, 255, 0.05);
-  -webkit-backdrop-filter: blur(100px);
+  background: white;
+  /* -webkit-backdrop-filter: blur(100px); */
   backdrop-filter: blur(10px);
 
   position: fixed;
@@ -546,14 +547,14 @@ button.swipe-overlay-light {
   display: grid;
   grid-template-columns: 1fr 1fr;
   border-radius: 2px; /* cursor: pointer; */
-  background-position: 105% 105%;
+  background-position: 110% 90%;
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 53%;
   transition: 200ms;
 }
 
 .card:hover {
-  background-size: 53%;
+  background-size: 55%;
   transition: 200ms;
   transition-timing-function: ease;
 }
@@ -591,7 +592,7 @@ button.swipe-overlay-light {
 }
 
 .card-text > * {
-  color: white;
+  color: black;
 }
 
 .card-text {
@@ -600,6 +601,7 @@ button.swipe-overlay-light {
 
 .card-img {
   height: 400px;
+  transform-origin: 50% 50%;
 }
 
 @media only screen and (max-width: 800px) {
@@ -618,25 +620,22 @@ button.swipe-overlay-light {
 }
 
 .bg-lexio {
-  background-color: #20718c;
+  background-color: #f4e6dd;
   background-image: url('../assets/img/index/lexio.png');
 }
 
 .bg-crcr {
-  background-color: #352d65;
+  background-color: #e3eddd;
   background-image: url('../assets/img/index/crcr.png');
 }
 
 .bg-nokia {
-  background-color: #eeeef4;
+  background-color: #e1ebff;
   background-image: url('../assets/img/index/nokia.png');
-}
-.bg-nokia > .card-text > * {
-  color: rgb(0, 0, 0);
 }
 
 .bg-sherwin {
-  background-color: #eeeef4;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/sherwin.png');
 }
 
@@ -644,21 +643,27 @@ button.swipe-overlay-light {
   color: rgb(0, 0, 0);
 }
 
+.bg-hxt {
+  background-color: #f9f9fb;
+  background-image: url('../assets/img/index/hxt.png');
+}
+
+.bg-hxt > .card-text > * {
+  color: rgb(0, 0, 0);
+}
+
 .bg-bubble {
-  background-color: #00bd72;
+  background-color: #e3eddd;
   background-image: url('../assets/img/index/bubble.png');
 }
 
 .bg-ticket {
-  background-color: #b86225;
+  background-color: #f4e6dd;
   background-image: url('../assets/img/index/ticket.png');
 }
-/* .bg-ticket > .card-text > * {
-  color: #ffffff;
-} */
 
 .bg-trip {
-  background-color: #eeeef4;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/trip.png');
 }
 
@@ -667,7 +672,7 @@ button.swipe-overlay-light {
 }
 
 .bg-roof {
-  background-color: #eeeef4;
+  background-color: #f9f9fb;
   background-image: url('../assets/img/index/roof.png');
 }
 .bg-roof > .card-text > * {

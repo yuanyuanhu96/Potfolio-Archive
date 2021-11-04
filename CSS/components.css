@@ -178,6 +178,9 @@
   background-image: url('../assets/img/vcc/header.png');
 }
 
+.nokia-header {
+  background-image: url('../assets/img/nokia/nokia.png');
+}
 .pro-header {
   background-image: url('../assets/img/pro/header.jpg');
 }

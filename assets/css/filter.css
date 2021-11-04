@@ -8,7 +8,7 @@
   padding: 20px 10px;
   margin: 40px 10px;
   display: none; /* Hidden by default */
-  box-shadow: 0 2px 10px #eeeef4;
+  box-shadow: 0 2px 10px #f9f9fb;
   border-radius: 2px;
 }
 
@@ -44,7 +44,7 @@
 
 /* Add a light grey background on mouse-over */
 .btn:hover {
-  background-color: #eeeef4;
+  background-color: #f9f9fb;
 }
 
 /* Add a dark background to the active button */
