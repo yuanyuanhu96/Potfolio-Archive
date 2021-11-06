@@ -746,6 +746,7 @@ button.swipe-overlay-light {
 }
 
 .caption {
+  margin-top: 10px;
   text-align: center;
   color: #888;
 }
