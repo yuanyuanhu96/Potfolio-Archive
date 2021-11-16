@@ -160,7 +160,7 @@
 }
 
 .lexio-header {
-  background-image: url('../assets/img/lexio/lexio.jpeg');
+  background-image: url('../../assets/img/lexio/lexio.jpeg');
 }
 
 .lexio-person {
@@ -169,22 +169,22 @@
 }
 
 .ticket-header {
-  background-image: url('../assets/img/ticket/header.jpeg');
+  background-image: url('../../assets/img/ticket/header.jpeg');
 }
 .crcr-header {
-  background-image: url('../assets/img/crcr/crcr.jpeg');
+  background-image: url('../../assets/img/crcr/crcr.jpeg');
 }
 .vcc-header {
-  background-image: url('../assets/img/vcc/header.png');
+  background-image: url('../../assets/img/vcc/header.png');
 }
 
 .nokia-header {
-  background-image: url('../assets/img/nokia/nokia.png');
+  background-image: url('../../assets/img/nokia/nokia.png');
 }
 .pro-header {
-  background-image: url('../assets/img/pro/header.jpg');
+  background-image: url('../../assets/img/pro/header.jpg');
 }
 
 .bubble-header {
-  background-image: url('../assets/img/bubble/header.jpeg');
+  background-image: url('../../assets/img/bubble/header.jpeg');
 }

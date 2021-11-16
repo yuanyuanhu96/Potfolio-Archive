@@ -621,7 +621,7 @@ button.swipe-overlay-light {
 
 .bg-lexio {
   background-color: #4cb79c;
-  background-image: url('../assets/img/index/lexio.png');
+  background-image: url('../../assets/img/index/lexio.png');
 }
 
 .bg-lexio > .card-text > * {
@@ -630,12 +630,12 @@ button.swipe-overlay-light {
 
 .bg-crcr {
   background-color: #f9f9fb;
-  background-image: url('../assets/img/index/crcr.png');
+  background-image: url('../../assets/img/index/crcr.png');
 }
 
 .bg-nokia {
   background-color: #16448f;
-  background-image: url('../assets/img/index/nokia.png');
+  background-image: url('../../assets/img/index/nokia.png');
 }
 .bg-nokia > .card-text > * {
   color: white;
@@ -651,7 +651,7 @@ button.swipe-overlay-light {
 
 .bg-sherwin {
   background-color: #050042;
-  background-image: url('../assets/img/index/sherwin.png');
+  background-image: url('../../assets/img/index/sherwin.png');
 }
 
 .bg-sherwin > .card-text > * {
@@ -660,7 +660,7 @@ button.swipe-overlay-light {
 
 .bg-hxt {
   background-color: #f9f9fb;
-  background-image: url('../assets/img/index/hxt.png');
+  background-image: url('../../assets/img/index/hxt.png');
 }
 
 .bg-hxt > .card-text > * {
@@ -669,12 +669,12 @@ button.swipe-overlay-light {
 
 .bg-bubble {
   background-color: #f9f9fb;
-  background-image: url('../assets/img/index/bubble.png');
+  background-image: url('../../assets/img/index/bubble.png');
 }
 
 .bg-ticket {
   background-color: #d95d29;
-  background-image: url('../assets/img/index/ticket.png');
+  background-image: url('../../assets/img/index/ticket.png');
 }
 
 .bg-ticket > .card-text > * {
@@ -683,7 +683,7 @@ button.swipe-overlay-light {
 
 .bg-trip {
   background-color: #f9f9fb;
-  background-image: url('../assets/img/index/trip.png');
+  background-image: url('../../assets/img/index/trip.png');
 }
 
 .bg-trip > .card-text > * {
@@ -692,7 +692,7 @@ button.swipe-overlay-light {
 
 .bg-roof {
   background-color: #f9f9fb;
-  background-image: url('../assets/img/index/roof.png');
+  background-image: url('../../assets/img/index/roof.png');
 }
 .bg-roof > .card-text > * {
   color: #000;
