@@ -160,7 +160,6 @@ img {
 .main-display {
 }
 
-.top-nav,
 .cat-display {
   width: 100%;
   transition: 600ms;
@@ -173,8 +172,10 @@ img {
 }
 
 .top-nav {
+  width: 100%;
+  transition: 600ms;
+  transition-timing-function: ease;
   background: white;
-  /* -webkit-backdrop-filter: blur(100px); */
   backdrop-filter: blur(10px);
 
   position: fixed;
@@ -650,12 +651,12 @@ button.swipe-overlay-light {
 }
 
 .bg-sherwin {
-  background-color: #050042;
-  background-image: url('../../assets/img/index/sherwin.png');
+  background-color: #5c6450;
+  background-image: url('../../assets/img/index/vcc.png');
 }
 
 .bg-sherwin > .card-text > * {
-  color: rgb(0, 0, 0);
+  color: white;
 }
 
 .bg-hxt {
@@ -673,13 +674,13 @@ button.swipe-overlay-light {
 }
 
 .bg-ticket {
-  background-color: #d95d29;
+  background-color: #f9f9fb;
   background-image: url('../../assets/img/index/ticket.png');
 }
 
-.bg-ticket > .card-text > * {
+/* .bg-ticket > .card-text > * {
   color: white;
-}
+} */
 
 .bg-trip {
   background-color: #f9f9fb;
