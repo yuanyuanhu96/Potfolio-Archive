@@ -753,3 +753,12 @@ button.swipe-overlay-light {
   text-align: center;
   color: #888;
 }
+
+.intro {
+  text-align: center;
+}
+
+.intro > * {
+  max-width: 800px;
+  margin: 0 auto;
+}
