@@ -27,12 +27,36 @@
 }
 
 /* Only full-width don't need container */
+
 .p-full-width {
   background-color: #f2f3f6;
   text-align: center;
 }
 
+.p-scale-width {
+  background-color: #f2f3f6;
+  text-align: center;
+  padding: 60px 30px;
+}
+@media only screen and (max-width: 800px) {
+  .p-scale-width {
+    padding: 30px 15px;
+  }
+}
 /* container inside dark bg */
+.before-after {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.p-before {
+  background-color: #f0e5e5;
+  padding: 40px 40px;
+}
+.p-after {
+  background-color: #e5f0eb;
+  padding: 40px 40px;
+}
 
 .p-dark-bg > * > * {
   color: #fff;
@@ -96,6 +120,14 @@
   margin: 0 10px;
 }
 
+.grid-of-three {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.grid-of-three > * {
+  margin: 0 10px;
+}
+
 .grid-of-four {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -106,7 +138,14 @@
 }
 
 @media only screen and (max-width: 800px) {
+  .before-after {
+    grid-template-columns: 1fr;
+  }
+
   .grid-of-two {
+    grid-template-columns: 1fr;
+  }
+  .grid-of-three {
     grid-template-columns: 1fr;
   }
   .grid-two-one {

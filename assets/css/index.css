@@ -433,7 +433,6 @@ button > span {
   z-index: 1;
 }
 button.swipe-overlay {
-  margin: 20px 0;
   padding: 10px 20px;
   border-radius: 2px;
   border-width: 2px;
@@ -530,9 +529,16 @@ button.swipe-overlay-light {
   border-color: #fff;
   background: transparent;
 }
+.index-header {
+  display: grid;
+  grid-template-columns: 7fr 3fr;
+}
 
 @media only screen and (max-width: 800px) {
-  .flavor {
+  .index-header {
+    grid-template-columns: 1fr;
+  }
+  .index-header > .flavor {
     padding: 0 100px;
   }
 }
@@ -752,13 +758,4 @@ button.swipe-overlay-light {
   margin-top: 10px;
   text-align: center;
   color: #888;
-}
-
-.intro {
-  text-align: center;
-}
-
-.intro > * {
-  max-width: 800px;
-  margin: 0 auto;
 }
