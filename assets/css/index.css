@@ -547,16 +547,21 @@ button.swipe-overlay-light {
 .card {
   margin: 20px 0;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  border-radius: 2px; /* cursor: pointer; */
-  background-position: 110% 90%;
+  border-radius: 2px;
   background-repeat: no-repeat;
-  background-size: 53%;
+  transition: 200ms;
+  cursor: pointer;
+}
+
+.card > .card-img {
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
   transition: 200ms;
 }
 
-.card:hover {
-  background-size: 55%;
+.card > .card-img:hover {
+  background-size: 105%;
   transition: 200ms;
   transition-timing-function: ease;
 }
@@ -575,24 +580,6 @@ button.swipe-overlay-light {
   left: 10px;
 }
 
-@media only screen and (max-width: 800px) {
-  .card {
-    grid-template-columns: 1fr;
-    background-size: 80%;
-    background-position: 105% 105%;
-    margin: 10px 0;
-  }
-
-  .half-cards {
-    grid-template-columns: 1fr;
-  }
-
-  .card:hover {
-    background-size: 90%;
-    transition: 200ms;
-  }
-}
-
 .card-text > * {
   color: black;
 }
@@ -602,14 +589,8 @@ button.swipe-overlay-light {
 }
 
 .card-img {
+  position: relative;
   height: 400px;
-  transform-origin: 50% 50%;
-}
-
-@media only screen and (max-width: 800px) {
-  .card-img {
-    height: 300px;
-  }
 }
 
 .card-btn {
@@ -621,8 +602,27 @@ button.swipe-overlay-light {
   left: -10px;
 }
 
+.logo-box {
+  display: flex;
+
+  justify-content: flex-end;
+
+  padding: 20px 40px;
+}
+
+.bg-sherwin > .card-img {
+  background-image: url('../../assets/img/index/vcc.png');
+}
+
+.bg-sherwin > .card-text > * {
+  color: white;
+}
+
 .bg-pro {
   background-color: #363636;
+}
+
+.bg-pro > .card-img {
   background-image: url('../../assets/img/index/pro.png');
 }
 
@@ -630,10 +630,11 @@ button.swipe-overlay-light {
   color: white;
 }
 
-
-
 .bg-lexio {
-  background-color: #4cb79c;
+  background-color: #229dd6;
+}
+
+.bg-lexio > .card-img {
   background-image: url('../../assets/img/index/lexio.png');
 }
 
@@ -648,27 +649,18 @@ button.swipe-overlay-light {
 
 .bg-nokia {
   background-color: #16448f;
+}
+
+.bg-nokia > .card-img {
   background-image: url('../../assets/img/index/nokia.png');
 }
+
 .bg-nokia > .card-text > * {
-  color: white;
-}
-
-.bg-beyond {
-  background-color: #050042;
-}
-
-.bg-beyond > .card-text > * {
   color: white;
 }
 
 .bg-sherwin {
   background-color: #5c6450;
-  background-image: url('../../assets/img/index/vcc.png');
-}
-
-.bg-sherwin > .card-text > * {
-  color: white;
 }
 
 .bg-hxt {
@@ -682,17 +674,23 @@ button.swipe-overlay-light {
 
 .bg-bubble {
   background-color: #f9f9fb;
+}
+
+.bg-bubble > .card-img {
   background-image: url('../../assets/img/index/bubble.png');
 }
 
 .bg-ticket {
-  background-color: #f9f9fb;
+  background-color: #cd6013;
+}
+
+.bg-ticket > .card-img {
   background-image: url('../../assets/img/index/ticket.png');
 }
 
-/* .bg-ticket > .card-text > * {
+.bg-ticket > .card-text > * {
   color: white;
-} */
+}
 
 .bg-trip {
   background-color: #f9f9fb;
@@ -728,10 +726,12 @@ button.swipe-overlay-light {
 }
 
 .half-card {
-  border-radius: 2px; /* cursor: pointer; */
+  border-radius: 2px;
+  cursor: pointer;
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: 80%;
+  transition: 200ms;
 }
 
 .half-card:hover {
