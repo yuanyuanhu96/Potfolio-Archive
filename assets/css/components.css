@@ -43,7 +43,6 @@
     padding: 30px 15px;
   }
 }
-/* container inside dark bg */
 .before-after {
   display: grid;
   grid-template-columns: 1fr 1fr;

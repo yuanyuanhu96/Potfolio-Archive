@@ -52,7 +52,6 @@ img {
 }
 
 .container {
-  display: block;
   max-width: 1080px;
   margin: 0 auto;
   padding: 10px 30px;
@@ -224,12 +223,27 @@ img {
 } */
 
 footer {
-  /* background-color: #a6d9e3; */
-  /* min-width: 100%; */
+  display: flex;
+  justify-content: space-between;
   margin-top: 20px;
   color: #000000;
   font-weight: 380;
   font-size: 15px;
+}
+
+footer > * {
+  margin: 10px 0;
+}
+
+@media only screen and (max-width: 800px) {
+  footer {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #000000;
+    font-weight: 380;
+    font-size: 15px;
+  }
 }
 
 .sns > a {
