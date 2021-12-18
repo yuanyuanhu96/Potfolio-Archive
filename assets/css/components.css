@@ -151,7 +151,9 @@
   .grid-two-one {
     grid-template-columns: 1fr;
   }
-
+  .grid-one-two {
+    grid-template-columns: 1fr;
+  }
   .grid-of-four {
     display: grid;
     grid-template-columns: 1fr 1fr;
