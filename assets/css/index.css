@@ -633,8 +633,22 @@ button.swipe-overlay-light {
   color: white;
 }
 
+.bg-naas {
+  background-color: #20436c;
+  cursor: default;
+}
+
+.bg-naas > .card-img {
+  background-image: url('../../assets/img/index/naas.png');
+}
+
+.bg-naas > .card-text > * {
+  color: white;
+}
+
 .bg-pro {
   background-color: #2d2d2e;
+  cursor: default;
 }
 
 .bg-pro > .card-img {
@@ -681,6 +695,7 @@ button.swipe-overlay-light {
 .bg-hxt {
   background-color: #f9f9fb;
   background-image: url('../../assets/img/index/hxt.png');
+  cursor: default;
 }
 
 .bg-hxt > .card-text > * {
@@ -719,6 +734,7 @@ button.swipe-overlay-light {
 .bg-roof {
   background-color: #f9f9fb;
   background-image: url('../../assets/img/index/roof.png');
+  cursor: default;
 }
 .bg-roof > .card-text > * {
   color: #000;
