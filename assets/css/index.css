@@ -786,3 +786,11 @@ button.swipe-overlay-light {
   text-align: center;
   color: #888;
 }
+
+.download {
+  display: inline-block;
+}
+
+.a-lexio > * {
+  color: #fff;
+}
