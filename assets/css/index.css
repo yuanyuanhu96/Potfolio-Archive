@@ -602,9 +602,22 @@ button.swipe-overlay-light {
   padding: 20px 40px;
 }
 
+@media only screen and (max-width: 800px) {
+  .card-text {
+    padding: 20px 20px;
+  }
+}
+
 .card-img {
   position: relative;
   height: 400px;
+}
+
+@media only screen and (max-width: 800px) {
+  .card-img {
+    position: relative;
+    height: 300px;
+  }
 }
 
 .card-btn {
@@ -622,6 +635,16 @@ button.swipe-overlay-light {
   justify-content: flex-end;
 
   padding: 20px 40px;
+}
+
+@media only screen and (max-width: 800px) {
+  .logo-box {
+    display: flex;
+
+    justify-content: flex-end;
+
+    padding: 20px 20px;
+  }
 }
 
 .bg-sherwin > .card-img {
