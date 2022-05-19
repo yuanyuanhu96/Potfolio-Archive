@@ -564,7 +564,6 @@ button.swipe-overlay-light {
   border-radius: 2px;
   background-repeat: no-repeat;
   transition: 200ms;
-  cursor: pointer;
 }
 
 .card > .card-img {
@@ -758,7 +757,6 @@ button.swipe-overlay-light {
 
 .half-card {
   border-radius: 2px;
-  cursor: pointer;
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: 80%;
