@@ -739,6 +739,18 @@ button.swipe-overlay-light {
   color: #000;
 }
 
+.bg-yf {
+  background-color: #114fb9;
+}
+
+.bg-yf > .card-img {
+  background-image: url('../../assets/img/index/yf.png');
+}
+
+.bg-yf > .card-text > * {
+  color: white;
+}
+
 .half-card-img {
   height: 200px;
 }
