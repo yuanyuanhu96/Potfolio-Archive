@@ -647,6 +647,10 @@ button.swipe-overlay-light {
     padding: 20px;
   }
 
+  .half-card-text {
+    padding: 20px;
+  }
+
   .card-header {
     padding: 20px;
   }
