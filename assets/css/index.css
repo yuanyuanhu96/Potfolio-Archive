@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-  color: rgb(0, 0, 0);
+  color: inherit;
   font-style: normal;
   font-size: 34px;
   font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
@@ -562,11 +562,22 @@ button.swipe-overlay-light {
   margin: 20px 0;
   display: grid;
   border-radius: 2px;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   transition: 200ms;
 }
 
-.card > .card-img {
+.card-header {
+  color: #fff;
+  margin: 0 10px;
+  padding: 0 40px;
+  display: inline-flex;
+  justify-content: space-between;
+  /* background-color: chartreuse; */
+  position: relative;
+  top: 30px;
+}
+
+.grid-of-two > .card-img {
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -574,7 +585,7 @@ button.swipe-overlay-light {
   margin: 0 0;
 }
 
-.card > .card-img:hover {
+.card:hover > .grid-of-two > .card-img {
   background-size: 105%;
   transition: 200ms;
   transition-timing-function: ease;
@@ -585,7 +596,18 @@ button.swipe-overlay-light {
   position: relative;
   left: 0;
 }
-.card:hover > .card-text > .card-btn > .btn-arrow {
+
+.card:hover > .grid-of-two > .card-text > .mid-align > .card-btn > .btn-arrow {
+  left: 10px;
+}
+
+.card:hover
+  > .grid-of-two
+  > .card-text
+  > .mid-align
+  > a
+  > .card-btn
+  > .btn-arrow {
   left: 10px;
 }
 
@@ -594,17 +616,39 @@ button.swipe-overlay-light {
   left: 10px;
 }
 
+.half-card-text {
+  padding: 20px 40px;
+}
+
 .card-text > * {
   color: black;
 }
 
 .card-text {
   padding: 20px 40px;
+  height: 400px;
+  line-height: 400px;
+}
+
+.mid-align {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.mid-align > * {
+  color: #fff;
+  position: relative;
+  top: -30px;
 }
 
 @media only screen and (max-width: 800px) {
   .card-text {
-    padding: 20px 20px;
+    padding: 20px;
+  }
+
+  .card-header {
+    padding: 20px;
   }
 }
 
@@ -626,15 +670,12 @@ button.swipe-overlay-light {
   justify-self: end;
   font-weight: 600;
   position: relative;
-  left: -10px;
 }
 
 .logo-box {
   display: flex;
 
   justify-content: flex-end;
-
-  padding: 20px 40px;
 }
 
 @media only screen and (max-width: 800px) {
@@ -647,20 +688,12 @@ button.swipe-overlay-light {
   }
 }
 
-.bg-sherwin > .card-img {
-  background-image: url('../../assets/img/index/vcc.png');
-}
-
-.bg-sherwin > .card-text > * {
-  color: white;
-}
-
 .bg-naas {
-  background-color: #20436c;
+  background-color: #373738;
   cursor: default;
 }
 
-.bg-naas > .card-img {
+.bg-naas > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/naas.png');
 }
 
@@ -669,49 +702,73 @@ button.swipe-overlay-light {
 }
 
 .bg-pro {
-  background-color: #2d2d2e;
+  background-color: #373738;
   cursor: default;
 }
 
-.bg-pro > .card-img {
+.bg-pro > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/pro.png');
 }
 
 .bg-pro > .card-text > * {
   color: white;
 }
-
-.bg-lexio {
-  background-color: #229dd6;
+.bg-vcc {
+  background-color: #5c6450;
 }
 
-.bg-lexio > .card-img {
+.bg-vcc > .grid-of-two > .card-img {
+  background-image: url('../../assets/img/index/vcc.png');
+}
+
+.bg-vcc > .card-text > * {
+  color: white;
+}
+
+.bg-lexio {
+  background-color: #009edb;
+}
+
+.bg-lexio > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/lexio.png');
 }
 
-.bg-lexio > .card-text > * {
+.bg-lexio > .card-text > a > * {
   color: white;
+}
+
+.bg-bubble {
+  background-color: #f9f9fb;
+}
+
+.bg-bubble > .grid-of-two > .card-img {
+  background-image: url('../../assets/img/index/bubble.png');
+}
+.bg-bubble > .grid-of-two > .card-text > .mid-align > * {
+  color: #000;
 }
 
 .bg-crcr {
   background-color: #f9f9fb;
+}
+
+.bg-crcr > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/crcr.png');
+}
+.bg-crcr > .grid-of-two > .card-text > .mid-align > * {
+  color: #000;
 }
 
 .bg-nokia {
-  background-color: #16448f;
+  background-color: #183693;
 }
 
-.bg-nokia > .card-img {
+.bg-nokia > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/nokia.png');
 }
 
 .bg-nokia > .card-text > * {
   color: white;
-}
-
-.bg-sherwin {
-  background-color: #5c6450;
 }
 
 .bg-hxt {
@@ -724,19 +781,11 @@ button.swipe-overlay-light {
   color: rgb(0, 0, 0);
 }
 
-.bg-bubble {
-  background-color: #f9f9fb;
-}
-
-.bg-bubble > .card-img {
-  background-image: url('../../assets/img/index/bubble.png');
-}
-
 .bg-ticket {
-  background-color: #cd6013;
+  background-color: #373738;
 }
 
-.bg-ticket > .card-img {
+.bg-ticket > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/ticket.png');
 }
 
@@ -763,10 +812,10 @@ button.swipe-overlay-light {
 }
 
 .bg-yf {
-  background-color: #114fb9;
+  background-color: #2374fb;
 }
 
-.bg-yf > .card-img {
+.bg-yf > .grid-of-two > .card-img {
   background-image: url('../../assets/img/index/yf.png');
 }
 
@@ -775,7 +824,7 @@ button.swipe-overlay-light {
 }
 
 .half-card-img {
-  height: 200px;
+  height: 240px;
 }
 
 .half-cards {
